@@ -2,6 +2,7 @@
 
 # 1.2.1
 + Other:
+  - [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) repository created
   - Fixed `README.md`
   - Fixed `CHANGELOG.md`
 # 1.2.0
