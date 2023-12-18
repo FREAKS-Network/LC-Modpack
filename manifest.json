@@ -1,7 +1,7 @@
 {
     "name": "FREAKS_Modpack",
     "version_number": "1.2.1",
-    "website_url": "https://github.com/skarez",
+    "website_url": "https://github.com/SKAREZ/FREAKS-Modpack/",
     "description": "Private modpack from FREAKS®, including 40+ mods to improve QoL, gameplay, functionalities and more fun.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
