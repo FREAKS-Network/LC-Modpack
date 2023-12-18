@@ -1,6 +1,6 @@
 # FREAKS® Modpack 1.2.1
 ### Private modpack from FREAKS®, including 40+ mods to improve QoL, gameplay, functionalities and more fun.
-| [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/) | [Website](https://freaks-smp.fr/)
+| [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [Website](https://freaks-smp.fr/)
 |---|---|---|
 
 ## Installation
@@ -107,4 +107,4 @@ Some of the mods are client-sided only, and are here to improve game QoL mostly.
 
 </details>
 
-### We still recommend to enable all of the mods included in this pack to play easily and quick with your friends, if you encounter problems with some mods, you can report it via [GitHub](https://github.com/SKAREZ)
+### We still recommend to enable all of the mods included in this pack to play easily and quick with your friends, if you encounter problems with some mods, you can report it via [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/issues)
