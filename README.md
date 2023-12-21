@@ -1,20 +1,26 @@
-# FREAKS® Modpack 1.2.1
+# FREAKS® Modpack 1.3.0
 ### Private modpack from FREAKS®, including 40+ mods to improve QoL, gameplay, functionalities and more fun.
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [Website](https://freaks-smp.fr/)
 |---|---|---|
 
-## Installation
-Use the [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) or the [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) for installation
-- ### WE STRONGLY RECOMMEND EVERYONE TO CREATE A NEW PROFILE IN THE MOD MANAGER BEFORE INSTALL
-    - Check the `CHANGELOG.md` under for more informations!
+---
 
-## Mods configuration
-Our configuration of the mods are included in this pack, feel free to edit them with the [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) or the [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Edit config` tab.
+## 📥 Installation
+Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) for installation
 
-## Custom radio musics/sounds
-We included our custom radio musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten).
+1. In the game selection page, select Lethal Company.
+2. Then create a new profile.
+2.1. *If an older version of the modpack is already installed and you want to update it, we highly recommend everyone to create a new profile each time the modpack is updated.*
+3. When the profile is created and opened, click on `Install with Mod Manager` button.
+4. Done.
 
-<details><summary>Show</summary>
+## ⚙️ Mods configuration
+Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
+
+## 📻 Custom boombox musics/sounds
+We have included our custom boombox musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten).
+
+<details><summary>Show musics/sounds list</summary>
 
 + [Ah-ca-nn.mp3](https://audio.jukehost.co.uk/Vc1CXnt7s10t9A6Qb20NQHnvdZSCDAuy)
   - **VOLUME WARNING**
@@ -47,63 +53,72 @@ We included our custom radio musics/sounds, thanks to the [Custom Boombox Music]
 **They need manual installation**, here's how you can install them:
 
 1. Download the modpack manually
-2. Open [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) and select your profile
-3. Go into the settings of the Mod Manager, then in the `All` tab, click on `Browse profile folder`
+2. Open [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and select your profile
+3. Go into the settings, then in the `All` tab, click on `Browse profile folder`
 4. Drag and drop the `BepInEx` folder from the `.zip` to the profile folder that got opened
    - `X:\Users\%USER%\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\`
+   - OR
+   - `X:\Users\%USER%\AppData\Roaming\r2modmanPlus-local\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\`
 5. You can delete our custom musics/sounds, or add your own by going into
    - `X:\Users\%USER%\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\BepInEx\Custom Songs\Boombox Music\`
+   - OR
+   - `X:\Users\%USER%\AppData\Roaming\r2modmanPlus-local\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\Custom Songs\Boombox Music\`
 
 ### *You don't need to drag any other files exept `BepInEx`, do NOT replace the existing files*
 
-## Client-sided and Server-sided mods
-Some of the mods are client-sided only, and are here to improve game QoL mostly... But may you don't like some, so as they are client-sided mods, most of them can be disabled and you can still play with other players as long as you have the server-sided mods of the host of the game are enabled on your side. You can't disable server-sided mods and play with someone that is hosting a lobby with the presumed disabled server-sided mods!
+## ⚠️ Client-sided and Server-sided mods
+Here's a disclaimer: You can't disable server-sided mods and play with someone that is hosting a lobby with the presumed disabled server-sided mods!
 
-### List of the mods (A-Z)
+Here is a list of the mods, you can see wich one we don't recommend you to disable, and wich one you can without having any problems.
 
-<details><summary>Show</summary>
+<details><summary>Show mods list</summary>
 
-| Name | Disableable
-|--------|:--------:|
-| BepInExPack | No |
-| BepInUtils |  No |
-| BetterLethality | Yes |
-| Boombox_Controller | Not sure |
-| Custom_Boombox_Music | Yes |
-| DetailedScan | No |
-| EladsHUD | Yes |
-| FasterItemDropship | Not sure |
-| FOV_Adjust | Yes |
-| HDLethalCompany | Yes |
-| Helmet_Cameras | Not sure |
-| HideChat | Yes |
-| HideModList | Yes |
-| HotbarPlus | No |
-| IntroTweaks | Yes |
-| JumpDelayPatch | No |
-| LateCompany | Not sure |
-| Lategame_Upgrades | No |
-| LC_API | No |
-| LCBetterClock | Yes |
-| LCBetterSaves | Not sure |
-| LetMeLookDown | Not sure |
-| Mimics | No |
-| More_Emotes | No |
-| More_Suits | Yes |
-| MoreBlood | Yes |
-| MoreCompany | No |
-| PushCompany | No |
-| ReservedFlashlightSlot | No |
-| ReservedItemSlotCore | No |
-| ReservedWalkieSlot | No |
-| ShipLobby | Not sure |
-| ShipLoot | Yes |
-| Skinwalkers | Yes |
-| SuitSaver | Yes |
-| SuitsPlus | Yes |
-| TerminalApi | No |
-| TooManySuits | Yes |
-| VoiceHUD | Yes |
+|Mod Name|Disableable|
+|:--------|:--------:|
+|[AlwaysHearActiveTalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)|🔴|
+|[BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)|🔴|
+|[BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/)|🔴|
+|[BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)|🟢|
+|[Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)|🔴|
+|[Custom_Boombox_Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/)|🔴|
+|[DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/)|🔴|
+|[EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)|🟢|
+|[FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)|🔴|
+|[FOV_Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)|🟢|
+|[HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)|🟢|
+|[Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)|🔴|
+|[HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)|🟢|
+|[HideModList](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)|🟢|
+|[HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/)|🔴|
+|[HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)|🔴|
+|[IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)|🟢|
+|[JumpDelayPatch](https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/)|🔴|
+|[LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)|🔴|
+|[Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)|🔴|
+|[LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)|🔴|
+|[LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)|🟢|
+|[LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)|🔴|
+|[LetMeLookDown](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)|🔴|
+|[Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)|🔴|
+|[More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)|🔴|
+|[More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)|🔴|
+|[MoreBlood](https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/)|🟢|
+|[MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)|🔴|
+|[ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/)|🟢|
+|[PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)|🔴|
+|[ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)|🔴|
+|[ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)|🔴|
+|[ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)|🔴|
+|[ScalingStartCredits](https://thunderstore.io/c/lethal-company/p/sunnobunno/ScalingStartCredits/)|🔴|
+|[Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)|🟢|
+|[SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)|🔴|
+|[SuitsPlus](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)|🔴|
+|[TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)|🔴|
+|[TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)|🔴|
+|[VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)|🟢|
+
+- 🟢 = True
+- 🔴 = False
 
 </details>
 

@@ -1,5 +1,20 @@
-<details><summary>Show</summary>
+<details><summary>Show changelog list</summary>
 
+# 1.3.0
++ Added mods:
+  - [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
+  - [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
+  - [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
+  - [ScalingStartCredits](https://thunderstore.io/c/lethal-company/p/sunnobunno/ScalingStartCredits/)
+  - [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/)
++ Removed mods:
+  - [Boombox Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)
+  - [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)
+  - [ShipLobby](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)
+  - [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
++ Updated mods:
+  - [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `2.6.1 > 2.7.1`
+  - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.2.0 > 2.2.1`
 # 1.2.1
 + Other:
   - [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) repository created
@@ -8,23 +23,20 @@
   - Fixed `CHANGELOG.md`
 # 1.2.0
 + Added mods:
-  - [Boombox Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/) by [KoderTeh](https://thunderstore.io/c/lethal-company/p/KoderTeh/)
-  - [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/) by [Sligili](https://github.com/Sligili)
-  - [Lategame Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) by [Malcolm-Q](https://github.com/Malcolm-Q)
+  - [Boombox Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)
+  - [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
+  - [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
 + Removed mods:
-  - [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/) by [FlipMods](https://thunderstore.io/c/lethal-company/p/FlipMods/) *(Replaced with [Boombox Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/))*
+  - [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/)
 + Updated mods:
   - [BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/) `1.2.0 > 1.2.1`
   - [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) `1.3.2 > 1.3.4`
   - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.1.0 > 2.2.0`
   - [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) `1.2.1 > 1.2.2`
   - [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) `1.1.1 > 1.1.2`
-+ Note:
-  - You will need to create a new profile, or delete the old mods you installed, especially: [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/) by [FlipMods](https://thunderstore.io/c/lethal-company/p/FlipMods/), to not enter in conflict with the new mod that have been added to the modpack: [Boombox Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/) by [KoderTeh](https://thunderstore.io/c/lethal-company/p/KoderTeh/).
-      - There is the 1.2.0 profile import code if you don't want to do this yourself: `018c7dba-6e84-dd33-b187-ee88eaf104e3`
 # 1.1.0
 + Added mods:
-  - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) by [x753](https://github.com/x753)
+  - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
 + Updated mods:
   - [BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/) `1.1.0 > 1.2.0`
   - [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) `2.1.3 > 2.1.5`
