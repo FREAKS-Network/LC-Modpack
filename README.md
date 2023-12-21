@@ -1,20 +1,18 @@
-# FREAKS® Modpack 1.2.1
+# FREAKS® Modpack 1.3.0
 ### Private modpack from FREAKS®, including 40+ mods to improve QoL, gameplay, functionalities and more fun.
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [Website](https://freaks-smp.fr/)
 |---|---|---|
 
-## Installation
+## 📥 Installation
 Use the [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) or the [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) for installation
-- ### WE STRONGLY RECOMMEND EVERYONE TO CREATE A NEW PROFILE IN THE MOD MANAGER BEFORE INSTALL
-    - Check the `CHANGELOG.md` under for more informations!
 
-## Mods configuration
+## ⚙️ Mods configuration
 Our configuration of the mods are included in this pack, feel free to edit them with the [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) or the [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Edit config` tab.
 
-## Custom radio musics/sounds
-We included our custom radio musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten).
+## 📻 Custom boombox musics/sounds
+We included our custom boombox musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten).
 
-<details><summary>Show</summary>
+<details><summary>Show musics/sounds list</summary>
 
 + [Ah-ca-nn.mp3](https://audio.jukehost.co.uk/Vc1CXnt7s10t9A6Qb20NQHnvdZSCDAuy)
   - **VOLUME WARNING**
@@ -59,50 +57,48 @@ We included our custom radio musics/sounds, thanks to the [Custom Boombox Music]
 ## Client-sided and Server-sided mods
 Some of the mods are client-sided only, and are here to improve game QoL mostly... But may you don't like some, so as they are client-sided mods, most of them can be disabled and you can still play with other players as long as you have the server-sided mods of the host of the game are enabled on your side. You can't disable server-sided mods and play with someone that is hosting a lobby with the presumed disabled server-sided mods!
 
-### List of the mods (A-Z)
+### Here is a list of the mods, you can see wich one we don't recommend you to disable, and wich one you can without having any problems.
 
-<details><summary>Show</summary>
+<details><summary>Show mods list</summary>
 
 | Name | Disableable
 |--------|:--------:|
 | BepInExPack | No |
-| BepInUtils |  No |
-| BetterLethality | Yes |
-| Boombox_Controller | Not sure |
-| Custom_Boombox_Music | Yes |
+| BepInUtils | No |
+| Custom_Boombox_Music | No |
 | DetailedScan | No |
 | EladsHUD | Yes |
-| FasterItemDropship | Not sure |
+| FasterItemDropship | No |
 | FOV_Adjust | Yes |
 | HDLethalCompany | Yes |
-| Helmet_Cameras | Not sure |
+| Helmet_Cameras | No |
 | HideChat | Yes |
 | HideModList | Yes |
 | HotbarPlus | No |
 | IntroTweaks | Yes |
 | JumpDelayPatch | No |
-| LateCompany | Not sure |
+| LateCompany | No |
 | Lategame_Upgrades | No |
 | LC_API | No |
 | LCBetterClock | Yes |
-| LCBetterSaves | Not sure |
-| LetMeLookDown | Not sure |
+| LCBetterSaves | No |
+| LetMeLookDown | No |
 | Mimics | No |
 | More_Emotes | No |
-| More_Suits | Yes |
+| More_Suits | No |
 | MoreBlood | Yes |
 | MoreCompany | No |
+| ObjectVolumeController | Yes |
 | PushCompany | No |
 | ReservedFlashlightSlot | No |
 | ReservedItemSlotCore | No |
 | ReservedWalkieSlot | No |
-| ShipLobby | Not sure |
 | ShipLoot | Yes |
 | Skinwalkers | Yes |
-| SuitSaver | Yes |
-| SuitsPlus | Yes |
+| SuitSaver | No |
+| SuitsPlus | No |
 | TerminalApi | No |
-| TooManySuits | Yes |
+| TooManySuits | No |
 | VoiceHUD | Yes |
 
 </details>
