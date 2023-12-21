@@ -3,6 +3,7 @@
 # 1.2.1
 + Other:
   - [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) repository created
+  - Changed the keybinds for Night Vision toggle from `leftAlt` to `N`
   - Fixed `README.md`
   - Fixed `CHANGELOG.md`
 # 1.2.0
