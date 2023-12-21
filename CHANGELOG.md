@@ -1,5 +1,12 @@
-<details><summary>Show</summary>
+<details><summary>Show changelog list</summary>
 
+# 1.3.0
++ Added mods:
+  - [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/) by [FlipMods](https://thunderstore.io/c/lethal-company/p/FlipMods/)
++ Removed mods:
+  - [Boombox Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)
++ Profile code:
+  - `PLACEHOLDER`
 # 1.2.1
 + Other:
   - [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) repository created
