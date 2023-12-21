@@ -3,6 +3,8 @@
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [Website](https://freaks-smp.fr/)
 |---|---|---|
 
+---
+
 ## 📥 Installation
 Use the [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) or the [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) for installation
 
@@ -45,16 +47,20 @@ We included our custom boombox musics/sounds, thanks to the [Custom Boombox Musi
 **They need manual installation**, here's how you can install them:
 
 1. Download the modpack manually
-2. Open [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) and select your profile
-3. Go into the settings of the Mod Manager, then in the `All` tab, click on `Browse profile folder`
+2. Open [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) or [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and select your profile
+3. Go into the settings, then in the `All` tab, click on `Browse profile folder`
 4. Drag and drop the `BepInEx` folder from the `.zip` to the profile folder that got opened
    - `X:\Users\%USER%\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\`
+   - OR
+   - `X:\Users\%USER%\AppData\Roaming\r2modmanPlus-local\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\`
 5. You can delete our custom musics/sounds, or add your own by going into
    - `X:\Users\%USER%\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\BepInEx\Custom Songs\Boombox Music\`
+   - OR
+   - `X:\Users\%USER%\AppData\Roaming\r2modmanPlus-local\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\Custom Songs\Boombox Music\`
 
 ### *You don't need to drag any other files exept `BepInEx`, do NOT replace the existing files*
 
-## Client-sided and Server-sided mods
+## ⚠️ Client-sided and Server-sided mods
 Some of the mods are client-sided only, and are here to improve game QoL mostly... But may you don't like some, so as they are client-sided mods, most of them can be disabled and you can still play with other players as long as you have the server-sided mods of the host of the game are enabled on your side. You can't disable server-sided mods and play with someone that is hosting a lobby with the presumed disabled server-sided mods!
 
 ### Here is a list of the mods, you can see wich one we don't recommend you to disable, and wich one you can without having any problems.
