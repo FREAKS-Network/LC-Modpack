@@ -9,8 +9,12 @@
   - [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/)
 + Removed mods:
   - [Boombox Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)
-+ Profile code:
-  - `PLACEHOLDER`
+  - [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)
+  - [ShipLobby](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)
+  - [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
++ Updated mods:
+  - [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `2.6.1 > 2.7.1`
+  - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.2.0 > 2.2.1`
 # 1.2.1
 + Other:
   - [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) repository created
@@ -21,7 +25,7 @@
 + Added mods:
   - [Boombox Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)
   - [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
-  - [Lategame Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+  - [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
 + Removed mods:
   - [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/)
 + Updated mods:
