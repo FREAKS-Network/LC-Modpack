@@ -4,7 +4,7 @@
     "website_url": "https://github.com/SKAREZ/FREAKS-Modpack/",
     "description": "Private modpack from FREAKS®, including 50+ mods to improve QoL, gameplay, functionalities and more fun.",
     "dependencies": [
-    "2018-LC_API-2.3.0",
+    "2018-LC_API-3.3.0",
     "5Bit-FPSSpectate-1.0.1",
     "5Bit-VoiceHUD-1.0.4",
     "AllToasters-QuickRestart-1.2.0",
