@@ -1,5 +1,38 @@
 <details><summary>Show changelog list</summary>
 
+# 2.0.0
++ Added mods:
+  - [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
+  - [Corporate Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/)
+  - [DiscountAlert](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert/)
+  - [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+  - [FPSSpectate](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate/)
+  - [KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)
+  - [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/)
+  - [Permanent Ladder](https://thunderstore.io/c/lethal-company/p/Silvercore/Permanent_Ladder/)
+  - [QuickRestart](https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/)
++ Updated mods:
+  - [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) `2.1.6 > 2.1.8`
+  - [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) `1.4.2 > 1.5.3`
+  - [DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/) `1.1.2 > 1.2.1`
+  - [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) `1.3.4 > 1.4.7`
+  - [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/) `1.2.2 > 1.4.0`
+  - [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/) `1.0.6 > 1.0.9`
+  - [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `2.7.1 > 2.8.6`
+  - [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) `2.2.0 > 3.3.0`
+  - [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `0.7.0 > 0.10.1`
+  - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.2.1 > 2.3.0`
+  - [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `1.4.5 > 1.5.5`
+  - [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.4.4 > 1.7.7`
+  - [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) `1.4.6 > 1.5.3`
+  - [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) `1.4.0 > 1.5.0`
+  - [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) `1.0.4 > 1.0.5`
++ Other:
+  - Fixed `README.md`
+  - Fixed `LICENSE`
+  - Updated mods configuration
+> **Happy new year of 2024 to everyone, much love!**
+> - We have improved a lot our modpack, after using it for more than one month, the game seemed to be a little boring, so we added mods that improve gameplay and lifetime of the game, we will continue to add more mods that we like in the future, hope you guys will like it, and if you don't, you can disable the new mods, or play on older versions of the modpack!
 # 1.3.0
 + Added mods:
   - [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
