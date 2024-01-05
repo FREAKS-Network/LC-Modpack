@@ -7,6 +7,7 @@
   - [WASTE.mp3](https://audio.jukehost.co.uk/MZ9WUsaVcCDfxP3XPgwvZkXniWdn5T0k)
 + Other:
   - Fixed `README.md`
+  - Fixed `manifest.json`
 # 2.0.0
 + Added mods:
   - [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
