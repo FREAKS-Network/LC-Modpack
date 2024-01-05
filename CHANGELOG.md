@@ -1,5 +1,12 @@
 <details><summary>Show changelog list</summary>
 
+# 2.0.1
++ Added custom radio musics:
+  - [help_urself.mp3](https://audio.jukehost.co.uk/GuKJIPv6J8VRlrpKJdXb9WaffqpwLlYy)
+  - [M2LT.mp3](https://audio.jukehost.co.uk/c5sN9emtVaUIZeqFqsMjbYDhJEhZM8fk)
+  - [WASTE.mp3](https://audio.jukehost.co.uk/MZ9WUsaVcCDfxP3XPgwvZkXniWdn5T0k)
++ Other:
+  - Fixed `README.md`
 # 2.0.0
 + Added mods:
   - [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
@@ -84,7 +91,7 @@
   - [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) `1.0.2 > 1.1.1`
   - [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) `1.3.2 > 1.4.0`
   - [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) `1.0.1 > 1.0.4`
-+ Added custom radio musics:
++ Added custom boombox musics:
   - [Les_demons_de_minuit.mp3](https://www.youtube.com/watch?v=OP1Q1flNbVA)
 # 1.0.0
 + Release

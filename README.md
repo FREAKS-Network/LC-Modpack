@@ -1,20 +1,15 @@
 # FREAKS® Modpack 2.0.0
-### Private modpack from FREAKS®, including 40+ mods to improve QoL, gameplay, functionalities and more fun.
+### Private modpack from FREAKS®, including 50+ mods to improve QoL, gameplay, functionalities and more fun.
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [Website](https://freaks-smp.fr/)
 |---|---|---|
 
 ---
 
 ## 📥 Installation
-If you are using [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/):
 
-1. In the game selection page, select Lethal Company.
-2. Create a new profile.
-3. When the profile is created and selected, go to the `Online` tab, and search for `FREAKS Modpack`.
-4. Click on it, then click "Download".
-5. Done, don't forget to update the mods in the `Installed` tab
+Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and click on `Install with Mod Manager` right above.
 
-> If you are using [Thunderstore Mod Manager](https://www.overwolf.com/oneapp/Thunderstore-Thunderstore_Mod_Manager), click on `Install with Mod Manager` right above.
+> Please note that whenever the modpack gets an update, you will need to create a clean new profile into your [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and reinstall the modpack from this webpage or in the mod browser of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/).
 
 ## ⚙️ Mods configuration
 Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
@@ -32,15 +27,18 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 + [Fortnite-battle-pass.mp3](https://audio.jukehost.co.uk/on7zieh4TSylOPAFoEJccnYmGWcp40si) (VOLUME WARNING)
 + [Francis-Saussice.mp3](https://audio.jukehost.co.uk/eFBT2iKKbuxIDjUP38TPexdC8coTUcX1) (VOLUME WARNING)
 + [Gay-ou-hétéro.mp3](https://audio.jukehost.co.uk/qoMozZQK2biBW0Y8xxRntLqMuIPqZvA4)
++ [help_urself.mp3](https://audio.jukehost.co.uk/GuKJIPv6J8VRlrpKJdXb9WaffqpwLlYy)
 + [Jester.mp3](https://audio.jukehost.co.uk/2Ffv1oLrKTVXdMXs2LyvsHa1QUDrP4ZC)
 + [Le-chocolat-ou-les-noirs.mp3](https://audio.jukehost.co.uk/gxZ4T4tBSeHoprBsTGHHDYhtaZ3MJLob)
 + [Les-demons-de-minuit.mp3](https://audio.jukehost.co.uk/JI1klYKFPfktvsrvJZP0ZpSIjbRUNPaF)
++ [M2LT](https://audio.jukehost.co.uk/c5sN9emtVaUIZeqFqsMjbYDhJEhZM8fk)
 + [Mal-au-ventre.mp3](https://audio.jukehost.co.uk/AoZGxfNPlRCk3qVpN3dD69GEq5DIZmuy)
 + [Metal-pipe.mp3](https://audio.jukehost.co.uk/xxMxhhkFMtQa9vVuzZfDvxNzDOIZY71U) (VOLUME WARNING)
 + [Ta-gueule.mp3](https://audio.jukehost.co.uk/Gh4jlAjVLRhbenEyLmyMhxuOsKvMBYZt) (VOLUME WARNING)
 + [Tekno.mp3](https://audio.jukehost.co.uk/v2c4puIPAc58HRo8NGuXD4JhhQhvlPoi) (VOLUME WARNING)
 + [The-Spectre.mp3](https://audio.jukehost.co.uk/FXXHNom9n5e042TOEdaksMvD1xpayF4z)
 + [Thomas.mp3](https://audio.jukehost.co.uk/6aWAhbcgjx3RLveWulCNDW1l9LTgJ6Ld) (VOLUME WARNING)
++ [WASTE.mp3](https://audio.jukehost.co.uk/MZ9WUsaVcCDfxP3XPgwvZkXniWdn5T0k)
 
 </details>
 
