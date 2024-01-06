@@ -1,5 +1,36 @@
 <details><summary>Show changelog list</summary>
 
+# 2.1.0
++ Added mods:
+  - [AlwaysPickup](https://thunderstore.io/c/lethal-company/p/NutNutty/AlwaysPickup/)
+  - [CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)
+  - [RadarZoom](https://thunderstore.io/c/lethal-company/p/Piggy/RadarZoom/)
+  - [NoConsole](https://thunderstore.io/c/lethal-company/p/KennyCreations/NoConsole/)
+  - [ScannablePlayerItems](https://thunderstore.io/c/lethal-company/p/Graze/ScannablePlayerItems/)
+  - [Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)
+  - [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
++ Removed mods:
+  - [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+    > Replaced with [Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)
++ Updated mods:
+  - [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) `1.4.3 > 1.4.4`
+  - [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) `2.1.8 > 2.1.9`
+  - [DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/) `1.2.1 > 1.2.2`
+  - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.3.0 > 2.3.1`
+  - [SuitsPlus]https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/ `1.3.1 > 2.0.0`
++ Configuration:
+  - [KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)
+    - Adjusted the explosion probability from `10%` chance to `0.1%`
+      > This change as been tested a few times, it might still be too much, subject to change.
+  - [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+    - Disabled the `Fractured Leg` feature
+    - Disabled the `Fractured Arm` feature
+    - Disabled the `Broken Leg` feature
+    - Disabled the `Broken Arm` feature
+    - Disabled the `Bleeding` feature
+    - Disabled the `Blindness` feature
+    - Disabled the `Concussed` feature
+
 # 2.0.1
 + Added custom radio musics:
   - [help_urself.mp3](https://audio.jukehost.co.uk/GuKJIPv6J8VRlrpKJdXb9WaffqpwLlYy)
@@ -8,6 +39,7 @@
 + Other:
   - Fixed `README.md`
   - Fixed `manifest.json`
+
 # 2.0.0
 + Added mods:
   - [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
@@ -41,6 +73,7 @@
   - Updated mods configuration
 > **Happy new year of 2024 to everyone, much love!**
 > - We have improved a lot our modpack, after using it for more than one month, the game seemed to be a little boring, so we added mods that improve gameplay and lifetime of the game, we will continue to add more mods that we like in the future, hope you guys will like it, and if you don't, you can disable the new mods, or play on older versions of the modpack!
+
 # 1.3.0
 + Added mods:
   - [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
@@ -56,12 +89,16 @@
 + Updated mods:
   - [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `2.6.1 > 2.7.1`
   - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.2.0 > 2.2.1`
+
 # 1.2.1
++ Configuration:
+  - [Lategame_Upgrade](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/):
+    - Changed the keybind for toggle Night Vision Goggles from `leftAlt` to `N`
 + Other:
   - [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) repository created
-  - Changed the keybinds for Night Vision toggle from `leftAlt` to `N`
   - Fixed `README.md`
   - Fixed `CHANGELOG.md`
+
 # 1.2.0
 + Added mods:
   - [Boombox Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)
@@ -75,6 +112,7 @@
   - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.1.0 > 2.2.0`
   - [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) `1.2.1 > 1.2.2`
   - [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) `1.1.1 > 1.1.2`
+
 # 1.1.0
 + Added mods:
   - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
@@ -94,6 +132,7 @@
   - [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) `1.0.1 > 1.0.4`
 + Added custom boombox musics:
   - [Les_demons_de_minuit.mp3](https://www.youtube.com/watch?v=OP1Q1flNbVA)
+
 # 1.0.0
 + Release
 
