@@ -17,7 +17,7 @@
   - [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) `2.1.8 > 2.1.9`
   - [DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/) `1.2.1 > 1.2.2`
   - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.3.0 > 2.3.1`
-  - [SuitsPlus]https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/ `1.3.1 > 2.0.0`
+  - [SuitsPlus](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) `1.3.1 > 2.0.0`
 + Configuration:
   - [KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)
     - Adjusted the explosion probability from `10%` chance to `0.1%`
