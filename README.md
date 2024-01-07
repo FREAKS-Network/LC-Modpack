@@ -1,4 +1,4 @@
-# FREAKS® Modpack 2.1.0
+# FREAKS® Modpack 2.1.1
 ### Private modpack from FREAKS®, including 50+ mods to improve QoL, gameplay, functionalities and more fun.
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [Website](https://freaks-smp.fr/)
 |---|---|---|
@@ -72,6 +72,7 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |Mod Name|Disableable|
 |:--------|:--------:|
 |[AlwaysHearActiveTalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)|🔴|
+|[AlwaysPickup](https://thunderstore.io/c/lethal-company/p/NutNutty/AlwaysPickup/)|🔴|
 |[BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)|🔴|
 |[BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/)|🔴|
 |[BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)|🟢|
@@ -79,6 +80,7 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)|🔴|
 |[Corporate_Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/)|🔴|
 |[Custom_Boombox_Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/)|🔴|
+|[CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)|🔴|
 |[DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/)|🔴|
 |[DiscountAlert](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert/)|🟢|
 |[Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)|🔴|
@@ -87,7 +89,6 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[FOV_Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)|🟢|
 |[FPSSpectate](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate/)|🟢|
 |[HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)|🟢|
-|[Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)|🔴|
 |[HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)|🟢|
 |[HideModList](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)|🟢|
 |[HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/)|🔴|
@@ -107,10 +108,12 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[MoreBlood](https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/)|🟢|
 |[MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)|🔴|
 |[MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/)|🔴|
+|[NoConsole](https://thunderstore.io/c/lethal-company/p/KennyCreations/NoConsole/)|🟢|
 |[ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/)|🟢|
 |[Permanent_Ladder](https://thunderstore.io/c/lethal-company/p/Silvercore/Permanent_Ladder/)|🔴|
 |[PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)|🔴|
 |[QuickRestart](https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/)|🔴|
+|[RadarZoom](https://thunderstore.io/c/lethal-company/p/Piggy/RadarZoom/)|🔴|
 |[ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)|🔴|
 |[ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)|🔴|
 |[ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)|🔴|
@@ -121,6 +124,7 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)|🔴|
 |[TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)|🔴|
 |[VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)|🟢|
+|[YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)|🟢|
 
 </details>
 

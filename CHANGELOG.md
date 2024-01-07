@@ -1,5 +1,9 @@
 <details><summary>Show changelog list</summary>
 
+# 2.1.1
++ Other:
+  - Fixed `README.md`
+  - Fixed `manifest.json`
 # 2.1.0
 + Added mods:
   - [AlwaysPickup](https://thunderstore.io/c/lethal-company/p/NutNutty/AlwaysPickup/)
