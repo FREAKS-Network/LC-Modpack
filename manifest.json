@@ -1,6 +1,6 @@
 {
     "name": "FREAKS_Modpack",
-    "version_number": "2.1.1",
+    "version_number": "2.1.2",
     "website_url": "https://github.com/SKAREZ/FREAKS-Modpack/",
     "description": "Private modpack from FREAKS®, including 50+ mods to improve QoL, gameplay, functionalities and more fun.",
     "dependencies": [
@@ -26,7 +26,7 @@
     "FlipMods-LetMeLookDown-1.0.1",
     "FlipMods-MoreBlood-1.0.2",
     "FlipMods-ObjectVolumeController-1.0.3",
-    "FlipMods-ReservedFlashlightSlot-1.5.5",
+    "FlipMods-ReservedFlashlightSlot-1.5.7",
     "FlipMods-ReservedItemSlotCore-1.7.7",
     "FlipMods-ReservedWalkieSlot-1.5.3",
     "FREAKS-SuitsPlus-2.0.1",
