@@ -1,5 +1,23 @@
 <details><summary>Show changelog list</summary>
 
+# 2.1.2
++ Updated mods:
+  - [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `1.5.5 > 1.5.7`
++ Other:
+  - Deleted [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)'s configuration file since it got removed from the modpack
++ Configuration:
+  - [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
+    - Set the swapping mode from `Hold` to `Toggle` from the hotbar to the reserved slots (with the `Alt` key by default)
+  - [CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)
+    - Set the character limit of the translator from `10` to `16`
+  - [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
+    - Set Fog Quality from `High` to `Vanilla` by default
+    - Set LOD from `Low` to `High` by default
+  - [KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)
+    - Adjusted the explosion probability from `1%` to `0.25%`
+  - [Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)
+    - Camera resolution set as twice the originial value for better quality
+
 # 2.1.1
 + Updated mods:
   - [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) `1.4.3 > 1.4.4`
