@@ -1,4 +1,122 @@
-<details><summary>Show changelog list</summary>
+# 2.2.0
++ Added mods:
+  - [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
+  - [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
+  - [CarpetSound](https://thunderstore.io/c/lethal-company/p/YourFurnace/CarpetSound/)
+  - [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/)
+  - [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)
++ Removed mods:
+  - [AlwaysPickup](https://thunderstore.io/c/lethal-company/p/NutNutty/AlwaysPickup/)
+  - [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+    > Replaced with [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
+  - [NoConsole](https://thunderstore.io/c/lethal-company/p/KennyCreations/NoConsole/)
++ Updated mods:
+  - [Corporate Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/) `1.0.5 > 1.0.6`
+  - [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/) `1.1.8 > 1.1.10`
+  - [EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/) `1.1.0 > 1.2.1`
+  - [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) `1.4.8 > 1.5.0`
+  - [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/) `1.4.0 > 1.4.1`
+  - [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/) `1.0.9 > 1.0.10`
+  - [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `2.8.6 > 2.8.7`
+  - [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) `3.3.0 > 3.3.2`
+  - [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `0.10.1 > 0.10.3`
+  - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.3.1 > 2.3.2`
+  - [More_Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) `1.7.2 > 1.7.4`
+  - [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.7.7 > 1.8.1`
+  - [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) `2.0.1 > 2.0.5`
+  - [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) `1.1.2 > 1.1.4`
++ Other:
+  - Compatible with v47
+  - New icon
+  - Resorted dependencies list of `manifest.json`
++ Configuration:
+  - [BepInEx]()
+    - Console disabled/hided (useful for low-end computers)
+  - [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
+    - Adjusted Hotbar size from `1.0` to `0.90`
+    - Adjusted Hotbar scaping from `10` to `5`
+    - Adjusted Hotbar fade alpha from `0.13` to `0.5`
+    - The interval (delay) between dropping items is now set to vanilla to avoid a bug were you can't do nothing (interact, use, drop, swap items...)
+  - [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    - Advanced Portable Teleporter
+      - Item cost adjusted from `1750` to `1250`
+    - Back Muscles
+      - Tier I upgrade cost adjusted from `835` to `500`
+      - Tier II upgrade cost adjusted from `600` to `100`
+      - Tier III upgrade cost adjusted from `700` to `125`
+      - Tier IV upgrade cost adjusted from `800` to `150`
+    - Beekeeper 
+      - Tier I upgrade cost adjusted from `450` to `250`
+      - Tier II upgrade cost adjusted from `225` to `100`
+      - Tier III upgrade cost adjusted from `280` to `125`
+      - Tier IV upgrade cost adjusted from `340` to `150`
+    - Better Scanner
+      - Tier I upgrade cost adjusted from `650` to `500`
+      - Tier II upgrade cost adjusted from `500` to `250`
+      - Tier III upgrade cost adjusted from `800` to `100`
+    - Bigger Lungs
+      - Tier I upgrade cost adjusted from `700` to `500`
+      - Tier II upgrade cost adjusted from `350` to `100`
+      - Tier III upgrade cost adjusted from `450` to `125`
+      - Tier IV upgrade cost adjusted from `550` to `150`
+    - Discombobulator
+      - Tier I upgrade cost adjusted from `550` to `250`
+      - Tier II upgrade cost adjusted from `330` to `100`
+      - Tier III upgrade cost adjusted from `460` to `125`
+      - Tier IV upgrade cost adjusted from `620` to `150`
+    - Diving Kit
+      - Set has one handed item
+    - Fast Encryption
+      - Disabled
+    - Hunter
+      - Tier I upgrade cost adjusted from `700` to `500`
+      - Tier II upgrade cost adjusted from `500` to `100`
+      - Tier III upgrade cost adjusted from `600` to `100`
+    - Light Footed
+      - Tier I upgrade cost adjusted from `350` to `200`
+      - Tier II upgrade cost adjusted from `175` to `100`
+      - Tier III upgrade cost adjusted from `235` to `125`
+      - Tier IV upgrade cost adjusted from `290` to `150`
+    - Lightning Rod
+      - Upgrade cost adjusted from `1000` to `750`
+    - Locksmith
+      - Upgrade cost adjusted from `740` to `500`
+    - Malware Broadcaster
+      - Upgrade cost adjusted from `650` to `550`
+    - Medkit
+      - Item cost adjusted from `300` to `250`
+      - The amout of heal as been adjusted from `20` to `50`
+      - The number of uses as been adjusted from `3` to `1`
+    - Night Vision
+      - Item cost adjusted from `480` to `250`
+      - Tier II upgrade cost adjusted from `300` to `100`
+      - Tier III upgrade cost adjusted from `400` to `125`
+      - Tier IV upgrade cost adjusted from `500` to `150`
+    - Peeper
+      - Item cost adjusted from `500` to `250`
+    - Portable Teleporter
+      - Item cost adjusted from `300` to `250`
+    - Protein Powder
+      - Item cost adjusted from `500` to `250`
+      - Tier II upgrade cost adjusted from `700` to `250`
+    - Running Shoes
+      - Tier I upgrade cost adjusted from `1000` to `500`
+      - Tier II upgrade cost adjusted from `350` to `100`
+      - Tier III upgrade cost adjusted from `450` to `150`
+      - Tier IV upgrade cost adjusted from `550` to `200`
+    - Stimpack
+      - Tier I upgrade cost adjusted from `600` to `500`
+      - Tier II upgrade cost adjusted from `300` to `100`
+      - Tier III upgrade cost adjusted from `450` to `200`
+      - Tier IV upgrade cost adjusted from `600` to `300`
+    - Strong Legs
+      - Tier II upgrade cost adjusted from `150` to `100`
+      - Tier III upgrade cost adjusted from `190` to `125`
+      - Tier IV upgrade cost adjusted from `250` to `150`
+    - Walkie GPS
+      - Disabled 
+> **If you have any suggestions or ideas of what we can improve for thoses changes for Lategame Upgrades, feel free to make an issue on the [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/issues) page! We will check on it.** 
+> - We wanted Lategame Upgrades to be less harder, especially upgrades costs that were too overrated for the reward it gives. This mod adds plenty of new mechanics and items that needs to be playable more often even in early/mid game... So we made a few tweaks depending of what the upgrades and their different tiers gives, that we think are fair enough, some of are still subjects to change.
 
 # 2.1.2
 + Updated mods:
@@ -28,6 +146,7 @@
 + Other:
   - Fixed `README.md`
   - Fixed `manifest.json`
+
 # 2.1.0
 + Added mods:
   - [AlwaysPickup](https://thunderstore.io/c/lethal-company/p/NutNutty/AlwaysPickup/)
@@ -157,5 +276,3 @@
 
 # 1.0.0
 + Release
-
-</details>
