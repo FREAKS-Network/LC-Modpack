@@ -74,6 +74,7 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)|🔴|
 |[VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)|🟢|
 |[FPSSpectate](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate/)|🟢|
+|[LethalConfig](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/)|🟢|
 |[DiscountAlert](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert/)|🟢|
 |[QuickRestart](https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/)|🔴⚡|
 |[LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)|🔴⚡|
@@ -109,6 +110,7 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)|🔴⚡|
 |[JumpDelayPatch](https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/)|🔴|
 |[HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)|🟢|
+|[EnhancedRadarBooster](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/)|🔴⚡|
 |[LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)|🔴|
 |[TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)|🔴|
 |[MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)|🔴⚡|
@@ -119,6 +121,8 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[FOV_Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)|🟢|
 |[Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)|🟢|
 |[InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)|🔴|
+|[CompatibilityChecker](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/)|🟢|
+|[Buy_Any_Ship_Decoration](https://thunderstore.io/c/lethal-company/p/Sant5050/Buy_Any_Ship_Decoration/)|🔴⚡|
 |[Permanent_Ladder](https://thunderstore.io/c/lethal-company/p/Silvercore/Permanent_Ladder/)|🔴⚡|
 |[HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)|🟢|
 |[Custom_Boombox_Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/)|🟢|
