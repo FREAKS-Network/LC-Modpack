@@ -1,7 +1,11 @@
 # 2.2.1
 
-+ Added mods:
++ Added mods:	
+  + [Buy_Any_Ship_Decoration](https://thunderstore.io/c/lethal-company/p/Sant5050/Buy_Any_Ship_Decoration/)
+  + [CompatibilityChecker](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/)
+  + [EnhancedRadarBooster](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/)
   + [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
+  + [LethalConfig](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/) *(Mainly added for testing)*
   + [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
 + Removed mods:
   + [ScalingStartCredits](https://thunderstore.io/c/lethal-company/p/sunnobunno/ScalingStartCredits/)
