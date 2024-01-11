@@ -48,13 +48,13 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 2. Open [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and select your profile
 3. Go into the settings, then in the `All` tab, click on `Browse profile folder`
 4. Drag and drop the `BepInEx` folder from the `.zip` to the profile folder that got opened
-  - `X:\Users\%USER%\AppData\Roaming\r2modmanPlus-local\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\`
-  - OR
-  - `X:\Users\%USER%\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\`
+  + `X:\Users\%USER%\AppData\Roaming\r2modmanPlus-local\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\`
+  + OR
+  + `X:\Users\%USER%\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\`
 5. You can delete our custom musics/sounds, or add your own by going into
-  - `X:\Users\%USER%\AppData\Roaming\r2modmanPlus-local\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\Custom Songs\Boombox Music\`
-  - OR
-  - `X:\Users\%USER%\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\BepInEx\Custom Songs\Boombox Music\`
+  + `X:\Users\%USER%\AppData\Roaming\r2modmanPlus-local\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\Custom Songs\Boombox Music\`
+  + OR
+  + `X:\Users\%USER%\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\BepInEx\Custom Songs\Boombox Music\`
 
 > *You don't need to drag any other files exept `BepInEx`, do NOT replace the existing files*
 >> You can add your own custom musics/sounds into the same folder patch as above, needs be an `.mp3` or `.wav`
@@ -68,63 +68,68 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 
 <details><summary>Show mods list</summary>
 
-### `🟢 Yes` `🔴 No`
+### `🟢 Yes` `🔴 No` `⚡ Host Need`
 |Mod Name|Disableable|
 |:--------|:--------:|
-|[AlwaysHearActiveTalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)|🔴|
-|[AlwaysPickup](https://thunderstore.io/c/lethal-company/p/NutNutty/AlwaysPickup/)|🔴|
-|[BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)|🔴|
-|[BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/)|🔴|
-|[BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)|🟢|
-|[BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)|🔴|
-|[Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)|🔴|
-|[Corporate_Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/)|🔴|
-|[Custom_Boombox_Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/)|🔴|
-|[CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)|🔴|
-|[DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/)|🔴|
-|[DiscountAlert](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert/)|🟢|
-|[Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)|🔴|
-|[EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)|🟢|
-|[FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)|🔴|
-|[FOV_Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)|🟢|
-|[FPSSpectate](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate/)|🟢|
-|[HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)|🟢|
-|[HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)|🟢|
-|[HideModList](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)|🟢|
-|[HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/)|🔴|
-|[HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)|🔴|
-|[IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)|🟢|
-|[JumpDelayPatch](https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/)|🔴|
-|[KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)|🔴|
-|[LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)|🔴|
-|[Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)|🔴|
 |[LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)|🔴|
-|[LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)|🟢|
-|[LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)|🔴|
-|[LetMeLookDown](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)|🔴|
-|[Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)|🔴|
-|[More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)|🔴|
-|[More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)|🔴|
-|[MoreBlood](https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/)|🟢|
-|[MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)|🔴|
-|[MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/)|🔴|
-|[NoConsole](https://thunderstore.io/c/lethal-company/p/KennyCreations/NoConsole/)|🟢|
-|[ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/)|🟢|
-|[Permanent_Ladder](https://thunderstore.io/c/lethal-company/p/Silvercore/Permanent_Ladder/)|🔴|
-|[PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)|🔴|
-|[QuickRestart](https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/)|🔴|
-|[RadarZoom](https://thunderstore.io/c/lethal-company/p/Piggy/RadarZoom/)|🔴|
-|[ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)|🔴|
-|[ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)|🔴|
-|[ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)|🔴|
-|[ScalingStartCredits](https://thunderstore.io/c/lethal-company/p/sunnobunno/ScalingStartCredits/)|🔴|
-|[Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)|🟢|
-|[SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)|🔴|
-|[SuitsPlus](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)|🔴|
-|[TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)|🔴|
-|[TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)|🔴|
 |[VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)|🟢|
+|[FPSSpectate](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate/)|🟢|
+|[DiscountAlert](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert/)|🟢|
+|[QuickRestart](https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/)|🔴⚡|
+|[LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)|🔴⚡|
+|[Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)|🔴⚡|
+|[BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)|🔴|
+|[LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)|🟢|
+|[CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)|🔴⚡|
+|[Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)|🟢|
+|[CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/)|🔴|
+|[KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)|🔴⚡|
+|[MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/)|🔴⚡|
+|[EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)|🟢|
+|[Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)|🔴⚡|
+|[LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)|🔴⚡|
+|[HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/)|🔴⚡|
+|[DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/)|🔴⚡|
+|[ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)|🔴⚡|
+|[HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)|🔴⚡|
+|[ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)|🔴⚡|
+|[FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)|🔴⚡|
+|[ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)|🔴⚡|
+|[MoreBlood](https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/)|🟢|
+|[ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/)|🟢|
+|[LetMeLookDown](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)|🔴|
+|[SuitsPlus](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)|🟢|
+|[ScannablePlayerItems](https://thunderstore.io/c/lethal-company/p/Graze/ScannablePlayerItems/)|🟢|
+|[SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)|🔴|
+|[MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)|🔴⚡|
+|[Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)|🔴⚡|
+|[Corporate_Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/)|🔴|
+|[BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)|🔴|
+|[Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)|🔴⚡|
+|[PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)|🔴⚡|
+|[JumpDelayPatch](https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/)|🔴|
+|[HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)|🟢|
+|[LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)|🔴|
+|[TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)|🔴|
+|[MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)|🔴⚡|
+|[IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)|🟢|
+|[BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/)|🔴|
+|[RadarZoom](https://thunderstore.io/c/lethal-company/p/Piggy/RadarZoom/)|🔴⚡|
+|[BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)|🟢|
+|[FOV_Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)|🟢|
+|[Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)|🟢|
+|[InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)|🔴|
+|[Permanent_Ladder](https://thunderstore.io/c/lethal-company/p/Silvercore/Permanent_Ladder/)|🔴⚡|
+|[HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)|🟢|
+|[Custom_Boombox_Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/)|🟢|
 |[YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)|🟢|
+|[AlwaysHearActiveTalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)|🟢|
+|[HideModList](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)|🟢|
+|[BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)|🔴⚡|
+|[TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)|🟢|
+|[Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)|🔴⚡|
+|[More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)|🟢|
+|[CarpetSound](https://thunderstore.io/c/lethal-company/p/YourFurnace/CarpetSound/)|🟢|
 
 </details>
 
