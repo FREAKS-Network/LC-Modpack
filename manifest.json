@@ -2,7 +2,7 @@
     "name": "FREAKS_Modpack",
     "version_number": "2.2.1",
     "website_url": "https://github.com/SKAREZ/FREAKS-Modpack/",
-    "description": "[v47/48/49] Private modpack from FREAKS®, including 60+ mods to improve QoL, gameplay, functionalities and more fun.",
+    "description": "[v49] Private modpack from FREAKS®, including 60+ mods to improve QoL, gameplay, functionalities and more fun.",
     "dependencies": [
     "2018-LC_API-3.3.2",
     "5Bit-VoiceHUD-1.0.4",
