@@ -11,7 +11,9 @@
   + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `2.8.7 > 2.8.8`
   + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `0.10.3 > 0.11.1`
   + [More_Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) `1.7.2 > 1.7.4`
-  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.8.1 > 1.8.5`
+  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `1.5.7 > 1.5.8`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.8.1 > 1.8.6`
+  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) `1.5.3 > 1.5.4`
   + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) `2.0.5 > 2.0.6`
   + [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) `1.2.2 > 1.2.3`
 + Added custom boombox musics:
@@ -81,8 +83,8 @@
   + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) `2.0.1 > 2.0.5`
   + [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) `1.1.2 > 1.1.4`
 + Other:
-  + Compatible with v47
-  + Resorted dependencies list of `manifest.json`
+  + Compatibility with v47
+  + Sorted dependencies list of `manifest.json`
 + Configuration:
   + [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
     + Console disabled/hided (useful for low-end computers)
@@ -90,7 +92,7 @@
     + Adjusted Hotbar size from `1.0` to `0.90`
     + Adjusted Hotbar spacing from `10` to `5`
     + Adjusted Hotbar fade alpha from `0.13` to `0.5`
-    + The interval (delay) between dropping items is now set to vanilla to avoid a bug were you can't do nothing (interact, use, drop, swap items...)
+    + Set `UseDefaultItemDropInterval` bool from `true` to `false`
   + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
     + Advanced Portable Teleporter
       + Item cost adjusted from `1750` to `1250`
@@ -177,7 +179,7 @@
   + Deleted [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)'s configuration file since it got removed from the modpack
 + Configuration:
   + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
-    + Set the swapping mode from `Hold` to `Toggle` from the hotbar to the reserved slots (with the `Alt` key by default)
+    + Set the swapping mode from `Hold` to `Toggle` from the hotbar to the reserved slots (with the <kbd>leftAlt</kbd> key by default)
   + [CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)
     + Set the character limit of the translator from `10` to `16`
   + [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
@@ -294,7 +296,7 @@
 
 + Configuration:
   + [Lategame_Upgrade](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/):
-    + Changed the keybind for toggle Night Vision Goggles from `leftAlt` to `N`
+    + Changed the keybind for toggle Night Vision Goggles from <kbd>leftAlt</kbd> to <kbd>N</kbd>
 + Other:
   + [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) repository created
   + Fixed `README.md`
