@@ -1,4 +1,5 @@
 # 2.2.2
+
 + Added mods:
   + [BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/)
   + [BuyableShotgunShells](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/)
@@ -26,6 +27,7 @@
     + Set `SpiderSlow` from `0.8` to `1.0`
   + [NameplateTweaks](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
     + Disabled player nametag to fit better with the [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) mod
+
 # 2.2.1
 
 + Added mods:
