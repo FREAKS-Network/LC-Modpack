@@ -1,6 +1,36 @@
+# 2.2.2
+
++ Added mods:
+  + [BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/)
+  + [BuyableShotgunShells](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/)
+  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
+  + [InfiniteEmote](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/InfiniteEmote/)
+  + [KeyRing](https://thunderstore.io/c/lethal-company/p/ic23/KeyRing/)
+  + [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+  + [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/)
+  + [Runtime_Netcode_Patcher](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)
++ Updated mods:
+  + [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) `1.0.1 > 1.0.2`
+  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `0.11.1 > 0.11.2`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.8.6 > 1.8.8`
++ Removed mods:
+  + [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
+    > Replaced with [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+  + [RadarZoom](https://thunderstore.io/c/lethal-company/p/Piggy/RadarZoom/)
++ Other:
+  + Updated `BepInEx\config\*.cfg` files from outdated bools and settings that were still in some configurations
++ Configuration:
+  + [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
+    + Set `NumberOfSmilers` from `1` to `3`
+  + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+    + Set `CrawlerSlow` from `0.9` to `1.0`
+    + Set `SpiderSlow` from `0.8` to `1.0`
+  + [NameplateTweaks](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
+    + Disabled player nametag to fit better with the [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) mod
+
 # 2.2.1
 
-+ Added mods:	
++ Added mods:
   + [Buy_Any_Ship_Decoration](https://thunderstore.io/c/lethal-company/p/Sant5050/Buy_Any_Ship_Decoration/)
   + [CompatibilityChecker](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/)
   + [EnhancedRadarBooster](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/)
@@ -41,23 +71,23 @@
   + [CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)
     + Set the character limit of the translator from `16` to `24`
   + [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
-    + Adjusted emote cooldown from `0.5` to `0`
+    + Set emote cooldown from `0.5` to `0`
   + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
     + Set `UseItemQuickDropConfig` bool from `true` to `false`
   + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
     + Hunter
-      + Tier II upgrade cost adjusted from `100` to `250`
-      + Tier III upgrade cost adjusted from `100` to `250`
+      + Tier II upgrade cost set from `100` to `250`
+      + Tier III upgrade cost set from `100` to `250`
     + Stimpack
-      + Tier II upgrade cost adjusted from `100` to `250`
-      + Tier III upgrade cost adjusted from `200` to `250`
-      + Tier IV upgrade cost adjusted from `300` to `250`
+      + Tier II upgrade cost set from `100` to `250`
+      + Tier III upgrade cost set from `200` to `250`
+      + Tier IV upgrade cost set from `300` to `250`
     + Strong Legs
-      + Tier II upgrade cost adjusted from `150` to `100`
-      + Tier III upgrade cost adjusted from `190` to `125`
-      + Tier IV upgrade cost adjusted from `250` to `150`
+      + Tier II upgrade cost set from `150` to `100`
+      + Tier III upgrade cost set from `190` to `125`
+      + Tier IV upgrade cost set from `250` to `150`
   + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
-    + Adjusted SFX volume from `100` to `75`
+    + Set SFX volume from `100` to `75`
 
 # 2.2.0
 
@@ -93,81 +123,81 @@
   + [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
     + Console disabled/hided (useful for low-end computers)
   + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
-    + Adjusted Hotbar size from `1.0` to `0.90`
-    + Adjusted Hotbar spacing from `10` to `5`
-    + Adjusted Hotbar fade alpha from `0.13` to `0.5`
-    + Set `UseDefaultItemDropInterval` bool from `true` to `false`
+    + Set `OverrideHotbarHudSize` from `1.0` to `0.90`
+    + Set `OverrideHotbarHudSpacing` from `10` to `5`
+    + Set `OverrideFadeHudAlpha` from `0.13` to `0.5`
+    + Set `UseDefaultItemDropInterval` from `true` to `false`
   + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
     + Advanced Portable Teleporter
-      + Item cost adjusted from `1750` to `1250`
+      + Item cost set from `1750` to `1250`
     + Back Muscles
-      + Tier I upgrade cost adjusted from `835` to `500`
-      + Tier II upgrade cost adjusted from `600` to `100`
-      + Tier III upgrade cost adjusted from `700` to `125`
-      + Tier IV upgrade cost adjusted from `800` to `150`
+      + Tier I upgrade cost set from `835` to `500`
+      + Tier II upgrade cost set from `600` to `100`
+      + Tier III upgrade cost set from `700` to `125`
+      + Tier IV upgrade cost set from `800` to `150`
     + Beekeeper
-      + Tier I upgrade cost adjusted from `450` to `250`
-      + Tier II upgrade cost adjusted from `225` to `100`
-      + Tier III upgrade cost adjusted from `280` to `125`
-      + Tier IV upgrade cost adjusted from `340` to `150`
+      + Tier I upgrade cost set from `450` to `250`
+      + Tier II upgrade cost set from `225` to `100`
+      + Tier III upgrade cost set from `280` to `125`
+      + Tier IV upgrade cost set from `340` to `150`
     + Better Scanner
-      + Tier I upgrade cost adjusted from `650` to `500`
-      + Tier II upgrade cost adjusted from `500` to `250`
-      + Tier III upgrade cost adjusted from `800` to `100`
+      + Tier I upgrade cost set from `650` to `500`
+      + Tier II upgrade cost set from `500` to `250`
+      + Tier III upgrade cost set from `800` to `100`
     + Bigger Lungs
-      + Tier I upgrade cost adjusted from `700` to `500`
-      + Tier II upgrade cost adjusted from `350` to `100`
-      + Tier III upgrade cost adjusted from `450` to `125`
-      + Tier IV upgrade cost adjusted from `550` to `150`
+      + Tier I upgrade cost set from `700` to `500`
+      + Tier II upgrade cost set from `350` to `100`
+      + Tier III upgrade cost set from `450` to `125`
+      + Tier IV upgrade cost set from `550` to `150`
     + Discombobulator
-      + Tier I upgrade cost adjusted from `550` to `250`
-      + Tier II upgrade cost adjusted from `330` to `100`
-      + Tier III upgrade cost adjusted from `460` to `125`
-      + Tier IV upgrade cost adjusted from `620` to `150`
+      + Tier I upgrade cost set from `550` to `250`
+      + Tier II upgrade cost set from `330` to `100`
+      + Tier III upgrade cost set from `460` to `125`
+      + Tier IV upgrade cost set from `620` to `150`
     + Diving Kit
       + Set has one handed item
     + Fast Encryption
       + Disabled
     + Hunter
-      + Tier I upgrade cost adjusted from `700` to `500`
-      + Tier II upgrade cost adjusted from `500` to `100`
-      + Tier III upgrade cost adjusted from `600` to `100`
+      + Tier I upgrade cost set from `700` to `500`
+      + Tier II upgrade cost set from `500` to `100`
+      + Tier III upgrade cost set from `600` to `100`
     + Lightning Rod
-      + Upgrade cost adjusted from `1000` to `750`
+      + Upgrade cost set from `1000` to `750`
     + Locksmith
-      + Upgrade cost adjusted from `740` to `500`
+      + Upgrade cost set from `740` to `500`
     + Malware Broadcaster
-      + Upgrade cost adjusted from `650` to `550`
+      + Upgrade cost set from `650` to `550`
     + Medkit
-      + Item cost adjusted from `300` to `250`
-      + The amout of heal as been adjusted from `20` to `50`
-      + The number of uses as been adjusted from `3` to `1`
+      + Item cost set from `300` to `250`
+      + The amout of heal as been set from `20` to `50`
+      + The number of uses as been set from `3` to `1`
     + Night Vision
-      + Item cost adjusted from `480` to `250`
-      + Tier II upgrade cost adjusted from `300` to `100`
-      + Tier III upgrade cost adjusted from `400` to `125`
-      + Tier IV upgrade cost adjusted from `500` to `150`
+      + Item cost set from `480` to `250`
+      + Tier II upgrade cost set from `300` to `100`
+      + Tier III upgrade cost set from `400` to `125`
+      + Tier IV upgrade cost set from `500` to `150`
     + Peeper
-      + Item cost adjusted from `500` to `250`
+      + Item cost set from `500` to `250`
     + Portable Teleporter
-      + Item cost adjusted from `300` to `250`
+      + Item cost set from `300` to `250`
     + Protein Powder
-      + Item cost adjusted from `500` to `250`
-      + Tier II upgrade cost adjusted from `700` to `250`
+      + Item cost set from `500` to `250`
+      + Tier II upgrade cost set from `700` to `250`
     + Running Shoes
-      + Tier I upgrade cost adjusted from `1000` to `500`
-      + Tier II upgrade cost adjusted from `350` to `100`
-      + Tier III upgrade cost adjusted from `450` to `150`
-      + Tier IV upgrade cost adjusted from `550` to `200`
+      + Tier I upgrade cost set from `1000` to `500`
+      + Tier II upgrade cost set from `350` to `100`
+      + Tier III upgrade cost set from `450` to `150`
+      + Tier IV upgrade cost set from `550` to `200`
     + Stimpack
-      + Tier I upgrade cost adjusted from `600` to `500`
-      + Tier II upgrade cost adjusted from `300` to `100`
-      + Tier III upgrade cost adjusted from `450` to `200`
-      + Tier IV upgrade cost adjusted from `600` to `300`
+      + Tier I upgrade cost set from `600` to `500`
+      + Tier II upgrade cost set from `300` to `100`
+      + Tier III upgrade cost set from `450` to `200`
+      + Tier IV upgrade cost set from `600` to `300`
     + Strong Legs
-      + Tier II upgrade cost adjusted from `150` to `100`
-      + Tier III upgrade cost adjusted from `190` to `125`
-      + Tier IV upgrade cost adjusted from `250` to `150`
+      + Tier II upgrade cost set from `150` to `100`
+      + Tier III upgrade cost set from `190` to `125`
+      + Tier IV upgrade cost set from `250` to `150`
     + Walkie GPS
       + Disabled
 
@@ -190,7 +220,7 @@
     + Set Fog Quality from `High` to `Vanilla` by default
     + Set LOD from `Low` to `High` by default
   + [KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)
-    + Adjusted the explosion probability from `1%` to `0.25%`
+    + Set the explosion probability from `1%` to `0.25%`
   + [Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)
     + Camera resolution set as twice the originial value for better quality
 
@@ -221,7 +251,7 @@
     > Replaced with [Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)
 + Configuration:
   + [KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)
-    + Adjusted the explosion probability from `10%` chance to `0.1%`
+    + Set the explosion probability from `10%` chance to `0.1%`
       > This change as been tested a few times, it might still be too much, subject to change.
   + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
     + Disabled the `Fractured Leg` feature

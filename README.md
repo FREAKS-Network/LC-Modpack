@@ -1,4 +1,4 @@
-# FREAKS® Modpack 2.2.1
+# FREAKS® Modpack 2.2.2
 ### Private modpack from FREAKS®, including 60+ mods to improve QoL, gameplay, functionalities and more fun.
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [Website](https://freaks-smp.fr/)
 |---|---|---|
@@ -19,25 +19,36 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 
 <details><summary>Show musics/sounds list</summary>
 
++ [0bpm.mp3](https://audio.jukehost.co.uk/V2izPe5uZdrXXQMUG3JwWkIa47EiP708)
++ [1992-CRX.mp3](https://audio.jukehost.co.uk/irLjOq50HV5N46pWsQhhg2jNqvvOCKPR)
 + [Ah-ca-nn.mp3](https://audio.jukehost.co.uk/Vc1CXnt7s10t9A6Qb20NQHnvdZSCDAuy) (VOLUME WARNING)
++ [BAIXO.mp3](https://audio.jukehost.co.uk/i72fNIGUlkEyTl3OQ1vrdJnV1bZGcjMY)
 + [Chef.mp3](https://audio.jukehost.co.uk/KsEyEeVqy2MlzEXk8qEocuAYi38m1cO5)
 + [Did-you-pray-today.mp3](https://audio.jukehost.co.uk/LQCjys93TgTPrmAR7cevgHcqwLVabCsC)
 + [Earrape.mp3](https://audio.jukehost.co.uk/7IAT6tVXAlF5zusOby1ZckTz2nCRUL0G) (VOLUME WARNING)
 + [Everlong.mp3](https://audio.jukehost.co.uk/oqZF4xLJBhzKmwk8aryqzA4YgxydXJ1y)
++ [Farfadet-maléfique.mp3](https://audio.jukehost.co.uk/6gPldMOl23TCPeG06JsSC6qYEqfOTccp)
 + [Fortnite-battle-pass.mp3](https://audio.jukehost.co.uk/on7zieh4TSylOPAFoEJccnYmGWcp40si) (VOLUME WARNING)
 + [Francis-Saussice.mp3](https://audio.jukehost.co.uk/eFBT2iKKbuxIDjUP38TPexdC8coTUcX1) (VOLUME WARNING)
 + [Gay-ou-hétéro.mp3](https://audio.jukehost.co.uk/qoMozZQK2biBW0Y8xxRntLqMuIPqZvA4)
 + [help_urself.mp3](https://audio.jukehost.co.uk/GuKJIPv6J8VRlrpKJdXb9WaffqpwLlYy)
++ [jena-lee-mkX.mp3](https://audio.jukehost.co.uk/bGwlc9xcJhTweUzD4sApRtBZvTPmPdVq)
 + [Jester.mp3](https://audio.jukehost.co.uk/2Ffv1oLrKTVXdMXs2LyvsHa1QUDrP4ZC)
++ [JE-SUIS-MUSIK.mp3](https://audio.jukehost.co.uk/jpE6iSm1cAz3u1kOqQmlWf3sowtgP2ol)
 + [Le-chocolat-ou-les-noirs.mp3](https://audio.jukehost.co.uk/gxZ4T4tBSeHoprBsTGHHDYhtaZ3MJLob)
 + [Les-demons-de-minuit.mp3](https://audio.jukehost.co.uk/JI1klYKFPfktvsrvJZP0ZpSIjbRUNPaF)
-+ [M2LT](https://audio.jukehost.co.uk/c5sN9emtVaUIZeqFqsMjbYDhJEhZM8fk)
++ [look-alike.mp3](https://audio.jukehost.co.uk/xtoPNnkRpmXpn87chafmtCl0ugICTvtv)
++ [M2LT.mp3](https://audio.jukehost.co.uk/c5sN9emtVaUIZeqFqsMjbYDhJEhZM8fk)
 + [Mal-au-ventre.mp3](https://audio.jukehost.co.uk/AoZGxfNPlRCk3qVpN3dD69GEq5DIZmuy)
 + [Metal-pipe.mp3](https://audio.jukehost.co.uk/xxMxhhkFMtQa9vVuzZfDvxNzDOIZY71U) (VOLUME WARNING)
++ [MONEY-ON-THE-DASH](https://audio.jukehost.co.uk/IYWzzoW12vSA4mNYyXNjAiYkN0swKvHF)
++ [Offline-!.mp3](https://audio.jukehost.co.uk/u3b3OSgQXWFXll3Rob166tK9jHzO3P61)
++ [Psychotic.mp3](https://audio.jukehost.co.uk/hzru5En5fP5JAV5EQrQDYBQ93RO0TIjs)
 + [Ta-gueule.mp3](https://audio.jukehost.co.uk/Gh4jlAjVLRhbenEyLmyMhxuOsKvMBYZt) (VOLUME WARNING)
 + [Tekno.mp3](https://audio.jukehost.co.uk/v2c4puIPAc58HRo8NGuXD4JhhQhvlPoi) (VOLUME WARNING)
 + [The-Spectre.mp3](https://audio.jukehost.co.uk/FXXHNom9n5e042TOEdaksMvD1xpayF4z)
 + [Thomas.mp3](https://audio.jukehost.co.uk/6aWAhbcgjx3RLveWulCNDW1l9LTgJ6Ld) (VOLUME WARNING)
++ [vivienne-westwood.mp3](https://audio.jukehost.co.uk/8dnZ14IVJPUBjkoP41P9Q7K7xCHlLFKV)
 + [WASTE.mp3](https://audio.jukehost.co.uk/MZ9WUsaVcCDfxP3XPgwvZkXniWdn5T0k)
 
 </details>
