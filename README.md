@@ -1,4 +1,4 @@
-# FREAKS® Modpack 2.2.2
+# FREAKS® Modpack 2.2.3
 ### Private modpack from FREAKS®, including 60+ mods to improve QoL, gameplay, functionalities and more fun.
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [Website](https://freaks-smp.fr/)
 |---|---|---|
