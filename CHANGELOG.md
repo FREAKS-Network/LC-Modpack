@@ -1,3 +1,20 @@
+# 2.2.3
+
++ Added mods:
+  + [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
+  + [MasterKey](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/MasterKey/)
++ Removed mods:
+  + [CompatibilityChecker](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/)
+  + [KeyRing](https://thunderstore.io/c/lethal-company/p/ic23/KeyRing/)
+    > Replaced with [MasterKey](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/MasterKey/)
+  + [NameplateTweaks](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
++ Configuration:
+  + [InfiniteEmote](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/InfiniteEmote/)
+    + Set `Grabbing` bool from `false` to `true`
+    + Set `StopEmoteKey` keybind from <kbd>V</kbd> to <kbd>Middle Mouse Button</kbd>
+  + [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+    + Set `ConfigFile` bool from `true` to `false`
+
 # 2.2.2
 
 + Added mods:
@@ -21,10 +38,10 @@
   + Updated `BepInEx\config\*.cfg` files from outdated bools and settings that were still in some configurations
 + Configuration:
   + [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
-    + Set `NumberOfSmilers` from `1` to `3`
+    + Set `NumberOfSmilers` setting from `1` to `3`
   + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
-    + Set `CrawlerSlow` from `0.9` to `1.0`
-    + Set `SpiderSlow` from `0.8` to `1.0`
+    + Set `CrawlerSlow` setting from `0.9` to `1.0`
+    + Set `SpiderSlow` setting from `0.8` to `1.0`
   + [NameplateTweaks](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
     + Disabled player nametag to fit better with the [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) mod
 
@@ -123,10 +140,10 @@
   + [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
     + Console disabled/hided (useful for low-end computers)
   + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
-    + Set `OverrideHotbarHudSize` from `1.0` to `0.90`
-    + Set `OverrideHotbarHudSpacing` from `10` to `5`
-    + Set `OverrideFadeHudAlpha` from `0.13` to `0.5`
-    + Set `UseDefaultItemDropInterval` from `true` to `false`
+    + Set `OverrideHotbarHudSize` setting from `1.0` to `0.90`
+    + Set `OverrideHotbarHudSpacing` setting from `10` to `5`
+    + Set `OverrideFadeHudAlpha` setting from `0.13` to `0.5`
+    + Set `UseDefaultItemDropInterval` bool from `true` to `false`
   + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
     + Advanced Portable Teleporter
       + Item cost set from `1750` to `1250`
@@ -202,8 +219,8 @@
       + Disabled
 
 > **If you have any suggestions or ideas of what we can improve for thoses changes for Lategame Upgrades, feel free to make an issue on the [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/issues) page! We will check on it.**
->
-> + We wanted Lategame Upgrades to be less harder, especially upgrades costs that were too overrated for the reward it gives. This mod adds plenty of new mechanics and items that needs to be playable more often even in early/mid game... So we made a few tweaks depending of what the upgrades and their different tiers gives, that we think are fair enough, some of are still subjects to change.
+> 
+> We wanted Lategame Upgrades to be less harder, especially upgrades costs that were too overrated for the reward it gives. This mod adds plenty of new mechanics and items that needs to be playable more often even in early/mid game... So we made a few tweaks depending of what the upgrades and their different tiers gives, that we think are fair enough, some of are still subjects to change.
 
 # 2.1.2
 
@@ -217,12 +234,12 @@
   + [CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)
     + Set the character limit of the translator from `10` to `16`
   + [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
-    + Set Fog Quality from `High` to `Vanilla` by default
-    + Set LOD from `Low` to `High` by default
+    + Set `FogQuality` setting from `High` to `Vanilla`
+    + Set `LOD` setting from `Low` to `High`
   + [KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)
-    + Set the explosion probability from `1%` to `0.25%`
+    + Set `GeneralProbability` setting from `1%` to `0.25%`
   + [Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)
-    + Camera resolution set as twice the originial value for better quality
+    + Set `CameraResolution` setting from `160px` to `320px`
 
 # 2.1.1
 
@@ -251,7 +268,7 @@
     > Replaced with [Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)
 + Configuration:
   + [KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)
-    + Set the explosion probability from `10%` chance to `0.1%`
+    + Set `GeneralProbability` setting from `10%` chance to `0.1%`
       > This change as been tested a few times, it might still be too much, subject to change.
   + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
     + Disabled the `Fractured Leg` feature
@@ -330,7 +347,7 @@
 
 + Configuration:
   + [Lategame_Upgrade](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/):
-    + Changed the keybind for toggle Night Vision Goggles from <kbd>leftAlt</kbd> to <kbd>N</kbd>
+    + Set `ToggleNightVisionKey` keybind from <kbd>leftAlt</kbd> to <kbd>N</kbd>
 + Other:
   + [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) repository created
   + Fixed `README.md`
