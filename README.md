@@ -1,5 +1,5 @@
-# FREAKS® Modpack 2.2.3
-### Private modpack from FREAKS®, including 60+ mods to improve QoL, gameplay, functionalities and more fun.
+# FREAKS® Modpack 2.3.0
+### Private modpack from FREAKS®, including 60+ mods to improve QoL, gameplay, functionalities and adding more fun.
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [Website](https://freaks-smp.fr/)
 |---|---|---|
 
@@ -94,7 +94,6 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)|🟢|
 |[CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)|🔴⚡|
 |[Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)|🟢|
-|[CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/)|🔴|
 |[KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)|🔴⚡|
 |[MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/)|🔴⚡|
 |[EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)|🟢|
@@ -122,7 +121,6 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[JumpDelayPatch](https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/)|🔴|
 |[HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)|🟢|
 |[EnhancedRadarBooster](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/)|🔴⚡|
-|[LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)|🔴|
 |[TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)|🔴|
 |[MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)|🔴⚡|
 |[IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)|🟢|
@@ -144,7 +142,6 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)|🟢|
 |[Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)|🔴⚡|
 |[More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)|🟢|
-|[CarpetSound](https://thunderstore.io/c/lethal-company/p/YourFurnace/CarpetSound/)|🟢|
 
 </details>
 

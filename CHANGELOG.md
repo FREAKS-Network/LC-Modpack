@@ -1,3 +1,40 @@
+# 2.3.0
+
++ Removed mods:
+  + [CarpetSound](https://thunderstore.io/c/lethal-company/p/YourFurnace/CarpetSound/)
+  + [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/)
+  + [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)
++ Updated mods:
+  + [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) `3.0.0 > 3.0.1`
+  + [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/) `1.1.0 > 2.0.1`
+  + [BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/) `1.0.1 > 1.0.3`
+  + [BuyableShotgunShells](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/) `1.0.2 > 1.0.4`
+  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/) `1.0.2 > 1.0.3`
+  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) `1.5.1 > 1.5.7`
+  + [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) `0.4.4 > 0.5.6`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `2.8.8 > 3.1.0`
+  + [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) `3.3.2 > 3.4.5`
+  + [LethalConfig](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/) `1.3.4 > 1.5.0`
+  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `0.11.2 > 0.13.2`
+  + [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) `2.4.1 > 3.1.1`
+  + [More_Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) `1.7.4 > 1.7.6`
+  + [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/) `1.0.3 > 1.0.4`
+  + [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/) `1.1.0 > 1.2.0`
+  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `1.5.8 > 1.6.1`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.8.8 > 1.8.12`
+  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) `1.5.4 > 1.6.0`
+  + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) `2.0.6 > 4.0.1`
+  + [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) `1.5.0 > 1.5.1`
+  + Configuration:
+    + [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
+      + Set `TeleportationOdds` settings from `3%` to `1%`
+    + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+      + Set `CrawlerRevamp` bool from `true` to `false`
+      + Set `SpiderRevamp`bool from `true` to `false`
+    + [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
+      + Set `UseSpawnRarity` bool from `false` to `true`
+      + Set `SpawnRarity` settings from `15%` to `25%`
+
 # 2.2.3
 
 + Added mods:
