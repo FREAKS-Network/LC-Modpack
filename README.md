@@ -1,15 +1,17 @@
-# FREAKS® Modpack 2.3.0
-### Private modpack from FREAKS®, including 60+ mods to improve QoL, gameplay, functionalities and adding more fun.
+# FREAKS® Modpack 2.4.0
+
+![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS_Modpack/2.4.0/resources/img/banner.png)
+
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [Website](https://freaks-smp.fr/)
 |---|---|---|
-
----
 
 ## 📥 Installation
 
 Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and click on `Install with Mod Manager` right above.
 
-> Please note that whenever the modpack gets an **major** or **minor** update, you will need to create a clean new profile into your [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and reinstall the modpack from this webpage or in the mod browser of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/).
+> ### Do not forget to click on `Update all` inside the yellow banner into the `Installed` tab of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) after the installation and everytime you want to launch and play LC with people using this modpack.
+> Please note that whenever the modpack gets an **major** or **minor** update, you will need to create a clean new profile into your [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and reinstall the modpack from this webpage or in the mod browser of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) to avoid any conflict inbetween newer and older  version from mod updates.
+
 
 ## ⚙️ Mods configuration
 Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
@@ -93,7 +95,6 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)|🔴|
 |[LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)|🟢|
 |[CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)|🔴⚡|
-|[Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)|🟢|
 |[KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)|🔴⚡|
 |[MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/)|🔴⚡|
 |[EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)|🟢|
@@ -119,7 +120,6 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)|🔴⚡|
 |[PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)|🔴⚡|
 |[JumpDelayPatch](https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/)|🔴|
-|[HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)|🟢|
 |[EnhancedRadarBooster](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/)|🔴⚡|
 |[TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)|🔴|
 |[MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)|🔴⚡|
