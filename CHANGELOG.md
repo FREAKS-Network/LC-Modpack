@@ -1,3 +1,48 @@
+# 2.4.0
+
++ Added mods:
+  + [Boombox_Sync_Fix](https://thunderstore.io/c/lethal-company/p/FutureSavior/Boombox_Sync_Fix/)
+  + [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)
+  + [DissonanceLagFix](https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/)
+  + [FixRPCLag](https://thunderstore.io/c/lethal-company/p/Bobbie/FixRPCLag/)
+  + [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompanyGamblingMachineAtTheCompany/)
+  + [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+  + [Hold_Scan_Button](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)
+  + [LethalPosters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/)
+  + [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/)
+  + [MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/)
+  + [NeedyCats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)
+  + [NiceChat](https://thunderstore.io/c/lethal-company/p/taffyko/NiceChat/)
+  + [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/)
+  + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
++ Removed mods:
+  + [HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)
+    > Replaced with [NiceChat](https://thunderstore.io/c/lethal-company/p/taffyko/NiceChat/)
+  + [Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)
+    > Replaced with [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
++ Updated mods:
+  + [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/) `2.0.1 > 2.0.2`
+  + [BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/) `1.0.3 > 1.0.4`
+  + [BuyableShotgunShells](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/) `1.0.4 > 1.0.5`
+  + [EnhancedRadarBooster](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/) `1.5.4 > 1.6.1`
+  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/) `1.0.3 > 1.0.4`
+  + [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) `0.5.6 > 0.6.1`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `3.1.0 > 3.1.1`
+  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `0.13.2 > 0.14.2`
+  + [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/) `1.2.0 > 1.2.1`
+  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `1.6.1 > 1.6.2`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.8.12 > 1.8.16`
+  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) `1.6.0 > 1.6.1`
++ Configuration:
+  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
+    + Set `Allowed` bool for `Flashlight` from `false` to `true`
+    + Set `Allowed` bool for `Night Vision` from `false` to  `true`
+  + [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+    + Set `ConfigFile` bool from `false` to  `true`
+    + Set `EmoteWheel` keybind from <kbd>V</kbd> to <kbd>None</kbd>
+      > This as been replaced for [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/), it's still <kbd>V</kbd> by default for the emote wheel.
+      > To use [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)'s emotes, use the numeric hotbar that is set by default from 1 to 0. 
+
 # 2.3.0
 
 + Removed mods:
@@ -30,7 +75,7 @@
       + Set `TeleportationOdds` settings from `3%` to `1%`
     + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
       + Set `CrawlerRevamp` bool from `true` to `false`
-      + Set `SpiderRevamp`bool from `true` to `false`
+      + Set `SpiderRevamp` bool from `true` to `false`
     + [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
       + Set `UseSpawnRarity` bool from `false` to `true`
       + Set `SpawnRarity` settings from `15%` to `25%`

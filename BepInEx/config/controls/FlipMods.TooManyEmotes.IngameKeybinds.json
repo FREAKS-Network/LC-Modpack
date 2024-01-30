@@ -1,0 +1,1 @@
+{"overrides":[{"action":"OpenEmoteMenuHotkey","origPath":"<Keyboard>/backquote","path":"<Keyboard>/v"},{"action":"RotateCharacterEmoteHotkey","origPath":"<Keyboard>/leftAlt","path":"<Mouse>/leftButton"},{"action":"FavoriteEmoteHotkey","origPath":"<Mouse>/middleButton","path":"<Keyboard>/f"}]}
