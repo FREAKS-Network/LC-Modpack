@@ -1,9 +1,9 @@
-# FREAKS® Modpack 2.4.0
-
 ![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.0/resources/img/banner.png)
 
-| [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [Website](https://freaks-smp.fr/)
-|---|---|---|
+---
+
+| [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [2.4.0](https://github.com/SKAREZ/FREAKS-Modpack/releases/tag/2.4.0) | [Website](https://freaks-smp.fr/)
+|---|---|---|---|
 
 ## 📥 Installation
 
@@ -11,7 +11,6 @@ Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and cl
 
 > ### Do not forget to click on `Update all` inside the yellow banner into the `Installed` tab of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) after the installation and everytime you want to launch and play LC with people using this modpack.
 > Please note that whenever the modpack gets an **major** or **minor** update, you will need to create a clean new profile into your [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and reinstall the modpack from this webpage or in the mod browser of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) to avoid any conflict inbetween newer and older  version from mod updates.
-
 
 ## ⚙️ Mods configuration
 Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
