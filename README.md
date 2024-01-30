@@ -1,6 +1,6 @@
 # FREAKS® Modpack 2.4.0
 
-![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS_Modpack/2.4.0/resources/img/banner.png)
+![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.0/resources/img/banner.png)
 
 | [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [Website](https://freaks-smp.fr/)
 |---|---|---|
