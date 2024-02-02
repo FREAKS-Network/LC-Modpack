@@ -1,1 +1,14 @@
-{"overrides":[]}
+{
+    "overrides":[
+       {
+          "action":"FlashlightBinding",
+          "origPath":"<Keyboard>/f",
+          "path":"<Keyboard>/f"
+       },
+       {
+          "action":"NightVisionBinding",
+          "origPath":"<Keyboard>/n",
+          "path":"<Keyboard>/n"
+       }
+    ]
+ }

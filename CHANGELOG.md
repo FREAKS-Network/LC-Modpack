@@ -1,3 +1,30 @@
+# 2.4.1
+
++ Added mods:
+  + [HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)
+    > [NiceChat](https://thunderstore.io/c/lethal-company/p/taffyko/NiceChat/) seems to not fade the chat away, so I'll bring back this mod.
++ Removed mods:
+  + [NiceChat](https://thunderstore.io/c/lethal-company/p/taffyko/NiceChat/)
++ Updated mods:
+  + [EnhancedRadarBooster](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/) `1.6.1 > 1.6.2`
+  + [InfiniteEmote](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/InfiniteEmote/) `1.3.2 > 1.3.3`
+  + [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) `0.6.1 > 0.6.2`
+  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/) `1.4.2 > 1.4.4`
+  + [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) `2.1.1 > 3.1.2`
+  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `1.6.2 > 1.6.3`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.8.16 > 1.8.17`
+  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) `1.6.1 > 1.6.2`
+  + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) `1.8.5 > 1.8.6`
++ Other:
+  + Updated `README.md`
++ Configuration:
+  + Updated `BepInEx\config\*.cfg` files from outdated bools and settings that were still in some configurations
+  + Changed/Deleted some keybindings set by default that would been duplicates or useless, use InputUtils menu in-game to change a mod keybindings!
+  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
+    + Set `Allowed` bool for `Flashlight` from `true` to `false`
+    + Set `Allowed` bool for `Night Vision` from `true` to  `false`
+      > This is currently bugged, as sometimes if you where dead from a previous game and turned on NV in spectator, the NV effect would be still turned ON for the next game (when being still alive).
+
 # 2.4.0
 
 + Added mods:

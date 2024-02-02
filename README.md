@@ -1,24 +1,31 @@
-![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.0/resources/img/banner.png)
+![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.1/resources/img/banner.png)
+
+| [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [2.4.1](https://github.com/SKAREZ/FREAKS-Modpack/releases/tag/2.4.1) | [Website](https://freaks-smp.fr/)
+|---|---|---|---|
 
 ---
 
-| [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [2.4.0](https://github.com/SKAREZ/FREAKS-Modpack/releases/tag/2.4.0) | [Website](https://freaks-smp.fr/)
-|---|---|---|---|
-
-## 📥 Installation
+![installation.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.1/resources/img/installation.png)
 
 Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and click on `Install with Mod Manager` right above.
 
 > ### Do not forget to click on `Update all` inside the yellow banner into the `Installed` tab of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) after the installation and everytime you want to launch and play LC with people using this modpack.
 > Please note that whenever the modpack gets an **major** or **minor** update, you will need to create a clean new profile into your [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and reinstall the modpack from this webpage or in the mod browser of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) to avoid any conflict inbetween newer and older  version from mod updates.
 
-## ⚙️ Mods configuration
+---
+
+![configuration.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.1/resources/img/configuration.png)
+
 Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
 
-## 📻 Custom boombox musics/sounds
+---
+
+![custom_boombox.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.1/resources/img/custom_boombox.png)
+
 We have included our custom boombox musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten).
 
-<details><summary>Show musics/sounds list</summary>
+<details>
+  <summary>Show musics/sounds list</summary>
 
 + [0bpm.mp3](https://audio.jukehost.co.uk/V2izPe5uZdrXXQMUG3JwWkIa47EiP708)
 + [1992-CRX.mp3](https://audio.jukehost.co.uk/irLjOq50HV5N46pWsQhhg2jNqvvOCKPR)
@@ -71,14 +78,18 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 > *You don't need to drag any other files exept `BepInEx`, do NOT replace the existing files*
 >> You can add your own custom musics/sounds into the same folder patch as above, needs be an `.mp3` or `.wav`
 
-## ⚠️ Client-sided and Server-sided mods
+---
+
+![modlist.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.1/resources/img/modlist.png)
+
 **Here's a disclaimer:** You can't disable server-sided mods and play with someone that is hosting a lobby with the presumed disabled server-sided mods!
 
-> Server-sided mods are mods from the host player that needs to be enabled by other players in order to play without having de-sync problems and other bugs, or even to be able to join their lobby.
+> Server-sided mods are mods from the host player that needs to be enabled by other players in order to play without having de-sync problems, bugs or even being able to join their lobby. Depending of the mod, some settings are relative to the host configuration only.
 
-Here is a list of the mods, you can see wich one we don't recommend you to disable, and wich one you can without having any problems, this list can be unaccurate.
+Here is a list of the mods, you can see wich one we don't recommend you to disable, and wich one you can without having any problems, this list can be unaccurate. We still recommend everyone to enable all of the mods included in this pack to play easily and quickly with your friends, if you encounter problems with some mods, you can report it via [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/issues).
 
-<details><summary>Show mods list</summary>
+<details>
+  <summary>Show mods list</summary>
 
 ### `🟢 Yes` `🔴 No` `⚡ Host Need`
 |Mod Name|Disableable|
@@ -133,6 +144,7 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)|🔴⚡|
 |[JumpDelayPatch](https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/)|🔴|
 |[HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)|🔴|
+|[HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)|🟢|
 |[EnhancedRadarBooster](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/)|🔴⚡|
 |[TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)|🔴|
 |[MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)|🔴⚡|
@@ -155,7 +167,6 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[AlwaysHearActiveTalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)|🟢|
 |[HideModList](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)|🟢|
 |[BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)|🔴⚡|
-|[NiceChat](https://thunderstore.io/c/lethal-company/p/taffyko/NiceChat/)|🟢|
 |[CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)|🟢|
 |[TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)|🟢|
 |[Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)|🔴⚡|
@@ -163,5 +174,3 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/)|🔴⚡|
 
 </details>
-
-### We still recommend everyone to enable all of the mods included in this pack to play easily and quickly with your friends, if you encounter problems with some mods, you can report it via [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/issues)
