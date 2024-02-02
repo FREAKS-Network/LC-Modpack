@@ -1,10 +1,5 @@
 ![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.1/resources/img/banner.png)
 
-| [Discord](https://discord.gg/wqMr5FpjdP) | [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/) | [2.4.1](https://github.com/SKAREZ/FREAKS-Modpack/releases/tag/2.4.1) | [Website](https://freaks-smp.fr/)
-|---|---|---|---|
-
----
-
 ![installation.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.1/resources/img/installation.png)
 
 Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and click on `Install with Mod Manager` right above.
@@ -12,13 +7,9 @@ Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and cl
 > ### Do not forget to click on `Update all` inside the yellow banner into the `Installed` tab of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) after the installation and everytime you want to launch and play LC with people using this modpack.
 > Please note that whenever the modpack gets an **major** or **minor** update, you will need to create a clean new profile into your [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and reinstall the modpack from this webpage or in the mod browser of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) to avoid any conflict inbetween newer and older  version from mod updates.
 
----
-
 ![configuration.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.1/resources/img/configuration.png)
 
 Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
-
----
 
 ![custom_boombox.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.1/resources/img/custom_boombox.png)
 
@@ -77,8 +68,6 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 
 > *You don't need to drag any other files exept `BepInEx`, do NOT replace the existing files*
 >> You can add your own custom musics/sounds into the same folder patch as above, needs be an `.mp3` or `.wav`
-
----
 
 ![modlist.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.1/resources/img/modlist.png)
 
