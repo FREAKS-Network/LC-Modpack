@@ -2,28 +2,28 @@
     "overrides":[
        {
           "action":"OpenEmoteMenuHotkey",
-          "origPath":"<Keyboard>/backquote",
+          "origPath":"<Keyboard>/v",
           "path":"<Keyboard>/v"
        },
        {
           "action":"RotateCharacterEmoteHotkey",
-          "origPath":"<Keyboard>/leftAlt",
+          "origPath":"<InputUtils-Kbm-Not-Bound>",
           "path":"<InputUtils-Kbm-Not-Bound>"
        },
        {
           "action":"FavoriteEmoteHotkey",
-          "origPath":"<Mouse>/middleButton",
+          "origPath":"<Keyboard>/f",
           "path":"<Keyboard>/f"
        },
        {
           "action":"PrevEmotePageHotkey",
-          "origPath":"<InputUtils-Kbm-Not-Bound>",
-          "path":"<InputUtils-Kbm-Not-Bound>"
+          "origPath":"<Keyboard>/a",
+          "path":"<Keyboard>/a"
        },
        {
           "action":"NextEmotePageHotkey",
-          "origPath":"<InputUtils-Kbm-Not-Bound>",
-          "path":"<InputUtils-Kbm-Not-Bound>"
+          "origPath":"<Keyboard>/e",
+          "path":"<Keyboard>/e"
        },
        {
           "action":"NextEmoteLoadoutUpHotkey",

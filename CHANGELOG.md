@@ -1,3 +1,40 @@
+# 2.4.2
+
++ Updated mods:
+  + [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) `1.5.3 > 1.6.0`
+  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/) `1.0.4 > 1.0.5`
+  + [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/) `1.0.10 > 1.0.11`
++ Configuration:
+  + [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
+    + Set `ShakingNotNeeded` bool from `false` to `true`
+  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
+    + Set `Allowed` bool for `Flashlight` from `false` to `true`
+    + Set `Allowed` bool for `Night Vision` from `false` to  `true`
+      > The NV bug got fixed apparently
+  + [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompanyGamblingMachineAtTheCompany/)
+    + Set `GambleMachineMusicVolume` settings from `0.35` to `0.0`
+    + Set `NumberOfMachines` settings from `3` to `4`
+  + [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
+    + Set `LOD` settings from `High` to `Vanilla`
+  + [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+    + Set `monitorResolution` settings from `3` to `2`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    + Helmet
+      + Item cost set from `750` to `500`
+    + Running Shoes
+      + Tier IV upgrade cost set from `200` to `250`
+    + Shutter Batteries
+      + Tier I upgrade cost set from `300` to `250`
+      + Tier II upgrade cost set from `200` to `150`
+      + Tier III upgrade cost set from `300` to `200`
+      + Tier IV upgrade cost set from `400` to `250`
+    + Sick Beats
+      + Upgrade cost set from `500` to `250`
+  + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+    + Set `VoiceLineFrequency` settings from `1.5` to `1.25`
++ Other:
+  + Added custom posters images for [LethalPosters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/) (this will not become a standalone mod, this will stay exclusive to the modpack)
+
 # 2.4.1
 
 + Added mods:
