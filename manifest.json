@@ -1,6 +1,6 @@
 {
     "name": "FREAKS_Modpack",
-    "version_number": "2.4.1",
+    "version_number": "2.4.2",
     "website_url": "https://github.com/SKAREZ/FREAKS-Modpack/",
     "description": "[v49] Private modpack from FREAKS®, including 70+ mods to improve QoL, gameplay, functionalities and adding more fun.",
     "dependencies": [
@@ -11,7 +11,7 @@
     "akechii-DiscountAlert-2.3.0",
     "AllToasters-QuickRestart-1.2.0",
     "AllToasters-SpectateEnemies-2.2.1",
-    "anormaltwig-LateCompany-1.0.10",
+    "anormaltwig-LateCompany-1.0.11",
     "Backrooms-Backrooms-0.1.3",
     "BepInEx-BepInExPack-5.4.2100",
     "Bobbie-FixRPCLag-1.0.1",
@@ -21,7 +21,7 @@
     "CTMods-KarmaForBeingAnnoying-1.1.0",
     "Drakorle-MoreItems-1.0.2",
     "EladNLG-EladsHUD-1.2.1",
-    "EliteMasterEric-Coroner-1.5.3",
+    "EliteMasterEric-Coroner-1.6.0",
     "Evaisa-HookGenPatcher-0.0.5",
     "Evaisa-LethalLib-0.14.2",
     "Evaisa-LethalThings-0.9.4",
