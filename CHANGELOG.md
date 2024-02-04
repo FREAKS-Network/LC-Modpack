@@ -1,3 +1,13 @@
+# 2.4.3
+
++ Updated mods:
+  + [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) `1.2.1 > 1.3.0`
++ Configuration:
+  + [PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)
+    + Set `Value` settings for `Push Cost` from `0.8` to `0`
+  + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+    + Fixed broken keybindings
+
 # 2.4.2
 
 + Updated mods:

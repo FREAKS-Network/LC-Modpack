@@ -1,9 +1,1 @@
-{
-    "overrides":[
-       {
-          "action":"ToggleFlashlightHotkey",
-          "origPath":"<Keyboard>/f",
-          "path":"<Keyboard>/f"
-       }
-    ]
- }
+{"overrides":[{"action":"ToggleFlashlightHotkey","origPath":"<Keyboard>/f","path":"<Keyboard>/f"}]}

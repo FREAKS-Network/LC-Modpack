@@ -1,6 +1,6 @@
 {
     "name": "FREAKS_Modpack",
-    "version_number": "2.4.2",
+    "version_number": "2.4.3",
     "website_url": "https://github.com/SKAREZ/FREAKS-Modpack/",
     "description": "[v49] Private modpack from FREAKS®, including 70+ mods to improve QoL, gameplay, functionalities and adding more fun.",
     "dependencies": [
@@ -10,7 +10,7 @@
     "AinaVT-LethalConfig-1.3.4",
     "akechii-DiscountAlert-2.3.0",
     "AllToasters-QuickRestart-1.2.0",
-    "AllToasters-SpectateEnemies-2.2.1",
+    "AllToasters-SpectateEnemies-2.3.0",
     "anormaltwig-LateCompany-1.0.11",
     "Backrooms-Backrooms-0.1.3",
     "BepInEx-BepInExPack-5.4.2100",
@@ -62,7 +62,7 @@
     "Ozone-BepInUtils-1.2.1",
     "Ozone-Runtime_Netcode_Patcher-0.2.5",
     "PopleZoo-BetterItemScan-3.0.1",
-    "PXC-EnhancedSpectator-1.0.4",
+    "PXC-EnhancedSpectator-1.0.5",
     "quackandcheese-MirrorDecor-1.3.1",
     "RickArg-Helmet_Cameras-2.1.5",
     "Rozebud-FOV_Adjust-1.1.1",

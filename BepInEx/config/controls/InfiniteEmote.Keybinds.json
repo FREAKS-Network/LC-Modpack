@@ -1,9 +1,1 @@
-{
-    "overrides":[
-       {
-          "action":"StopEmote",
-          "origPath":"<Mouse>/middleButton",
-          "path":"<Mouse>/middleButton"
-       }
-    ]
- }
+{"overrides":[{"action":"StopEmote","origPath":"<Mouse>/middleButton","path":"<Mouse>/middleButton"}]}
