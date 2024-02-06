@@ -1,10 +1,37 @@
+# 2.4.4
+
++ Removed mods:
+  + [QuickRestart](https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/)
+    > You can just type "eject" inside the terminal to restart a game (that's a vanilla feature)
++ Updated mods:
+  + [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) `1.0.5 > 1.0.6`
+  + [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) `0.6.2 > 0.6.3`
+  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/) `1.4.4 > 1.4.5`
+  + [MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/) `1.3.1 > 1.3.2`
++ Configuration:
+  + [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)
+    + Set `HeadTurnSpeed` setting from `0.5` to `1.25`
+  + [CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)
+    + Set the character limit of the translator from `24` to `999`
+  + [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+    + Set `cameraFps` setting from `30` to `15`
+  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
+    + Set `OverrideFadeHudAlpha` setting from `0.5` to `0.25`
+    + Set `UseItemQuickDropConfig` bool from `false` to `true`
+  + [More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)
+    + Set `Ignore!less-suits.txt` bool from `false` to `true`
+    + Set `MakeSuitsFitOnRack` bool from `true` to `false`
+    + Set `MaxSuits` setting from `100` to `999`
+  + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+    + Set `VoiceLineFrequency` setting from `1.25` to `1.5`
+
 # 2.4.3
 
 + Updated mods:
   + [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) `1.2.1 > 1.3.0`
 + Configuration:
   + [PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)
-    + Set `Value` settings for `Push Cost` from `0.8` to `0`
+    + Set `Value` setting for `Push Cost` from `0.8` to `0`
   + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
     + Fixed broken keybindings
 
@@ -22,12 +49,12 @@
     + Set `Allowed` bool for `Night Vision` from `false` to  `true`
       > The NV bug got fixed apparently
   + [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompanyGamblingMachineAtTheCompany/)
-    + Set `GambleMachineMusicVolume` settings from `0.35` to `0.0`
-    + Set `NumberOfMachines` settings from `3` to `4`
+    + Set `GambleMachineMusicVolume` setting from `0.35` to `0.0`
+    + Set `NumberOfMachines` setting from `3` to `4`
   + [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
-    + Set `LOD` settings from `High` to `Vanilla`
+    + Set `LOD` setting from `High` to `Vanilla`
   + [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
-    + Set `monitorResolution` settings from `3` to `2`
+    + Set `monitorResolution` setting from `3` to `2`
   + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
     + Helmet
       + Item cost set from `750` to `500`
@@ -41,7 +68,7 @@
     + Sick Beats
       + Upgrade cost set from `500` to `250`
   + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
-    + Set `VoiceLineFrequency` settings from `1.5` to `1.25`
+    + Set `VoiceLineFrequency` setting from `1.5` to `1.25`
 + Other:
   + Added custom posters images for [LethalPosters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/) (this will not become a standalone mod, this will stay exclusive to the modpack)
 
@@ -65,7 +92,7 @@
 + Other:
   + Updated `README.md`
 + Configuration:
-  + Updated `BepInEx\config\*.cfg` files from outdated bools and settings that were still in some configurations
+  + Updated `BepInEx\config\*.cfg` files from outdated bools and setting that were still in some configurations
   + Changed/Deleted some keybindings set by default that would been duplicates or useless, use InputUtils menu in-game to change a mod keybindings!
   + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
     + Set `Allowed` bool for `Flashlight` from `true` to `false`
@@ -146,13 +173,13 @@
   + [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) `1.5.0 > 1.5.1`
   + Configuration:
     + [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
-      + Set `TeleportationOdds` settings from `3%` to `1%`
+      + Set `TeleportationOdds` setting from `3%` to `1%`
     + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
       + Set `CrawlerRevamp` bool from `true` to `false`
       + Set `SpiderRevamp` bool from `true` to `false`
     + [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
       + Set `UseSpawnRarity` bool from `false` to `true`
-      + Set `SpawnRarity` settings from `15%` to `25%`
+      + Set `SpawnRarity` setting from `15%` to `25%`
 
 # 2.2.3
 
@@ -191,7 +218,7 @@
     > Replaced with [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
   + [RadarZoom](https://thunderstore.io/c/lethal-company/p/Piggy/RadarZoom/)
 + Other:
-  + Updated `BepInEx\config\*.cfg` files from outdated bools and settings that were still in some configurations
+  + Updated `BepInEx\config\*.cfg` files from outdated bools and setting that were still in some configurations
 + Configuration:
   + [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
     + Set `NumberOfSmilers` setting from `1` to `3`
@@ -238,7 +265,7 @@
 + Other:
   + Fixed `CHANGELOG.md`
   + Fixed `README.md`
-  + Updated `BepInEx\config\*.cfg` files from outdated bools and settings that were still in some configurations
+  + Updated `BepInEx\config\*.cfg` files from outdated bools and setting that were still in some configurations
   + Deleted old `BepInEx\config\*.cfg` files from removed mods
 + Configuration:
   + [CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)
