@@ -1,3 +1,12 @@
+# 2.4.6
+
++ **Configuration:**
+  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
+    + Set `ModifyDarkness` bool from `true` to `false`
+      > I don't know why I turned this on, pitch black areas should be fixed now
++ **Other:**
+  + Fixed `README.md`
+
 # 2.4.5
 
 + **Added mods:**
@@ -9,7 +18,6 @@
     + Set `FieldOfView` setting from `65` to `86`
     + Set `HorizontalResolution` setting from `160` to `320`
     + Set `RenderDistance` setting from `25` to `20`
-    
 + **Other:**
   + Fixed posters image mask that was still visible (I forgot to disable them when exporting from PS)
 
