@@ -1,3 +1,12 @@
+# 2.4.6
+
++ **Configuration:**
+  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
+    + Set `ModifyDarkness` bool from `true` to `false`
+      > I don't know why I turned this on, pitch black areas should be fixed now
++ **Other:**
+  + Fixed `README.md`
+
 # 2.4.5
 
 + **Added mods:**

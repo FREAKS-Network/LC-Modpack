@@ -1,17 +1,17 @@
-![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.5/resources/img/banner.png)
+![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.6/resources/img/banner.png)
 
-![installation.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.5/resources/img/installation.png)
+![installation.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.6/resources/img/installation.png)
 
 Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and click on `Install with Mod Manager` right above.
 
 > ### Do not forget to click on `Update all` inside the yellow banner in the `Installed` tab of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) after the installation and everytime you want to launch and play LC with people using this modpack.
 > Please note that whenever the modpack gets an update, we recommend you (and your friends if you have some) to create a clean new profile into your [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and reinstall the modpack from this webpage or in the mod browser of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) to avoid any conflict inbetween newer and older version of mods updates, removed mods and added mods.
 
-![configuration.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.5/resources/img/configuration.png)
+![configuration.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.6/resources/img/configuration.png)
 
 Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
 
-![custom_boombox.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.5/resources/img/custom_boombox.png)
+![custom_boombox.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.6/resources/img/custom_boombox.png)
 
 We have included our custom boombox musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten). Some of them can be **NSFW**! As well for some custom posters inside the ship, be carefull if you are streaming with this modpack!
 
@@ -69,7 +69,7 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 > *You don't need to drag any other files exept `BepInEx`, do NOT replace the existing files*
 >> You can add your own custom musics/sounds into the same folder patch as above, needs be an `.mp3` or `.wav`
 
-![modlist.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.5/resources/img/modlist.png)
+![modlist.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.6/resources/img/modlist.png)
 
 
 <details>
@@ -113,6 +113,7 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 |[Hold_Scan_Button](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)|🟢|
 |[Boombox_Sync_Fix](https://thunderstore.io/c/lethal-company/p/FutureSavior/Boombox_Sync_Fix/)|🔴|
 |[ScannablePlayerItems](https://thunderstore.io/c/lethal-company/p/Graze/ScannablePlayerItems/)|🟢|
+|[LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/)|🟢|
 |[SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)|🟢|
 |[MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)|🔴⚡|
 |[Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)|🔴⚡|
@@ -137,7 +138,6 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 |[BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)|🟢|
 |[EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)|🔴|
 |[MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/)|🔴⚡|
-|[Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)|🟢|
 |[FOV_Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)|🟢|
 |[Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)|🟢|
 |[InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)|🔴|
@@ -155,6 +155,7 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 |[Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)|🔴⚡|
 |[More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)|🟢|
 |[PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/)|🔴⚡|
+|[OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)|🟢|
 
 </details>
 
