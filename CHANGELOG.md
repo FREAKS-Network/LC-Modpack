@@ -9,7 +9,6 @@
     + Set `FieldOfView` setting from `65` to `86`
     + Set `HorizontalResolution` setting from `160` to `320`
     + Set `RenderDistance` setting from `25` to `20`
-    
 + **Other:**
   + Fixed posters image mask that was still visible (I forgot to disable them when exporting from PS)
 
