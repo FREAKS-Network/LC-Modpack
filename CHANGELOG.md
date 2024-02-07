@@ -3,7 +3,7 @@
 + **Added mods:**
   + [LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/)
   + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
-    > Replacing [Helmet_Cameras] for better performances and stability
+    > Replacing [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) for better performances and stability
 + **Configuration:**
   + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
     + Set `FieldOfView` setting from `65` to `86`
