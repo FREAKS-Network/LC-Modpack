@@ -1,3 +1,26 @@
+# 2.4.7
+
++ **Added mods:**
+  + [Scopophobia](https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/)
+  + [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
++ **Removed mods:**
+  + [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
++ **Updated mods:**
+  + [More_Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
+    `1.7.6 > 1.8.1`
+  + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    `1.1.2 > 1.1."`
+  + [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/)
+    `2.3.0 > 2.3.1`
++ **Configuration:**
+  + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    + Set `Framerate` setting from `30` to `0`
+  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+    + Set `SFXVolume` setting from `75%` to `50%`
++ **Other:**
+  + Fixed `CHANGELOG.md`
+  + Fixed `README.md`
+
 # 2.4.6
 
 + **Configuration:**
@@ -27,11 +50,15 @@
   + [QuickRestart](https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/)
     > You can just type "eject" inside the terminal to restart a game (that's a vanilla feature)
 + **Updated mods:**
-  + [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) `1.0.5 > 1.0.6`
-  + [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) `0.6.2 > 0.6.3`
-  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/) `1.4.4 > 1.4.5`
-  + [MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/) `1.3.1 > 1.3.2`
-+ ****Configuration:****
+  + [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)
+    `1.0.5 > 1.0.6`
+  + [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
+    `0.6.2 > 0.6.3`
+  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
+    `1.4.4 > 1.4.5`
+  + [MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/)
+    `1.3.1 > 1.3.2`
++ **Configuration:**
   + [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)
     + Set `HeadTurnSpeed` setting from `0.5` to `1.25`
   + [CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)
@@ -51,8 +78,9 @@
 # 2.4.3
 
 + **Updated mods:**
-  + [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) `1.2.1 > 1.3.0`
-+ **Configuration:****
+  + [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/)
+    `1.2.1 > 1.3.0`
++ **Configuration:**
   + [PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)
     + Set `Value` setting for `Push Cost` from `0.8` to `0`
   + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
@@ -61,10 +89,13 @@
 # 2.4.2
 
 + **Updated mods:**
-  + [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) `1.5.3 > 1.6.0`
-  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/) `1.0.4 > 1.0.5`
-  + [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/) `1.0.10 > 1.0.11`
-+ ****Configuration:****
+  + [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
+    `1.5.3 > 1.6.0`
+  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
+    `1.0.4 > 1.0.5`
+  + [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
+    `1.0.10 > 1.0.11`
++ **Configuration:**
   + [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
     + Set `ShakingNotNeeded` bool from `false` to `true`
   + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
@@ -112,15 +143,15 @@
   + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.8.16 > 1.8.17`
   + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) `1.6.1 > 1.6.2`
   + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) `1.8.5 > 1.8.6`
-+ **Other:**
-  + Updated `README.md`
 + **Configuration:**
-  + Updated `BepInEx\config\*.cfg` files from outdated bools and setting that were still in some configurations
-  + Changed/Deleted some keybindings set by default that would been duplicates or useless, use InputUtils menu in-game to change a mod keybindings!
   + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
     + Set `Allowed` bool for `Flashlight` from `true` to `false`
     + Set `Allowed` bool for `Night Vision` from `true` to  `false`
       > This is currently bugged, as sometimes if you where dead from a previous game and turned on NV in spectator, the NV effect would be still turned ON for the next game (when being still alive).
++ **Other:**
+  + Updated `README.md`
+  + Updated `BepInEx\config\*.cfg` files from outdated bools and setting that were still in some configurations
+  + Changed/Deleted some keybindings set by default that would been duplicates or useless, use InputUtils menu in-game to change a mod keybindings!
 
 # 2.4.0
 
@@ -145,18 +176,30 @@
   + [Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)
     > Replaced with [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
 + **Updated mods:**
-  + [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/) `2.0.1 > 2.0.2`
-  + [BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/) `1.0.3 > 1.0.4`
-  + [BuyableShotgunShells](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/) `1.0.4 > 1.0.5`
-  + [EnhancedRadarBooster](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/) `1.5.4 > 1.6.1`
-  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/) `1.0.3 > 1.0.4`
-  + [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) `0.5.6 > 0.6.1`
-  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `3.1.0 > 3.1.1`
-  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `0.13.2 > 0.14.2`
-  + [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/) `1.2.0 > 1.2.1`
-  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `1.6.1 > 1.6.2`
-  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.8.12 > 1.8.16`
-  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) `1.6.0 > 1.6.1`
+  + [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
+    `2.0.1 > 2.0.2`
+  + [BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/)
+    `1.0.3 > 1.0.4`
+  + [BuyableShotgunShells](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/)
+    `1.0.4 > 1.0.5`
+  + [EnhancedRadarBooster](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/)
+    `1.5.4 > 1.6.1`
+  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
+    `1.0.3 > 1.0.4`
+  + [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
+    `0.5.6 > 0.6.1`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    `3.1.0 > 3.1.1`
+  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)
+    `0.13.2 > 0.14.2`
+  + [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/)
+    `1.2.0 > 1.2.1`
+  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
+    `1.6.1 > 1.6.2`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
+    `1.8.12 > 1.8.16`
+  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
+    `1.6.0 > 1.6.1`
 + **Configuration:**
   + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
     + Set `Allowed` bool for `Flashlight` from `false` to `true`
@@ -174,35 +217,55 @@
   + [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/)
   + [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)
 + **Updated mods:**
-  + [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) `3.0.0 > 3.0.1`
-  + [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/) `1.1.0 > 2.0.1`
-  + [BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/) `1.0.1 > 1.0.3`
-  + [BuyableShotgunShells](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/) `1.0.2 > 1.0.4`
-  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/) `1.0.2 > 1.0.3`
-  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) `1.5.1 > 1.5.7`
-  + [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) `0.4.4 > 0.5.6`
-  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `2.8.8 > 3.1.0`
-  + [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) `3.3.2 > 3.4.5`
-  + [LethalConfig](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/) `1.3.4 > 1.5.0`
-  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `0.11.2 > 0.13.2`
-  + [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) `2.4.1 > 3.1.1`
-  + [More_Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) `1.7.4 > 1.7.6`
-  + [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/) `1.0.3 > 1.0.4`
-  + [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/) `1.1.0 > 1.2.0`
-  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `1.5.8 > 1.6.1`
-  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.8.8 > 1.8.12`
-  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) `1.5.4 > 1.6.0`
-  + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) `2.0.6 > 4.0.1`
-  + [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) `1.5.0 > 1.5.1`
-  + **Configuration:**
-    + [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
-      + Set `TeleportationOdds` setting from `3%` to `1%`
-    + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
-      + Set `CrawlerRevamp` bool from `true` to `false`
-      + Set `SpiderRevamp` bool from `true` to `false`
-    + [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
-      + Set `UseSpawnRarity` bool from `false` to `true`
-      + Set `SpawnRarity` setting from `15%` to `25%`
+  + [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
+    `3.0.0 > 3.0.1`
+  + [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
+    `1.1.0 > 2.0.1`
+  + [BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/)
+    `1.0.1 > 1.0.3`
+  + [BuyableShotgunShells](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/)
+    `1.0.2 > 1.0.4`
+  + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
+    `1.0.2 > 1.0.3`
+  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
+    `1.5.1 > 1.5.7`
+  + [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
+    `0.4.4 > 0.5.6`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    `2.8.8 > 3.1.0`
+  + [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
+    `3.3.2 > 3.4.5`
+  + [LethalConfig](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/)
+    `1.3.4 > 1.5.0`
+  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)
+    `0.11.2 > 0.13.2`
+  + [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
+    `2.4.1 > 3.1.1`
+  + [More_Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
+    `1.7.4 > 1.7.6`
+  + [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/)
+    `1.0.3 > 1.0.4`
+  + [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/)
+    `1.1.0 > 1.2.0`
+  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
+    `1.5.8 > 1.6.1`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
+    `1.8.8 > 1.8.12`
+  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
+    `1.5.4 > 1.6.0`
+  + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+    `2.0.6 > 4.0.1`
+  + [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)
+    `1.5.0 > 1.5.1`
++ **Configuration:**
+  + [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
+    + Set `TeleportationOdds` setting from `3%` to `1%`
+  + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+    + Set `CrawlerRevamp` bool from `true` to `false`
+    + Set `SpiderRevamp` bool from `true` to `false`
+  + [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)
+    + Set `UseSpawnRarity` bool from `false` to `true`
+    + Set `SpawnRarity` setting from `15%` to `25%`
 
 # 2.2.3
 
@@ -285,11 +348,6 @@
   + [Offline-!.mp3](https://audio.jukehost.co.uk/u3b3OSgQXWFXll3Rob166tK9jHzO3P61)
   + [Psychotic.mp3](https://audio.jukehost.co.uk/hzru5En5fP5JAV5EQrQDYBQ93RO0TIjs)
   + [vivienne-westwood.mp3](https://audio.jukehost.co.uk/8dnZ14IVJPUBjkoP41P9Q7K7xCHlLFKV)
-+ **Other:**
-  + Fixed `CHANGELOG.md`
-  + Fixed `README.md`
-  + Updated `BepInEx\config\*.cfg` files from outdated bools and setting that were still in some configurations
-  + Deleted old `BepInEx\config\*.cfg` files from removed mods
 + **Configuration:**
   + [CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)
     + Set the character limit of the translator from `16` to `24`
@@ -310,7 +368,12 @@
       + Tier III upgrade cost set from `190` to `125`
       + Tier IV upgrade cost set from `250` to `150`
   + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
-    + Set SFX volume from `100` to `75`
+    + Set `SFXVolume` setting from `100%` to `75%`
++ **Other:**
+  + Fixed `CHANGELOG.md`
+  + Fixed `README.md`
+  + Updated `BepInEx\config\*.cfg` files from outdated bools and setting that were still in some configurations
+  + Deleted old `BepInEx\config\*.cfg` files from removed mods
 
 # 2.2.0
 
@@ -326,22 +389,32 @@
     > Replaced with [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
   + [NoConsole](https://thunderstore.io/c/lethal-company/p/KennyCreations/NoConsole/)
 + **Updated mods:**
-  + [Corporate Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/) `1.0.5 > 1.0.6`
-  + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/) `1.1.8 > 1.1.10`
-  + [EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/) `1.1.0 > 1.2.1`
-  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) `1.4.8 > 1.5.0`
-  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/) `1.4.0 > 1.4.1`
-  + [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/) `1.0.9 > 1.0.10`
-  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `2.8.6 > 2.8.7`
-  + [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) `3.3.0 > 3.3.2`
-  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `0.10.1 > 0.10.3`
-  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.3.1 > 2.3.2`
-  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.7.7 > 1.8.1`
-  + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) `2.0.1 > 2.0.5`
-  + [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) `1.1.2 > 1.1.4`
-+ **Other:**
-  + Compatibility with v47
-  + Sorted dependencies list of `manifest.json`
+  + [Corporate Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/)
+    `1.0.5 > 1.0.6`
+  + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+    `1.1.8 > 1.1.10`
+  + [EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)
+    `1.1.0 > 1.2.1`
+  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
+    `1.4.8 > 1.5.0`
+  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
+    `1.4.0 > 1.4.1`
+  + [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
+    `1.0.9 > 1.0.10`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    `2.8.6 > 2.8.7`
+  + [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
+    `3.3.0 > 3.3.2`
+  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)
+    `0.10.1 > 0.10.3`
+  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+    `2.3.1 > 2.3.2`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
+    `1.7.7 > 1.8.1`
+  + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+    `2.0.1 > 2.0.5`
+  + [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
+    `1.1.2 > 1.1.4`
 + **Configuration:**
   + [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
     + Console disabled/hided (useful for low-end computers)
@@ -423,6 +496,9 @@
       + Tier IV upgrade cost set from `250` to `150`
     + Walkie GPS
       + Disabled
++ **Other:**
+  + Compatibility with v47
+  + Sorted dependencies list of `manifest.json`
 
 > **If you have any suggestions or ideas of what we can improve for thoses changes for Lategame Upgrades, feel free to make an issue on the [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/issues) page! We will check on it.**
 > 
@@ -431,9 +507,8 @@
 # 2.1.2
 
 + **Updated mods:**
-  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `1.5.5 > 1.5.7`
-+ **Other:**
-  + Deleted [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)'s configuration file since it got removed from the modpack
+  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
+    `1.5.5 > 1.5.7`
 + **Configuration:**
   + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
     + Set the swapping mode from `Hold` to `Toggle` from the hotbar to the reserved slots (with the <kbd>leftAlt</kbd> key by default)
@@ -446,15 +521,22 @@
     + Set `GeneralProbability` setting from `1%` to `0.25%`
   + [Solos_Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)
     + Set `CameraResolution` setting from `160px` to `320px`
++ **Other:**
+  + Deleted [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)'s configuration file since it got removed from the modpack
 
 # 2.1.1
 
 + **Updated mods:**
-  + [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) `1.4.3 > 1.4.4`
-  + [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) `2.1.8 > 2.1.9`
-  + [DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/) `1.2.1 > 1.2.2`
-  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.3.0 > 2.3.1`
-  + [SuitsPlus](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) `1.3.1 > 2.0.0`
+  + [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
+    `1.4.3 > 1.4.4`
+  + [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
+    `2.1.8 > 2.1.9`
+  + [DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/)
+    `1.2.1 > 1.2.2`
+  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+    `2.3.0 > 2.3.1`
+  + [SuitsPlus](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)
+    `1.3.1 > 2.0.0`
 + **Other:**
   + Fixed `README.md`
   + Fixed `manifest.json`
@@ -477,13 +559,13 @@
     + Set `GeneralProbability` setting from `10%` chance to `0.1%`
       > This change as been tested a few times, it might still be too much, subject to change.
   + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
-    + Disabled the `Fractured Leg` feature
-    + Disabled the `Fractured Arm` feature
-    + Disabled the `Broken Leg` feature
-    + Disabled the `Broken Arm` feature
-    + Disabled the `Bleeding` feature
-    + Disabled the `Blindness` feature
-    + Disabled the `Concussed` feature
+    + Set `Fractured Leg` bool from `true` to `false`
+    + Set `Fractured Arm` bool from `true` to `false`
+    + Set `Broken Leg` bool from `true` to `false`
+    + Set `Broken Arm` bool from `true` to `false`
+    + Set `Bleeding` bool from `true` to `false`
+    + Set `Blindness` bool from `true` to `false`
+    + Set `Concussed` bool from `true` to `false`
 
 # 2.0.1
 
@@ -508,25 +590,39 @@
   + [Permanent Ladder](https://thunderstore.io/c/lethal-company/p/Silvercore/Permanent_Ladder/)
   + [QuickRestart](https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/)
 + **Updated mods:**
-  + [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) `2.1.6 > 2.1.8`
-  + [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) `1.4.2 > 1.5.3`
-  + [DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/) `1.1.2 > 1.2.1`
-  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) `1.3.4 > 1.4.7`
-  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/) `1.2.2 > 1.4.0`
-  + [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/) `1.0.6 > 1.0.9`
-  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `2.7.1 > 2.8.6`
-  + [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) `2.2.0 > 3.3.0`
-  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `0.7.0 > 0.10.1`
-  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.2.1 > 2.3.0`
-  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `1.4.5 > 1.5.5`
-  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.4.4 > 1.7.7`
-  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) `1.4.6 > 1.5.3`
-  + [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) `1.4.0 > 1.5.0`
-  + [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) `1.0.4 > 1.0.5`
+  + [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
+    `2.1.6 > 2.1.8`
+  + [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
+    `1.4.2 > 1.5.3`
+  + [DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/)
+    `1.1.2 > 1.2.1`
+  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
+    `1.3.4 > 1.4.7`
+  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
+    `1.2.2 > 1.4.0`
+  + [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
+    `1.0.6 > 1.0.9`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    `2.7.1 > 2.8.6`
+  + [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
+    `2.2.0 > 3.3.0`
+  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)
+    `0.7.0 > 0.10.1`
+  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+    `2.2.1 > 2.3.0`
+  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
+    `1.4.5 > 1.5.5`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
+    `1.4.4 > 1.7.7`
+  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
+    `1.4.6 > 1.5.3`
+  + [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)
+    `1.4.0 > 1.5.0`
+  + [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)
+    `1.0.4 > 1.0.5`
 + **Other:**
   + Fixed `README.md`
   + Fixed `LICENSE`
-  + Updated mods configuration
 
 > **Happy new year of 2024 to everyone, much love!**
 >
@@ -546,8 +642,10 @@
   + [ShipLobby](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)
   + [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 + **Updated mods:**
-  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `2.6.1 > 2.7.1`
-  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.2.0 > 2.2.1`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    `2.6.1 > 2.7.1`
+  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+    `2.2.0 > 2.2.1`
 
 # 1.2.1
 
@@ -568,30 +666,48 @@
 + **Removed mods:**
   + [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/)
 + **Updated mods:**
-  + [BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/) `1.2.0 > 1.2.1`
-  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) `1.3.2 > 1.3.4`
-  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.1.0 > 2.2.0`
-  + [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) `1.2.1 > 1.2.2`
-  + [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) `1.1.1 > 1.1.2`
+  + [BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/)
+    `1.2.0 > 1.2.1`
+  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
+    `1.3.2 > 1.3.4`
+  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+    `2.1.0 > 2.2.0`
+  + [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+    `1.2.1 > 1.2.2`
+  + [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
+    `1.1.1 > 1.1.2`
 
 # 1.1.0
 
 + **Added mods:**
   + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
 + **Updated mods:**
-  + [BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/) `1.1.0 > 1.2.0`
-  + [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) `2.1.3 > 2.1.5`
-  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) `1.3.1 > 1.3.2`
-  + [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/) `1.0.4 > 1.0.6`
-  + [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) `2.1.1 > 2.2.0`
-  + [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/) `1.4.0 > 1.5.0`
-  + [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) `1.1.1 > 1.2.1`
-  + [More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) `1.3.3 > 1.4.1`
-  + [More_Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) `1.7.1 > 1.7.2`
-  + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) `2.0.0 > 2.0.1`
-  + [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) `1.0.2 > 1.1.1`
-  + [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) `1.3.2 > 1.4.0`
-  + [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) `1.0.1 > 1.0.4`
+  + [BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/)
+  `1.1.0 > 1.2.0`
+  + [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+    `2.1.3 > 2.1.5`
+  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
+    `1.3.1 > 1.3.2`
+  + [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
+    `1.0.4 > 1.0.6`
+  + [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
+    `2.1.1 > 2.2.0`
+  + [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)
+    `1.4.0 > 1.5.0`
+  + [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+    `1.1.1 > 1.2.1`
+  + [More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)
+    `1.3.3 > 1.4.1`
+  + [More_Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
+    `1.7.1 > 1.7.2`
+  + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+    `2.0.0 > 2.0.1`
+  + [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
+    `1.0.2 > 1.1.1`
+  + [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)
+  `1.3.2 > 1.4.0`
+  + [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)
+  `1.0.1 > 1.0.4`
 + **Added custom boombox musics:**
   + [Les_demons_de_minuit.mp3](https://www.youtube.com/watch?v=OP1Q1flNbVA)
 
