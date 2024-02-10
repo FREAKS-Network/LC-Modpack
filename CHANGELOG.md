@@ -9,7 +9,7 @@
   + [More_Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
     `1.7.6 > 1.8.1`
   + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
-    `1.1.2 > 1.1."`
+    `1.1.2 > 1.1.3`
   + [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/)
     `2.3.0 > 2.3.1`
 + **Configuration:**
