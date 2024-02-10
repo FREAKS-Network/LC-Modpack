@@ -1,19 +1,19 @@
-![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.6/resources/img/banner.png)
+![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.7/resources/img/banner.png)
 
-![installation.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.6/resources/img/installation.png)
+![installation.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.7/resources/img/installation.png)
 
-Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and click on `Install with Mod Manager` right above.
+Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/), then click on the `Install with Mod Manager` button right above.
 
-> ### Do not forget to click on `Update all` inside the yellow banner in the `Installed` tab of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) after the installation and everytime you want to launch and play LC with people using this modpack.
-> Please note that whenever the modpack gets an update, we recommend you (and your friends if you have some) to create a clean new profile into your [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and reinstall the modpack from this webpage or in the mod browser of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) to avoid any conflict inbetween newer and older version of mods updates, removed mods and added mods.
+> ### Do not forget to click on `Update all` inside the yellow banner in the `Installed` tab of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) if you need to after the installation, and aslo everytime you want to launch and play LC with people using this modpack.
+> Please note that whenever the modpack gets an update, we recommend you (and your friends) to create a clean new profile into [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and reinstall the modpack from this webpage or in the mod browser of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) to avoid any conflict inbetween newer and older version of mods updates, removed mods and added mods.
 
-![configuration.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.6/resources/img/configuration.png)
+![configuration.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.7/resources/img/configuration.png)
 
 Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
 
-![custom_boombox.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.6/resources/img/custom_boombox.png)
+![custom_boombox.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.7/resources/img/custom_boombox.png)
 
-We have included our custom boombox musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten). Some of them can be **NSFW**! As well for some custom posters inside the ship, be carefull if you are streaming with this modpack!
+We have included our custom boombox musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten). Some of them can be **NSFW**! As well for some custom posters inside the ship, so if you are streaming with this modpack, be carefull!
 
 <details>
   <summary>Show musics/sounds list</summary>
@@ -59,18 +59,15 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 3. Go into the settings, then in the `All` tab, click on `Browse profile folder`
 4. Drag and drop the `BepInEx` folder from the `.zip` to the profile folder that got opened
   + `X:\Users\%USER%\AppData\Roaming\r2modmanPlus-local\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\`
-  + OR
-  + `X:\Users\%USER%\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\`
 5. You can delete our custom musics/sounds, or add your own by going into
   + `X:\Users\%USER%\AppData\Roaming\r2modmanPlus-local\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\Custom Songs\Boombox Music\`
-  + OR
-  + `X:\Users\%USER%\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\BepInEx\Custom Songs\Boombox Music\`
 
-> *You don't need to drag any other files exept `BepInEx`, do NOT replace the existing files*
+> **You don't need to drag any other files exept `BepInEx`, do NOT replace the existing files**
 >> You can add your own custom musics/sounds into the same folder patch as above, needs be an `.mp3` or `.wav`
 
-![modlist.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.6/resources/img/modlist.png)
+![modlist.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.4.7/resources/img/modlist.png)
 
+Here is a list of the mods, you can see wich one we don't recommend you to disable, and wich one you can without having any problems, this list can be unaccurate. We still recommend everyone to enable all of the mods included in this pack to play easily and quickly with your friends, if you encounter problems with some mods, you can report it via [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/issues).
 
 <details>
   <summary>Show mods list</summary>
@@ -118,6 +115,7 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 |[MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)|🔴⚡|
 |[Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)|🔴⚡|
 |[Corporate_Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/)|🟢|
+|[Scopophobia](https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/)|🔴⚡|
 |[NeedyCats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)|🔴⚡|
 |[GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompanyGamblingMachineAtTheCompany/)|🔴⚡|
 |[InfiniteEmote](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/InfiniteEmote/)|🔴|
@@ -135,7 +133,6 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 |[IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)|🟢|
 |[Runtime_Netcode_Patcher](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)|🔴|
 |[BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/)|🔴|
-|[BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)|🟢|
 |[EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)|🔴|
 |[MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/)|🔴⚡|
 |[FOV_Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)|🟢|
@@ -150,6 +147,7 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 |[AlwaysHearActiveTalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)|🟢|
 |[HideModList](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)|🟢|
 |[BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)|🔴⚡|
+|[ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)|🟢|
 |[CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)|🟢|
 |[TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)|🟢|
 |[Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)|🔴⚡|
@@ -162,5 +160,3 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 **Here's a disclaimer:** You can't disable server-sided mods and play with someone that is hosting a lobby with the presumed disabled server-sided mods!
 
 > Server-sided mods are mods from the host player that needs to be enabled by other players in order to play without having de-sync problems, bugs or even being able to join their lobby. Depending of the mod, some settings are relative to the host configuration only.
-
-Here is a list of the mods, you can see wich one we don't recommend you to disable, and wich one you can without having any problems, this list can be unaccurate. We still recommend everyone to enable all of the mods included in this pack to play easily and quickly with your friends, if you encounter problems with some mods, you can report it via [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/issues).
