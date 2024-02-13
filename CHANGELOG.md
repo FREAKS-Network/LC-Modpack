@@ -1,3 +1,14 @@
+# 2.5.1
+
++ **Added mods:**
+  + [BarchLib](https://thunderstore.io/c/lethal-company/p/qwbarch/BarchLib/)
+  + [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
+  + [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+  + [NAudio](https://thunderstore.io/c/lethal-company/p/Bobbie/NAudio/)
+  + [UniTask](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/)
++ **Removed mods:**
+  + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+
 # 2.5.0
 
 + **Added mods:**

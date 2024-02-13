@@ -1,17 +1,17 @@
-![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.5.0/resources/img/banner.png)
+![banner.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.5.1/resources/img/banner.png)
 
-![installation.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.5.0/resources/img/installation.png)
+![installation.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.5.1/resources/img/installation.png)
 
 Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/), then click on the `Install with Mod Manager` button right above.
 
 > ### Do not forget to click on `Update all` inside the yellow banner in the `Installed` tab of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) if you need to after the installation, and aslo everytime you want to launch and play LC with people using this modpack.
 > Please note that whenever the modpack gets an update, we recommend you (and your friends) to create a clean new profile into [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and reinstall the modpack from this webpage or in the mod browser of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) to avoid any conflict inbetween newer and older version of mods updates, removed mods and added mods.
 
-![configuration.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.5.0/resources/img/configuration.png)
+![configuration.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.5.1/resources/img/configuration.png)
 
 Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
 
-![custom_boombox.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.5.0/resources/img/custom_boombox.png)
+![custom_boombox.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.5.1/resources/img/custom_boombox.png)
 
 We have included our custom boombox musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten). Some of them can be **NSFW**! As well for some custom posters inside the ship, so if you are streaming with this modpack, be carefull!
 
@@ -65,7 +65,7 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 > **You don't need to drag any other files exept `BepInEx`, do NOT replace the existing files**
 >> You can add your own custom musics/sounds into the same folder patch as above, needs be an `.mp3` or `.wav`
 
-![modlist.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.5.0/resources/img/modlist.png)
+![modlist.png](https://raw.githubusercontent.com/SKAREZ/FREAKS-Modpack/2.5.1/resources/img/modlist.png)
 
 Here is a list of the mods, you can see wich one we don't recommend you to disable, and wich one you can without having any problems, this list can be unaccurate. We still recommend everyone to enable all of the mods included in this pack to play easily and quickly with your friends, if you encounter problems with some mods, you can report it via [GitHub](https://github.com/SKAREZ/FREAKS-Modpack/issues).
 
@@ -87,6 +87,8 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)|🔴|
 |[LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)|🟢|
 |[FixRPCLag](https://thunderstore.io/c/lethal-company/p/Bobbie/FixRPCLag/)|🟢|
+|[UniTask](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/)|🔴|
+|[NAudio](https://thunderstore.io/c/lethal-company/p/Bobbie/NAudio/)|🔴|
 |[CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)|🔴⚡|
 |[MasterKey](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/MasterKey/)|🔴⚡|
 |[KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)|🔴⚡|
@@ -128,6 +130,7 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[JumpDelayPatch](https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/)|🔴|
 |[HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)|🔴|
 |[HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)|🟢|
+|[LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)|🔴⚡|
 |[EnhancedRadarBooster](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/)|🔴⚡|
 |[GlowStickSuits](https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/)|🟢|
 |[TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)|🔴|
@@ -138,8 +141,9 @@ Here is a list of the mods, you can see wich one we don't recommend you to disab
 |[Park_Suits](https://thunderstore.io/c/lethal-company/p/Park/Park_Suits/)|🟢|
 |[EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)|🔴|
 |[MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/)|🔴⚡|
+|[BarchLib](https://thunderstore.io/c/lethal-company/p/qwbarch/BarchLib/)|🔴|
+|[Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)|🔴⚡|
 |[FOV_Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)|🟢|
-|[Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)|🟢|
 |[InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)|🔴|
 |[Buy_Any_Ship_Decoration](https://thunderstore.io/c/lethal-company/p/Sant5050/Buy_Any_Ship_Decoration/)|🔴⚡|
 |[Permanent_Ladder](https://thunderstore.io/c/lethal-company/p/Silvercore/Permanent_Ladder/)|🔴⚡|
