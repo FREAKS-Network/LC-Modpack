@@ -1,3 +1,27 @@
+# 2.5.0
+
++ **Added mods:**
+  + [davson_suitpack](https://thunderstore.io/c/lethal-company/p/davson/davson_suitpack/)
+  + [GlowStickSuits](https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/)
+  + [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)
+  + [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/)
+  + [MenuMusicMute](https://thunderstore.io/c/lethal-company/p/Graze/MenuMusicMute/)
+  + [NoSellLimit](https://thunderstore.io/c/lethal-company/p/ViViKo/NoSellLimit/)
+  + [Park_Suits](https://thunderstore.io/c/lethal-company/p/Park/Park_Suits/)
+  + [SCPFoundationDungeon](https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/)
+  + [SCP_Foundation_Suit](https://thunderstore.io/c/lethal-company/p/TeamClark/SCP_Foundation_Suit/)
+  + [SpectatorCameraConfig](https://thunderstore.io/c/lethal-company/p/thechitoteam/SpectatorCameraConfig/)
++ **Removed mods:**
+  + [FPSSpectate](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate/)
+  + [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompanyGamblingMachineAtTheCompany/)
+  + [NeedyCats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)
+  + [ScannablePlayerItems](https://thunderstore.io/c/lethal-company/p/Graze/ScannablePlayerItems/)
++ **Updated mods:**
+  + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    `1.1.3 > 1.1.4`
+  + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+    `1.8.6 > 1.9.0`
+
 # 2.4.7
 
 + **Added mods:**
