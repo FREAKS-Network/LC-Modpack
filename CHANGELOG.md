@@ -1,5 +1,12 @@
-# 2.5.1
+# 2.5.2
++ **Configuration:**
+  + [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
+    + Set `VisibilityInside` setting from `0.025` to `0`
++ **Other:**
+  + Fixed `CHANGELOG.md`
 
+
+# 2.5.1
 + **Added mods:**
   + [BarchLib](https://thunderstore.io/c/lethal-company/p/qwbarch/BarchLib/)
   + [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
@@ -9,8 +16,8 @@
 + **Removed mods:**
   + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
 
-# 2.5.0
 
+# 2.5.0
 + **Added mods:**
   + [davson_suitpack](https://thunderstore.io/c/lethal-company/p/davson/davson_suitpack/)
   + [GlowStickSuits](https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/)
@@ -33,8 +40,8 @@
   + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
     `1.8.6 > 1.9.0`
 
-# 2.4.7
 
+# 2.4.7
 + **Added mods:**
   + [Scopophobia](https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/)
   + [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
@@ -56,8 +63,8 @@
   + Fixed `CHANGELOG.md`
   + Fixed `README.md`
 
-# 2.4.6
 
+# 2.4.6
 + **Configuration:**
   + [EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)
     + Set `ModifyDarkness` bool from `true` to `false`
@@ -65,8 +72,8 @@
 + **Other:**
   + Fixed `README.md`
 
-# 2.4.5
 
+# 2.4.5
 + **Added mods:**
   + [LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/)
   + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
@@ -79,8 +86,8 @@
 + **Other:**
   + Fixed posters image mask that was still visible (I forgot to disable them when exporting from PS)
 
-# 2.4.4
 
+# 2.4.4
 + **Removed mods:**
   + [QuickRestart](https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/)
     > You can just type "eject" inside the terminal to restart a game (that's a vanilla feature)
@@ -110,8 +117,8 @@
   + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
     + Set `VoiceLineFrequency` setting from `1.25` to `1.5`
 
-# 2.4.3
 
+# 2.4.3
 + **Updated mods:**
   + [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/)
     `1.2.1 > 1.3.0`
@@ -121,8 +128,8 @@
   + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
     + Fixed broken keybindings
 
-# 2.4.2
 
+# 2.4.2
 + **Updated mods:**
   + [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
     `1.5.3 > 1.6.0`
@@ -161,8 +168,8 @@
 + **Other:**
   + Added custom posters images for [LethalPosters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/) (this will not become a standalone mod, this will stay exclusive to the modpack)
 
-# 2.4.1
 
+# 2.4.1
 + **Added mods:**
   + [HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)
     > [NiceChat](https://thunderstore.io/c/lethal-company/p/taffyko/NiceChat/) seems to not fade the chat away, so I'll bring back this mod.
@@ -188,8 +195,8 @@
   + Updated `BepInEx\config\*.cfg` files from outdated bools and setting that were still in some configurations
   + Changed/Deleted some keybindings set by default that would been duplicates or useless, use InputUtils menu in-game to change a mod keybindings!
 
-# 2.4.0
 
+# 2.4.0
 + **Added mods:**
   + [Boombox_Sync_Fix](https://thunderstore.io/c/lethal-company/p/FutureSavior/Boombox_Sync_Fix/)
   + [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)
@@ -245,8 +252,8 @@
       > This as been replaced for [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/), it's still <kbd>V</kbd> by default for the emote wheel.
       > To use [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)'s emotes, use the numeric hotbar that is set by default from 1 to 0. 
 
-# 2.3.0
 
+# 2.3.0
 + **Removed mods:**
   + [CarpetSound](https://thunderstore.io/c/lethal-company/p/YourFurnace/CarpetSound/)
   + [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/)
@@ -302,8 +309,8 @@
     + Set `UseSpawnRarity` bool from `false` to `true`
     + Set `SpawnRarity` setting from `15%` to `25%`
 
-# 2.2.3
 
+# 2.2.3
 + **Added mods:**
   + [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
   + [MasterKey](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/MasterKey/)
@@ -319,8 +326,8 @@
   + [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
     + Set `ConfigFile` bool from `true` to `false`
 
-# 2.2.2
 
+# 2.2.2
 + **Added mods:**
   + [BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/)
   + [BuyableShotgunShells](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/)
@@ -349,8 +356,8 @@
   + [NameplateTweaks](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
     + Disabled player nametag to fit better with the [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) mod
 
-# 2.2.1
 
+# 2.2.1
 + **Added mods:**
   + [Buy_Any_Ship_Decoration](https://thunderstore.io/c/lethal-company/p/Sant5050/Buy_Any_Ship_Decoration/)
   + [CompatibilityChecker](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/)
@@ -410,8 +417,8 @@
   + Updated `BepInEx\config\*.cfg` files from outdated bools and setting that were still in some configurations
   + Deleted old `BepInEx\config\*.cfg` files from removed mods
 
-# 2.2.0
 
+# 2.2.0
 + **Added mods:**
   + [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
   + [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
@@ -539,8 +546,8 @@
 > 
 > We wanted Lategame Upgrades to be less harder, especially upgrades costs that were too overrated for the reward it gives. This mod adds plenty of new mechanics and items that needs to be playable more often even in early/mid game... So we made a few tweaks depending of what the upgrades and their different tiers gives, that we think are fair enough, some of are still subjects to change.
 
-# 2.1.2
 
+# 2.1.2
 + **Updated mods:**
   + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
     `1.5.5 > 1.5.7`
@@ -559,8 +566,8 @@
 + **Other:**
   + Deleted [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)'s configuration file since it got removed from the modpack
 
-# 2.1.1
 
+# 2.1.1
 + **Updated mods:**
   + [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
     `1.4.3 > 1.4.4`
@@ -576,8 +583,8 @@
   + Fixed `README.md`
   + Fixed `manifest.json`
 
-# 2.1.0
 
+# 2.1.0
 + **Added mods:**
   + [AlwaysPickup](https://thunderstore.io/c/lethal-company/p/NutNutty/AlwaysPickup/)
   + [CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)
@@ -602,8 +609,8 @@
     + Set `Blindness` bool from `true` to `false`
     + Set `Concussed` bool from `true` to `false`
 
-# 2.0.1
 
+# 2.0.1
 + **Added custom boombox musics:**
   + [help_urself.mp3](https://audio.jukehost.co.uk/GuKJIPv6J8VRlrpKJdXb9WaffqpwLlYy)
   + [M2LT.mp3](https://audio.jukehost.co.uk/c5sN9emtVaUIZeqFqsMjbYDhJEhZM8fk)
@@ -612,8 +619,8 @@
   + Fixed `README.md`
   + Fixed `manifest.json`
 
-# 2.0.0
 
+# 2.0.0
 + **Added mods:**
   + [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
   + [Corporate Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/)
@@ -663,8 +670,8 @@
 >
 > + We have improved a lot our modpack, after using it for more than one month, the game seemed to be a little boring, so we added mods that improve gameplay and lifetime of the game, we will continue to add more mods that we like in the future, hope you guys will like it, and if you don't, you can disable the new mods, or play on older versions of the modpack!
 
-# 1.3.0
 
+# 1.3.0
 + **Added mods:**
   + [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
   + [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
@@ -682,8 +689,8 @@
   + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
     `2.2.0 > 2.2.1`
 
-# 1.2.1
 
+# 1.2.1
 + **Configuration:**
   + [Lategame_Upgrade](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/):
     + Set `ToggleNightVisionKey` keybind from <kbd>leftAlt</kbd> to <kbd>N</kbd>
@@ -692,8 +699,8 @@
   + Fixed `README.md`
   + Fixed `CHANGELOG.md`
 
-# 1.2.0
 
+# 1.2.0
 + **Added mods:**
   + [Boombox Controller](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)
   + [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
@@ -712,8 +719,8 @@
   + [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
     `1.1.1 > 1.1.2`
 
-# 1.1.0
 
+# 1.1.0
 + **Added mods:**
   + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
 + **Updated mods:**
@@ -746,6 +753,6 @@
 + **Added custom boombox musics:**
   + [Les_demons_de_minuit.mp3](https://www.youtube.com/watch?v=OP1Q1flNbVA)
 
-# 1.0.0
 
+# 1.0.0
 + **Release**
