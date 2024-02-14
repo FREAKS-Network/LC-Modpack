@@ -1,3 +1,19 @@
+# 2.5.3
++ **Added mods:**
+  + [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/)
++ **Updated mods:**
+  + [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/)
+    `1.1.4 > 1.1.6`
+  + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    `1.1.4 > 1.1.5`
+  + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+    `1.9.0 > 1.9.1`
++ **Configuration:**
+  + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    + Set `MonitorEmissiveColor` setting from `0.05, 0.13, 0.05` to `0.05, 0.05, 0.05`
+    + Set `NightVisionBrightness` setting from `1` to `3`
+
+
 # 2.5.2
 + **Configuration:**
   + [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
