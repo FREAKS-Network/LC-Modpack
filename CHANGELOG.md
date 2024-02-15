@@ -1,3 +1,26 @@
+# 2.5.4
++ **Updated mods:**
+  + [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
+    `0.2.3 > 0.2.4`
+  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+    `2.3.2 > 2.4.0`
+  + [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+    `1.0.12 > 1.0.13`
+  + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    `1.1.5 > 1.2.0`
++ **Configuration:**
+  + [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+    + Set `EnableGhostgirl` bool from `true` to `false`
+    + Set `EnableManticoil` bool from `true` to `false`
+    + Set `MaximumDelay` setting from `20000` to `30000`
+    + Set `MaximumDelayNonMasked` setting `20000` to `30000`
+    + Set `MinimumDelay` setting from `7000` to `15000`
+    + Set `MinimumDelayNonMasked` setting from `7000` to `15000`
+    + Set `MuteLocalPlayerVoice` bool from `false` to `true`
+  + [SCPFoundationDungeon](https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/)
+    + Set `FoundationLengthOverride` setting from `-1` to `5`
+    + Set `FoundationRarity` setting from `100` to `25`
+
 # 2.5.3
 + **Added mods:**
   + [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/)
