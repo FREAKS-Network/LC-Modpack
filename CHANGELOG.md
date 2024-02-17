@@ -1,3 +1,24 @@
+# 2.5.5
++ **Updated mods:**
+  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
+    `1.4.5 > 1.4.6`
+  + [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
+    `0.2.4 > 0.2.5`
+  + [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+    `2.4.0 > 2.4.1`
+  + [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+    `1.0.13 > 1.0.14`
+  + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    `1.2.0 > 1.2.1`
+   + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+    `1.9.1 > 1.9.3`
+  + [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
+    `1.2.3 > 1.2.4`
++ **Configuration:**
+  + [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+    + Set `SpawnOnPlayerDeath` setting from `100` to `0`
+
+
 # 2.5.4
 + **Updated mods:**
   + [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
@@ -407,16 +428,26 @@
 + **Removed mods:**
   + [ScalingStartCredits](https://thunderstore.io/c/lethal-company/p/sunnobunno/ScalingStartCredits/)
 + **Updated mods:**
-  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) `1.5.0 > 1.5.1`
-  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/) `1.4.0 > 1.4.2`
-  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `2.8.7 > 2.8.8`
-  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `0.10.3 > 0.11.1`
-  + [More_Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) `1.7.2 > 1.7.4`
-  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `1.5.7 > 1.5.8`
-  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.8.1 > 1.8.6`
-  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) `1.5.3 > 1.5.4`
-  + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) `2.0.5 > 2.0.6`
-  + [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) `1.2.2 > 1.2.3`
+  + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
+    `1.5.0 > 1.5.1`
+  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
+    `1.4.0 > 1.4.2`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    `2.8.7 > 2.8.8`
+  + [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)
+    `0.10.3 > 0.11.1`
+  + [More_Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
+    `1.7.2 > 1.7.4`
+  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
+    `1.5.7 > 1.5.8`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
+    `1.8.1 > 1.8.6`
+  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
+    `1.5.3 > 1.5.4`
+  + [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+    `2.0.5 > 2.0.6`
+  + [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
+    `1.2.2 > 1.2.3`
 + **Added custom boombox musics:**
   + [0bpm.mp3](https://audio.jukehost.co.uk/V2izPe5uZdrXXQMUG3JwWkIa47EiP708)
   + [1992-CRX.mp3](https://audio.jukehost.co.uk/irLjOq50HV5N46pWsQhhg2jNqvvOCKPR)
