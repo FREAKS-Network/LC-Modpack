@@ -1,3 +1,19 @@
+# 2.5.7
++ **Updated mods:**
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    `3.2.3 > 3.2.4`
+  + [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/)
+    `1.5.0 > 1.5.1`
+  + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    `1.2.8 > 1.2.9`
+  + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+    `1.9.4 > 1.9.5`
++ **Configuration:**
+  + [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/)
+    + Set `TerminalMoonsPreviewInfoDefault` setting from `None` to `Vanilla`
+      > The moons list weather informations should be fixed
+
+
 # 2.5.6
 + **Updated mods:**
   + [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)
