@@ -1,3 +1,37 @@
+# 2.5.6
++ **Updated mods:**
+  + [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)
+    `1.0.6 > 1.0.8`
+  + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+    `1.1.10 > 2.0.0`
+  + [LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/)
+    `1.0.0 > 1.1.0`
+  + [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
+    `0.2.5 > 0.3.5`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    `3.1.1 > 3.2.3`
+  + [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/)
+    `1.4.5 > 1.5.0`
+  + [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+    `1.0.14 > 1.0.16`
+  + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    `1.2.1 > 1.2.8`
+  + [SCPFoundationDungeon](https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/)
+    `2.3.1 > 3.0.0`
+  + [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)
+    `1.5.1 > 1.5.2`
+  + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+    `1.9.3 > 1.9.4`
++ **Configuration:**
+  + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    + Set `BruteForcePreventFreezes` bool from `false` to `true`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    + Set `ControlBindForDropAllItems` keybind from <kbd>Middle Mouse Button</kbd> to <kbd>E</kbd>
+    + Set `EnableQuantumDisruptorUpgrade` bool from `false` to `true`
+  + [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/)
+    + Set `CameraFov` setting from `75` to `86`
+
+
 # 2.5.5
 + **Updated mods:**
   + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
@@ -10,7 +44,7 @@
     `1.0.13 > 1.0.14`
   + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
     `1.2.0 > 1.2.1`
-   + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+  + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
     `1.9.1 > 1.9.3`
   + [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
     `1.2.3 > 1.2.4`
@@ -817,9 +851,9 @@
   + [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
     `1.0.2 > 1.1.1`
   + [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)
-  `1.3.2 > 1.4.0`
+    `1.3.2 > 1.4.0`
   + [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)
-  `1.0.1 > 1.0.4`
+    `1.0.1 > 1.0.4`
 + **Added custom boombox musics:**
   + [Les_demons_de_minuit.mp3](https://www.youtube.com/watch?v=OP1Q1flNbVA)
 
