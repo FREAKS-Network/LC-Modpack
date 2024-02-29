@@ -1,3 +1,20 @@
+# 3.0.0
++ **Updated mods:**
+  + [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)
+    `1.0.8 > 1.0.9`
+  + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+    `2.0.0 > 2.0.2`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    `3.2.4 > 3.3.0`
+  + [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/)
+    `1.5.1 > 1.5.2`
+  + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    `1.2.9 > 1.2.10`
++ **Other:**
+  + New icon
+  + Switched original GitHub repository to the FREAKS Network team repositories
+
+
 # 2.5.7
 + **Updated mods:**
   + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
