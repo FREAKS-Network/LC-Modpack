@@ -1,3 +1,42 @@
+# 3.0.1
++ **Updated mods:**
+  + [BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/)
+    `1.0.4 > 1.1.0`
+  + [BuyableShotgunShells](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/)
+    `1.0.5 > 1.1.0`
+  + [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
+    `1.6.0 > 1.6.2`
+  + [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+    `2.0.2 > 2.0.3`
+  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
+    `1.4.6 > 1.5.0`
+  + [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+    `3.3.0 > 3.3.1`
+  + [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
+    `0.3.5 > 0.4.2`
+  + [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/)
+    `1.5.2 > 1.5.4`
+  + [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+    `1.0.16 > 1.1.0`
+  + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    `1.2.10 > 1.3.0`
+  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `1.6.3 > 2.0.0`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `1.8.17 > 2.0.2`
+  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) `1.6.2 > 2.0.0`
+  + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+    `1.9.5 > 2.0.3`
++ **Configuration:**
+  + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
+    + Fixed mod configuration due to the new configuration file from version `1.5.0`
+  + [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
+    + Set `JukeboxVolume` setting from `18%` to `5%`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
+    + Set `DisablePurchasingReservedSlots` bool from `false` to `true`
+    + Fixed old broken mod configuration due to `2.0.0` update
+  + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+    + Set `DisableBoomboxRequirement` bool from `false` to `true`
+
+
 # 3.0.0
 + **Updated mods:**
   + [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)
