@@ -1,17 +1,20 @@
-![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.0.1/resources/img/banner.png)
+![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.1.0/resources/img/banner.png)
 
-![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.0.1/resources/img/installation.png)
+
+![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.1.0/resources/img/installation.png)
 
 Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/), then click on the `Install with Mod Manager` button right above.
 
 > ### Do not forget to click on `Update all` inside the yellow banner in the `Installed` tab of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) if you need to after the installation, and aslo everytime you want to launch and play LC with people using this modpack.
 > Please note that whenever the modpack gets an update, we recommend you (and your friends) to create a clean new profile into [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and reinstall the modpack from this webpage or in the mod browser of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) to avoid any conflict inbetween newer and older version of mods updates, removed mods and added mods.
 
-![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.0.1/resources/img/configuration.png)
+
+![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.1.0/resources/img/configuration.png)
 
 Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
 
-![custom_boombox.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.0.1/resources/img/custom_boombox.png)
+
+![custom_boombox.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.1.0/resources/img/custom_boombox.png)
 
 We have included our custom boombox musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten). Some of them can be **NSFW**! As well for some custom posters inside the ship, so if you are streaming with this modpack, be carefull!
 
@@ -65,109 +68,26 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 > **You don't need to drag any other files exept `BepInEx`, do NOT replace the existing files**
 >> You can add your own custom musics/sounds into the same folder patch as above, needs be an `.mp3` or `.wav`
 
-![modlist.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.0.1/resources/img/modlist.png)
 
-Here is a list of the mods, you can see wich one we don't recommend you to disable, and wich one you can without having any problems, this list can be unaccurate. We still recommend everyone to enable all of the mods included in this pack to play easily and quickly with your friends, if you encounter problems with some mods, you can report it via [GitHub](https://github.com/FREAKS-Network/LC-Modpack/issues).
-
-<details>
-  <summary>Show mods list</summary>
-
-### `🟢 Yes` `🔴 No` `⚡ Host Need`
-|Mod Name|Disableable|
-|:--------|:--------:|
-|[LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)|🔴|
-|[VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)|🟢|
-|[LethalConfig](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/)|🟢|
-|[DiscountAlert](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert/)|🟢|
-|[SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/)|🔴⚡|
-|[LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)|🔴⚡|
-|[Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)|🔴⚡|
-|[SCPFoundationDungeon](https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/)|🔴⚡|
-|[LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)|🔴⚡|
-|[BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)|🔴|
-|[LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)|🟢|
-|[FixRPCLag](https://thunderstore.io/c/lethal-company/p/Bobbie/FixRPCLag/)|🟢|
-|[UniTask](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/)|🔴|
-|[NAudio](https://thunderstore.io/c/lethal-company/p/Bobbie/NAudio/)|🔴|
-|[CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)|🔴⚡|
-|[MasterKey](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/MasterKey/)|🔴⚡|
-|[KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)|🔴⚡|
-|[davson_suitpack](https://thunderstore.io/c/lethal-company/p/davson/davson_suitpack/)|🟢|
-|[MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/)|🔴⚡|
-|[EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)|🟢|
-|[Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)|🔴⚡|
-|[LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)|🔴⚡|
-|[HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/)|🔴⚡|
-|[LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/)|🔴⚡|
-|[LethalPosters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/)|🟢|
-|[DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/)|🔴⚡|
-|[ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)|🔴⚡|
-|[ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)|🔴⚡|
-|[HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)|🔴⚡|
-|[ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)|🔴⚡|
-|[ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/)|🟢|
-|[FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)|🔴⚡|
-|[MoreBlood](https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/)|🟢|
-|[LetMeLookDown](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)|🔴|
-|[TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)|🔴|
-|[SuitsPlus](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)|🟢|
-|[Hold_Scan_Button](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)|🟢|
-|[Boombox_Sync_Fix](https://thunderstore.io/c/lethal-company/p/FutureSavior/Boombox_Sync_Fix/)|🔴|
-|[MenuMusicMute](https://thunderstore.io/c/lethal-company/p/Graze/MenuMusicMute/)|🟢|
-|[LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/)|🟢|
-|[SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)|🟢|
-|[MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/)|🔴⚡|
-|[LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/)|🔴⚡|
-|[Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)|🔴⚡|
-|[Corporate_Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/)|🟢|
-|[Scopophobia](https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/)|🔴⚡|
-|[InfiniteEmote](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/InfiniteEmote/)|🔴|
-|[DissonanceLagFix](https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/)|🟢|
-|[Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)|🔴⚡|
-|[BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/)|🔴⚡|
-|[BuyableShotgunShells](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/)|🔴⚡|
-|[PushCompany](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)|🔴⚡|
-|[JumpDelayPatch](https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/)|🔴|
-|[HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)|🔴|
-|[HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)|🟢|
-|[LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)|🔴⚡|
-|[EnhancedRadarBooster](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/)|🔴⚡|
-|[GlowStickSuits](https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/)|🟢|
-|[TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)|🔴|
-|[MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)|🔴⚡|
-|[IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)|🟢|
-|[Runtime_Netcode_Patcher](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)|🔴|
-|[BepInUtils](https://thunderstore.io/c/lethal-company/p/Ozone/BepInUtils/)|🔴|
-|[Park_Suits](https://thunderstore.io/c/lethal-company/p/Park/Park_Suits/)|🟢|
-|[EnhancedSpectator](https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/)|🔴|
-|[MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/)|🔴⚡|
-|[BarchLib](https://thunderstore.io/c/lethal-company/p/qwbarch/BarchLib/)|🔴|
-|[Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)|🔴⚡|
-|[FOV_Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)|🟢|
-|[InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)|🔴|
-|[Buy_Any_Ship_Decoration](https://thunderstore.io/c/lethal-company/p/Sant5050/Buy_Any_Ship_Decoration/)|🔴⚡|
-|[Permanent_Ladder](https://thunderstore.io/c/lethal-company/p/Silvercore/Permanent_Ladder/)|🔴⚡|
-|[More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)|🔴|
-|[HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)|🟢|
-|[Custom_Boombox_Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/)|🟢|
-|[YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)|🟢|
-|[AlwaysHearActiveTalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)|🟢|
-|[HideModList](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)|🟢|
-|[LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/)|🔴⚡|
-|[BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)|🔴⚡|
-|[SCP_Foundation_Suit](https://thunderstore.io/c/lethal-company/p/TeamClark/SCP_Foundation_Suit/)|🟢|
-|[SpectatorCameraConfig](https://thunderstore.io/c/lethal-company/p/thechitoteam/SpectatorCameraConfig/)|🟢|
-|[ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)|🟢|
-|[CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)|🟢|
-|[TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)|🟢|
-|[NoSellLimit](https://thunderstore.io/c/lethal-company/p/ViViKo/NoSellLimit/)|🔴⚡|
-|[Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)|🔴⚡|
-|[More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)|🟢|
-|[PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/)|🔴⚡|
-|[OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)|🟢|
-
-</details>
+![modlist.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.1.0/resources/img/modlist.png)
 
 **Here's a disclaimer:** You can't disable server-sided mods and play with someone that is hosting a lobby with the presumed disabled server-sided mods!
 
 > Server-sided mods are mods from the host player that needs to be enabled by other players in order to play without having de-sync problems, bugs or even being able to join their lobby. Depending of the mod, some settings are relative to the host configuration only. If some mods are not listed here but are installed in the modlist, they are maybe other dependencies for some mods of this modpack to work properly, so try not to disable them.
+
+
+![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.1.0/resources/img/known_issues.png)
+
+- When a player join the ship in orbit, they can spawn outside the ship, having a dark screen and being softlocked.
+  - **DC/RC fixes it.**
+- When a player join the ship, their audio can be bugged and locked outside the ship, DC/RC fixes this problem.
+  - **DC/RC fixes it.**
+- Some items can be desynced, if an item is on the ground but cannot be picked up, this is a desync item, try not to spam `E` to pick it up, as it may cause you to gain player speed and eventually, getting killed by gravity.
+  - **No fixes as been found to this issue**
+
+![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.1.0/resources/img/our_mods.png)
+
+### Check out our other mods we made for Lethal Company!
+
+[![suitsplus.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.1.0/resources/img/suitsplus.png)](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)
+Private Lethal Company mod from FREAKS®, adding 17 colored suits, as well as some custom suits.

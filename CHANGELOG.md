@@ -1,3 +1,34 @@
+# 3.1.0
++ **Added mods:**
+  + [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/)
+  + [BetterShotgun](https://thunderstore.io/c/lethal-company/p/Hypick/BetterShotgun/)
+  + [DisregardEarlyVoting](https://thunderstore.io/c/lethal-company/p/Ozone/Disregard_Early_Voting/)
+  + [DontBlink](https://thunderstore.io/c/lethal-company/p/Orion/DontBlink/)
+  + [EmployeeAssignments](https://thunderstore.io/c/lethal-company/p/amnsoft/EmployeeAssignments/)
+  + [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/)
+  + [HealthMetrics](https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/)
+  + [LBtoKG](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG/)
+  + [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
++ **Removed mods:**
+  + [BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/)
+  + [BuyableShotgunShells](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/)
+  + [EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)
++ **Updated mods:**
+  + [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
+    `0.6.3 > 0.6.4`
+  + [LethalSnap](https://thunderstore.io/c/lethal-company/p/SweetOnion/LethalSnap/)
+    `1.5.4 > 1.5.5`
+  + [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) `2.0.0 > 2.0.1`
+  + [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `2.0.2 > 2.0.4`
+  + [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) `2.0.0 > 2.0.1`
+  + [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+    `2.0.3 > 2.0.4`
++ **Other:**
+  + Updated `README.md`
+  + Removed useless mods from the dependencies list, most of them were dependencies for already used mods from the modpack, so they still will be downloaded when installing the modpack.
+  + Removed the modlist from the `README.md` because it was kind of useless and takes too much time to update.
+
+
 # 3.0.1
 + **Updated mods:**
   + [BuyableShotgun](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgun/)
