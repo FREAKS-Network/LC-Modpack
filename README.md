@@ -92,4 +92,4 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 
 [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/3.1.1/resources/img/icons/suitsplus.png" alt="suitsplus" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)
 
-[<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.0.0/resources/img/icons/vanilla_edition.png" alt="vanilla_edition" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Vanilla_Edition/)
+[<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/vanilla/resources/img/icons/vanilla_edition.png" alt="vanilla_edition" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Vanilla_Edition/)
