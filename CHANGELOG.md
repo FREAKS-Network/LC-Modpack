@@ -1,3 +1,12 @@
+# 3.1.1
++ **Removed mods:**
+  + [DisregardEarlyVoting](https://thunderstore.io/c/lethal-company/p/Ozone/Disregard_Early_Voting/)
++ **Other:**
+  + Fixed `README.md`
++ **Note:**
+  + We will no longer update the mods versions inside `manifest.json`, unless it's needed. But still, the configuration files for the mods will be updated. So from now, don't forget to update all the mods after installing the modpack.
+
+
 # 3.1.0
 + **Added mods:**
   + [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/)
