@@ -1,6 +1,6 @@
 {
     "name":"FREAKS_Modpack_Vanilla_Edition",
-    "version_number":"1.0.1",
+    "version_number":"1.0.2",
     "website_url":"https://github.com/FREAKS-Network/LC-Modpack/tree/vanilla",
     "description":"[v50] Private modpack from FREAKS® for Lethal Company but this is vanilla edition! Including +40 mods to improve the QoL of the game without breaking the vanilla experience.",
     "dependencies":[
@@ -32,7 +32,6 @@
         "Graze-MenuMusicMute-1.0.0",
         "Hardy-LCMaxSoundsFix-1.1.0",
         "Hexnet111-SuitSaver-1.1.4",
-        "HomelessGinger-MaskedEnemyOverhaul-3.1.2",
         "Jamil-Corporate_Restructure-1.0.6",
         "KlutzyBubbles-InfiniteEmote-1.3.3",
         "linkoid-DissonanceLagFix-1.0.0",
@@ -56,7 +55,6 @@
         "Sv_Matt-HideModList-1.0.1",
         "thechitoteam-SpectatorCameraConfig-1.0.2",
         "tinyhoot-ShipLoot-1.0.0",
-        "TwinDimensionalProductions-CoilHeadStare-1.0.9",
         "Verity-TooManySuits-1.0.5",
         "ViViKo-NoSellLimit-1.0.1",
         "x753-More_Suits-1.4.1",
