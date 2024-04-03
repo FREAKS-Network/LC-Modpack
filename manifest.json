@@ -1,8 +1,8 @@
 {
     "name":"FREAKS_Modpack_Vanilla_Edition",
-    "version_number":"1.0.0",
+    "version_number":"1.0.1",
     "website_url":"https://github.com/FREAKS-Network/LC-Modpack/tree/vanilla",
-    "description":"[v50] Private modpack from FREAKS® for Lethal Company but this is vanilla edition! Including +40 mods to improve the QoL of the game without broking the vanilla experience.",
+    "description":"[v50] Private modpack from FREAKS® for Lethal Company but this is vanilla edition! Including +40 mods to improve the QoL of the game without breaking the vanilla experience.",
     "dependencies":[
         "2018-LC_API-3.4.5",
         "5Bit-VoiceHUD-1.0.4",
@@ -40,7 +40,6 @@
         "monkes_mods-JumpDelayPatch-1.0.1",
         "Monkeytype-HideChat-1.0.0",
         "Monkeytype-HidePlayerNames-1.0.2",
-        "mrov-TerminalFormatter-0.0.10",
         "notnotnotswipez-MoreCompany-1.8.1",
         "Owen3H-IntroTweaks-1.5.0",
         "Park-Park_Suits-1.0.6",
@@ -55,7 +54,6 @@
         "sunnobunno-YippeeMod-1.2.4",
         "Suskitech-AlwaysHearActiveWalkies-1.4.4",
         "Sv_Matt-HideModList-1.0.1",
-        "TeamClark-SCP_Foundation_Suit-1.1.0",
         "thechitoteam-SpectatorCameraConfig-1.0.2",
         "tinyhoot-ShipLoot-1.0.0",
         "TwinDimensionalProductions-CoilHeadStare-1.0.9",
