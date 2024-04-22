@@ -1,3 +1,12 @@
+# 1.1.1
++ **Configuration:**
+    + [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+        + Set `ShipInternalCamSizeMultiplier` setting from `1` to `3`
+        + Set `ShipExternalCamSizeMultiplier` setting from `1` to `3`
++ **Other:**
+    + Fixed `manifest.json` *(Removed [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) in last commit by accident)*
+
+
 # 1.1.0
 + **Added mods:**
     + [CorporateRestructureWeather](https://thunderstore.io/c/lethal-company/p/CatsArmy/CorporateRestructureWeather/)
