@@ -1,3 +1,8 @@
+# 1.1.1
++ **Other:**
+    + Updated `manifest.json`
+
+
 # 1.1.0
 + **Added mods:**
     + [CorporateRestructureWeather](https://thunderstore.io/c/lethal-company/p/CatsArmy/CorporateRestructureWeather/)
