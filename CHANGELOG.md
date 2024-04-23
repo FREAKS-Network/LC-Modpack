@@ -1,3 +1,23 @@
+# 1.2.0
++ **Added mods:**
+    + [BetterPaycheck](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterPaycheck/)
+    + [CullFactory](https://thunderstore.io/c/lethal-company/p/fumiko/CullFactory/)
+    + [JetpackWarning](https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackWarning/)
+    + [MainMenuVersion](https://thunderstore.io/c/lethal-company/p/mrov/MainMenuVersion/)
+    + [SellTracker](https://thunderstore.io/c/lethal-company/p/NutNutty/SellTracker/)
+    + [ShowAmmoCount](https://thunderstore.io/c/lethal-company/p/SoraYuki/ShowAmmoCount/)
+    + [ShowCapacity](https://thunderstore.io/c/lethal-company/p/Piggy/ShowCapacity/)
+    + [SignalTranslatorAligner](https://thunderstore.io/c/lethal-company/p/LeKAKiD/SignalTranslatorAligner/)
+    + [SpaceShipDoor](https://thunderstore.io/c/lethal-company/p/Wolf11221/SpaceShipDoor/)
+    + [SpaceSunShine](https://thunderstore.io/c/lethal-company/p/CatsArmy/SpaceSunShine/)
++ **Removed mods:**
+    + [IntroTweaks]()
++ **Other:**
+    + Updated `README.md`
+    + New icon
+    + New banner
+
+
 # 1.1.1
 + **Configuration:**
     + [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
