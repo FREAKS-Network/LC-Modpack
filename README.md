@@ -1,10 +1,10 @@
-![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.0/resources/img/banner.png)
+![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/banner.png)
 
 ### Vanilla Edition is out! Check this new version of the FREAKS® Modpack [right here](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Vanilla_Edition/)!
 
 
 
-![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.0/resources/img/installation.png)
+![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/installation.png)
 
 Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/), then click on the `Install with Mod Manager` button right above.
 
@@ -13,13 +13,13 @@ Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2m
 
 
 
-![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.0/resources/img/configuration.png)
+![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/configuration.png)
 
 Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
 
 
 
-![custom_boombox.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.0/resources/img/custom_boombox.png)
+![custom_boombox.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/custom_boombox.png)
 
 We have included our custom boombox musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten). Some of them can be **NSFW**! As well for some custom posters inside the ship, so if you are streaming with this modpack, be carefull!
 
@@ -75,7 +75,7 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 
 
 
-![modlist.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.0/resources/img/modlist.png)
+![modlist.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/modlist.png)
 
 **Here's a disclaimer:** You can't disable server-sided mods and play with someone that is hosting a lobby with the presumed disabled server-sided mods!
 
@@ -83,7 +83,7 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 
 
 
-![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.0/resources/img/known_issues.png)
+![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/known_issues.png)
 
 - When a player join the ship in orbit, they can spawn outside the ship, having a dark screen and being softlocked.
   - **DC/RC fixes it.**
@@ -91,11 +91,12 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
   - **DC/RC fixes it.**
 - Some items can be desynced, if an item is on the ground but cannot be picked up, this is a desync item, try not to spam `E` to pick it up, as it may cause you to gain player speed and eventually, getting killed by gravity.
   - **No fixes as been found to this issue**
+- `FIXED` <strike>Mobs and entities doesn't seem to spawn or be triggered</strike>
+- `FIXED` <strike>Ship can be blocked while in motion/orbit, leaving players unable to route to other moons and not saving progression made through the day</strike>
 
 
-
-![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.0/resources/img/our_mods.png)
+![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/our_mods.png)
 
 ### Check out our other mods we made for Lethal Company!
 
-[<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.0/resources/img/icons/suitsplus.png" alt="suitsplus" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.0/resources/img/icons/vanilla_edition.png" alt="vanilla_edition" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/)
+[<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/icons/suitsplus.png" alt="suitsplus" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/icons/vanilla_edition.png" alt="vanilla_edition" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Vanilla_Edition/)
