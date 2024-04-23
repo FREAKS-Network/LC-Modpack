@@ -1,3 +1,11 @@
+# 1.2.1
++ **Added mods:**
+    + [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
++ **Removed mods:**
+    + [SpaceShipDoor](https://thunderstore.io/c/lethal-company/p/Wolf11221/SpaceShipDoor/)
+    + [SpaceSunShine](https://thunderstore.io/c/lethal-company/p/CatsArmy/SpaceSunShine/)
+
+
 # 1.2.0
 + **Added mods:**
     + [BetterPaycheck](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterPaycheck/)
@@ -11,7 +19,7 @@
     + [SpaceShipDoor](https://thunderstore.io/c/lethal-company/p/Wolf11221/SpaceShipDoor/)
     + [SpaceSunShine](https://thunderstore.io/c/lethal-company/p/CatsArmy/SpaceSunShine/)
 + **Removed mods:**
-    + [IntroTweaks]()
+    + [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
 + **Other:**
     + Updated `README.md`
     + New icon
