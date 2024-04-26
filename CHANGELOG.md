@@ -1,3 +1,28 @@
+# 1.2.2
++ **Added mods:**
+    + [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)
+    + [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
+    + [WeatherTweaks](https://thunderstore.io/c/lethal-company/p/mrov/WeatherTweaks/)
++ **Removed mods**
+    + [LBtoKG](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG/)
++ **Configuration:**
+    + [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+        + Set `DisableShipCamPostProcessing` bool from `true` to `false`
+        + Set `DisplayKgInsteadOfLb` setting from `false` to `true`
+        + Set `ShipInternalCamSizeMultiplier` setting from `3` to `2`
+        + Set `ShipExternalCamSizeMultiplier` setting from `3` to `2`
+        + Set `TwentyFourHourClock` bool from `false` to `true`
+    + [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
+        + Set `DivideShopPageIntoGroups` setting from `5` to `0`
+    + [WeatherTweaks](https://thunderstore.io/c/lethal-company/p/mrov/WeatherTweaks/)
+        + Set `UnknownEnabled` bool from `true` to `false`
+        + Set `Uncertain5050Enabled` bool from `true` to `false`
+        + Set `UncertainEnabled` bool from `true` to `false`
+        + Set `UncertainWeatherEnabled` bool from `true` to `false`
++ **Other:**
+    + Updated dependencies versions to latests.
+
+
 # 1.2.1
 + **Added mods:**
     + [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
