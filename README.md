@@ -1,10 +1,10 @@
-![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.1/resources/img/banner.png)
+![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.2/resources/img/banner.png)
 
-### This is the Vanilla Edition of our modpack, and it is compatible with the v50! Compare to our [original version](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/), the VE does not add new items, mobs and mechanics to the game, preserving the vanilla experience to be fully playable, still, with some mods that improve the game about QoL.
+### This is the Vanilla Edition of our modpack, and it is compatible with the v50! Compare to our [original version](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/), the VE does not add new items, mobs and mechanics to the game, preserving the vanilla experience to be fully playable, still, with some mods that improve QoL of the game.
 
+s
 
-
-![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.1/resources/img/installation.png)
+![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.2/resources/img/installation.png)
 
 Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/), then click on the `Install with Mod Manager` button right above.
 
@@ -13,13 +13,13 @@ Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2m
 
 
 
-![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.1/resources/img/configuration.png)
+![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.2/resources/img/configuration.png)
 
 Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
 
 
 
-![custom_boombox.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.1/resources/img/custom_boombox.png)
+![custom_boombox.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.2/resources/img/custom_boombox.png)
 
 We have included our custom boombox musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten). Some of them can be **NSFW**! As well for some custom posters inside the ship, so if you are streaming with this modpack, be carefull!
 
@@ -75,7 +75,7 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 
 
 
-![modlist.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.1/resources/img/modlist.png)
+![modlist.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.2/resources/img/modlist.png)
 
 **Here's a disclaimer:** You can't disable server-sided mods and play with someone that is hosting a lobby with the presumed disabled server-sided mods!
 
@@ -83,14 +83,19 @@ We have included our custom boombox musics/sounds, thanks to the [Custom Boombox
 
 
 
-![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.1/resources/img/known_issues.png)
+![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.2/resources/img/known_issues.png)
 
+- `NOT FIXED` **From some reasons, you can be unable to use, interact, scroll though the hotbar, switch to reserved slots for the rest of the game until you DC/RC or restart the game**
+- `NOT FIXED` **Players can spawn inside the ship walls and also being unable to speak/hear people, DC/RC or restarting the game can fix this issue**
 - `FIXED` <strike>Mobs and entities doesn't seem to spawn or be triggered</strike>
 - `FIXED` <strike>Ship can be blocked while in motion/orbit, leaving players unable to route to other moons and not saving progression made through the day</strike>
 
+Any bugs to report? Let us know [here](https://github.com/FREAKS-Network/LC-Modpack/issues)! We will try to fix it if we can or giving you more informations!
 
-![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.1/resources/img/our_mods.png)
+
+
+![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.2/resources/img/our_mods.png)
 
 ### Check out our other mods we made for Lethal Company!
 
-[<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.1/resources/img/icons/suitsplus.png" alt="suitsplus" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.1/resources/img/icons/freaks_lc_modpack.png" alt="freaks_lc_modpack" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/)
+[<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.2/resources/img/icons/suitsplus.png" alt="suitsplus" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.2.2/resources/img/icons/freaks_lc_modpack.png" alt="freaks_lc_modpack" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/)
