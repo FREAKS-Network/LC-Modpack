@@ -1,3 +1,20 @@
+# 1.2.3
++ **Added mods:**
+    + [LethalFixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/)
+    + [ScannableCodes](https://thunderstore.io/c/lethal-company/p/Dev1A3/ScannableCodes/)
+    + [TerminalPlus](https://thunderstore.io/c/lethal-company/p/Slam/TerminalPlus/)
++ **Removed mods**
+    + [MenuMusicMute](https://thunderstore.io/c/lethal-company/p/Graze/MenuMusicMute/)
+    + [Park_Suits](https://thunderstore.io/c/lethal-company/p/Park/Park_Suits/)
+    + [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
+    + [WeatherTweaks](https://thunderstore.io/c/lethal-company/p/mrov/WeatherTweaks/)
++ **Configuration:**
+    + [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+        + Set `MenuMusicVolume` value from `100` to `0`
+    + [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+        + Set `RecordWhileDead` bool from `false` to `true`
+
+
 # 1.2.2
 + **Added mods:**
     + [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)
@@ -8,12 +25,12 @@
 + **Configuration:**
     + [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
         + Set `DisableShipCamPostProcessing` bool from `true` to `false`
-        + Set `DisplayKgInsteadOfLb` setting from `false` to `true`
-        + Set `ShipInternalCamSizeMultiplier` setting from `3` to `2`
-        + Set `ShipExternalCamSizeMultiplier` setting from `3` to `2`
+        + Set `DisplayKgInsteadOfLb` bool from `false` to `true`
+        + Set `ShipInternalCamSizeMultiplier` value from `3` to `2`
+        + Set `ShipExternalCamSizeMultiplier` value from `3` to `2`
         + Set `TwentyFourHourClock` bool from `false` to `true`
     + [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
-        + Set `DivideShopPageIntoGroups` setting from `5` to `0`
+        + Set `DivideShopPageIntoGroups` value from `5` to `0`
     + [WeatherTweaks](https://thunderstore.io/c/lethal-company/p/mrov/WeatherTweaks/)
         + Set `UnknownEnabled` bool from `true` to `false`
         + Set `Uncertain5050Enabled` bool from `true` to `false`
@@ -54,8 +71,8 @@
 # 1.1.1
 + **Configuration:**
     + [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
-        + Set `ShipInternalCamSizeMultiplier` setting from `1` to `3`
-        + Set `ShipExternalCamSizeMultiplier` setting from `1` to `3`
+        + Set `ShipInternalCamSizeMultiplier` value from `1` to `3`
+        + Set `ShipExternalCamSizeMultiplier` value from `1` to `3`
 + **Other:**
     + Fixed `manifest.json` *(Removed [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) in last commit by accident)*
 
@@ -78,38 +95,38 @@
     + [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
         + Set `AutoChargeOnOrbit` bool from `false` to `true`
         + Set `DisableShipCamPostProcessing` bool from `false` to `true`
-        + Set `DropShipItemLimit` setting from `24` to `100`
+        + Set `DropShipItemLimit` value from `24` to `100`
         + Set `FixPersonalScanner` bool from `false` to `true`
         + Set `HidePlayerNames` bool from `false` to `true`
         + Set `HideShipCabinetDoors` bool from `false` to `true`
-        + Set `MonitorBackgroundColor` setting from `160959` to `252525`
+        + Set `MonitorBackgroundColor` value from `160959` to `252525`
         + Set `ScanCommandUsesExactAmount` bool from `false` to `true`
-        + Set `ScannableTools` setting to `All`
-        + Set `SellCounterItemLimit` setting from `24` to `100`
+        + Set `ScannableTools` value to `All`
+        + Set `SellCounterItemLimit` value from `24` to `100`
         + Set `ShipMapCamDueNorth` bool from `false` to `true`
-        + Set `ShipMonitor1` setting to `ShipScrap`
-        + Set `ShipMonitor2` setting to `ScrapLeft`
-        + Set `ShipMonitor3` setting to `Time`
-        + Set `ShipMonitor4` setting to `Weather`
-        + Set `ShipMonitor5` setting from `ProfitQuota` to `Credits`
-        + Set `ShipMonitor6` setting from `Deadline` to `Sales`
-        + Set `ShipMonitor7` setting to `DoorPower`
-        + Set `ShipMonitor8` setting to `TotalQuotas`
-        + Set `ShipMonitor9` setting to `ProfitQuota`
-        + Set `ShipMonitor10` setting to `Deadline`
-        + Set `ShipMonitor11` setting to `TotalDays`
-        + Set `ShipMonitor12` setting from `InternalCam` to `TotalDeaths`
-        + Set `ShipMonitor13` setting to `InternalCam`
+        + Set `ShipMonitor1` value to `ShipScrap`
+        + Set `ShipMonitor2` value to `ScrapLeft`
+        + Set `ShipMonitor3` value to `Time`
+        + Set `ShipMonitor4` value to `Weather`
+        + Set `ShipMonitor5` value from `ProfitQuota` to `Credits`
+        + Set `ShipMonitor6` value from `Deadline` to `Sales`
+        + Set `ShipMonitor7` value to `DoorPower`
+        + Set `ShipMonitor8` value to `TotalQuotas`
+        + Set `ShipMonitor9` value to `ProfitQuota`
+        + Set `ShipMonitor10` value to `Deadline`
+        + Set `ShipMonitor11` value to `TotalDays`
+        + Set `ShipMonitor12` value from `InternalCam` to `TotalDeaths`
+        + Set `ShipMonitor13` value to `InternalCam`
         + Set `ShowBlueMonitorBackground` bool from `false` to `true`
         + Set `ShowBackgroundOnAllScreens` bool from `false` to `true`
         + Set `ShowMoonPricesInTerminal` bool from `false` to `true`
         + Set `SpeakerPlaysIntroVoice` bool from `true` to `false`
         + Set `SyncMonitorsFromOtherHost` bool from `false` to `true`
-        + Set `TerminalHistoryItemCount` setting from `20` to `100`
+        + Set `TerminalHistoryItemCount` value from `20` to `100`
         + Set `UseBetterMonitors` from `false` to `true`
     + [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
-        + Set `OverrideFadeHudAlpha` setting from `0.13` to `0.05`
-        + Set `OverrideHotbarHudSpacing` setting from `10` to `5`
+        + Set `OverrideFadeHudAlpha` value from `0.13` to `0.05`
+        + Set `OverrideHotbarHudSpacing` value from `10` to `5`
     + [ItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
         + Set `ApplyHudFormattingFromHotbarPlus` bool from `false` to `true`
     + [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
