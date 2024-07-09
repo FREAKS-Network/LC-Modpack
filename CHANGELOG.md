@@ -1,3 +1,30 @@
+# 1.3.1
++ **Added mods:**
+    + [BensCosmetics](https://thunderstore.io/c/lethal-company/p/PlainBen/BensCosmetics/)
+    + [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
++ **Removed mods:**
+    + [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+      > Company Cruiser seat bug fixed.
++ **Configuration:**
+    + [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
+        + Set `EmoteWheelKey` keybind to <kbd>None</kbd>
+        + Set `GriddySpeed` value from `0.5` to `1.0`
+        + Set `PrisyadkaSpeed` value from `0.34` to `1.0`
+    + [MattyFixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/)
+        + Set `Enabled (CupBoard)` bool from `true` to `false`
+        + Set `Enabled (ItemClipping)` bool from `true` to `false`
+        + Set `Enabled (OutOfBounds)` bool from `true` to `false`
+        + Set `Enabled (ReadableMeshes)` bool from `true` to `false`
+        + Set `RotateOnSpawn` bool from `true` to `false`
+        + Set `UseCollider` bool from `true` to `false`
+        > Probably fixed items issues in Company Cruiser.
+    + [ShipLootPlus](https://thunderstore.io/c/lethal-company/p/PXC/ShipLootPlus/)
+        + Set `Font` value from `Vanilla` to `Fixed`
+        + Set `Transparency (FontSettings)` value from `0.95` to `1.0`
++ **Other:**
+    + Updated dependencies versions to latests
+
+
 # 1.3.0
 + **Added mods:**
     + [AbsasCosmetics](https://thunderstore.io/c/lethal-company/p/NiaNation/AbsasCosmetics/)

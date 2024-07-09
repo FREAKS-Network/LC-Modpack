@@ -1,6 +1,6 @@
-![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.0/resources/img/banner.png)
+![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.1/resources/img/banner.png)
 
-![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.0/resources/img/installation.png)
+![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.1/resources/img/installation.png)
 
 Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/), then click on the `Install with Mod Manager` button right above.
 
@@ -9,12 +9,12 @@ Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2m
 
 
 
-![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.0/resources/img/configuration.png)
+![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.1/resources/img/configuration.png)
 
 Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
 
 
-![modlist.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.0/resources/img/modlist.png)
+![modlist.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.1/resources/img/modlist.png)
 
 **Here's a disclaimer:** You can't disable server-sided mods and play with someone that is hosting a lobby with the presumed disabled server-sided mods!
 
@@ -22,7 +22,7 @@ Our configuration of the mods are included in this pack, feel free to edit them 
 
 
 
-![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.0/resources/img/known_issues.png)
+![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.1/resources/img/known_issues.png)
 
 - **For some reasons, you can be unable to use, interact, scroll though the hotbar, switch to reserved slots for the rest of the game until you DC/RC or restart the game**
 - **Custom suits are duplicated, will be fixed when SuitsPlus will receive a new update sooner or later.**
@@ -33,8 +33,8 @@ Our configuration of the mods are included in this pack, feel free to edit them 
 Any bugs to report? Let us know [here](https://github.com/FREAKS-Network/LC-Modpack/issues)! We will try to fix it if we can or giving you more informations!
 
 
-![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.0/resources/img/our_mods.png)
+![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.1/resources/img/our_mods.png)
 
 ### Check out our other mods we made for Lethal Company!
 
-[<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.0/resources/img/icons/suitsplus.png" alt="suitsplus" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.0/resources/img/icons/freaks_lc_modpack.png" alt="freaks_lc_modpack" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/)
+[<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.1/resources/img/icons/suitsplus.png" alt="suitsplus" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/VE-1.3.1/resources/img/icons/freaks_lc_modpack.png" alt="freaks_lc_modpack" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/)
