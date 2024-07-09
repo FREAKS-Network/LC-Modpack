@@ -1,9 +1,73 @@
+# 1.3.0
++ **Added mods:**
+    + [AbsasCosmetics](https://thunderstore.io/c/lethal-company/p/NiaNation/AbsasCosmetics/)
+    + [BetterSpectate](https://thunderstore.io/c/lethal-company/p/Fusition/BetterSpectate/)
+    + [CozyImprovements](https://thunderstore.io/c/lethal-company/p/Spyci/CozyImprovements/)
+    + [KickWithoutBan](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/KickWithoutBan/)
+    + [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/)
+    + [MattyFixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/)
+    + [RandomCosmetics](https://thunderstore.io/c/lethal-company/p/UnLuckyNikolay/RandomCosmetics/)
+    + [SellMyScrap](https://thunderstore.io/c/lethal-company/p/Zehs/SellMyScrap/)
+    + [ShipLootPlus](https://thunderstore.io/c/lethal-company/p/PXC/ShipLootPlus/)
+    + [SillyCosmetics](https://thunderstore.io/c/lethal-company/p/nerdcat/SillyCosmetics/)
+    + [SillyExpressionsCosmetics](https://thunderstore.io/c/lethal-company/p/MissFoxK/SillyExpressionsCosmetics/)
+    + [VisorColorsCosmetics](https://thunderstore.io/c/lethal-company/p/crump_laude/VisorColorsCosmetics/)
++ **Removed mods:**
+    + [Custom_Boombox_Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/)
+    + [HideModList](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)
+    + [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
+    + [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
+    + [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/)
+    + [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
+    + [SpectatorCameraConfig](https://thunderstore.io/c/lethal-company/p/thechitoteam/SpectatorCameraConfig/)
+    + [TerminalPlus](https://thunderstore.io/c/lethal-company/p/Slam/TerminalPlus/)
+    + [VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)
++ **Configuration:**
+    + [BetterSpectate](https://thunderstore.io/c/lethal-company/p/Fusition/BetterSpectate/)
+        + Set `DefaultToFirstPerson` bool from `true` to `false`
+        + Set `DefaultZoomDistance` value from `1.4` to `2.5`
+        + Set `FirstPersonKeybind` keybind to <kbd>V</kbd>
+        + Set `ZoomSpeed` value from `0.4` to `0.25`
+    + [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+        + Set `LockCameraAtTerminal` bool from `true` to `false`
+        + Set `MaskedEntitiesShowPlayerNames` boolean from `true` to `false`
+        + Set `MaskedEntitiesSpinOnRadar` bool from `true` to `false`
+        + Set `SaveShipFurniturePlaces` value from `StartingFurniture` to `All`
+    + [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/)
+        + Set `ForceDrop (ItemSync)` bool from `true` to `false`
+        + Set `AudioSpatializer` bool from `true` to `false`
+    + [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+        + Set `EnableBushWolf` bool from `false` to `true`
+        + Set `EnableFlowerSnake` bool from `true` to `false`
+        + Set `EnableNutcracker` bool from `true` to `false`
+        + Set `EnableOldBird` bool from `true` to `false`
+        + Set `MaximumDelay` bool from `30000` to `60000`
+        + Set `MaximumDelayNonMasked` bool from `30000` to `60000`
+        + Set `MinimumDelay` bool from `15000` to `30000`
+        + Set `MinimumDelayNonMasked` bool from `15000` to `30000`
+    + [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+        + Set `Enable (ShipUpgrade)` bool from `true` to `false`
+    + [ShitLootPlus](https://thunderstore.io/c/lethal-company/p/PXC/ShipLootPlus/)
+        + Set `Size (FontSettings)` value from `19` to `18`
+        + Set `AllowInsideDungeon` bool from `false` to `true`
+        + Set `AllowOutside` bool from `false` to `true`
+        + Set `AlwaysShow` bool from `false` to `true`
+    + [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)
+        + Set `ItemsPerPage` value from `20` to `13`
++ **Other:**
+    + Compatibility with v56
+        > This patch took longer than expected to be published, but Zeekerss released v55/56 very early when we were doing an update to this modpack. We needed to wait longer than expected for some major mods to be updated to v56, we're sorry for the inconvinience but modders have a life beside modding games.
+    + Improved `README.md` titles colors
+    + Removed custom boombox musics
+    + Updated dependencies versions to latests
+
+
 # 1.2.3
 + **Added mods:**
     + [LethalFixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/)
     + [ScannableCodes](https://thunderstore.io/c/lethal-company/p/Dev1A3/ScannableCodes/)
     + [TerminalPlus](https://thunderstore.io/c/lethal-company/p/Slam/TerminalPlus/)
-+ **Removed mods**
++ **Removed mods:**
     + [MenuMusicMute](https://thunderstore.io/c/lethal-company/p/Graze/MenuMusicMute/)
     + [Park_Suits](https://thunderstore.io/c/lethal-company/p/Park/Park_Suits/)
     + [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
@@ -20,7 +84,7 @@
     + [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)
     + [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
     + [WeatherTweaks](https://thunderstore.io/c/lethal-company/p/mrov/WeatherTweaks/)
-+ **Removed mods**
++ **Removed mods:**
     + [LBtoKG](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG/)
 + **Configuration:**
     + [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
@@ -37,7 +101,7 @@
         + Set `UncertainEnabled` bool from `true` to `false`
         + Set `UncertainWeatherEnabled` bool from `true` to `false`
 + **Other:**
-    + Updated dependencies versions to latests.
+    + Updated dependencies versions to latests
 
 
 # 1.2.1
