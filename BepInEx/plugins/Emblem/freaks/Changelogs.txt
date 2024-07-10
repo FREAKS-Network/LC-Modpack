@@ -1,0 +1,59 @@
+<size=20><b>1.3.2<b></size>
+- <b>Added mods:</b>
+<size=15>
+  - <color=#3c8aff>Celestial_Tint</color>
+  - <color=#3c8aff>LobbyControl_Experimental</color>
+  - <color=#3c8aff>MattyFixes_Experimental</color>
+  - <color=#3c8aff>ShipWindows</color>
+  - <color=#3c8aff>ShipWindows_4K_Skybox</color>
+  - <color=#3c8aff>Emblem</color>
+</size>
+- <b>Removed mods:</b>
+<size=15>
+  - <color=#3c8aff>LobbyControl</color>
+  - <color=#3c8aff>MattyFixes</color>
+</size>
+- <b>Configuration:</b>
+<size=15>
+  - <color=#3c8aff>Celestial_Tint</color>
+   - Set <color=#959595>"DisplayShipParts"</color> bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+   - Set <color=#959595>"PlanetTagMappings"</color> value to <color=#959595>"Gordion@Company, Experimentation@Wasteland, Assurance@Canyon, Vow@Forest, Offense@Canyon, March@Forest, Adamance@Forest, Rend@Tundra, Dine@Tundra, Titan@Tundra, Embrion@Argon, Artifice@Volcanic"</color>
+   - Set <color=#959595>"ShipDoorAccess"</color> bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+   
+  - <color=#3c8aff>CozyImprovements</color>
+   - Set <color=#959595>"EasyLaunchLeverEnabled"</color> bool from <color=#959595>"true"</color> to <color=#959595>"false"</color>
+
+  - <color=#3c8aff>OpenBodyCams</color>
+   - Set <color=#959595>"BruteForcePreventFreezes"</color> bool from <color=#959595>"true"</color> to <color=#959595>"false"</color>
+   - Set <color=#959595>"ExternalCameraEmissiveColor"</color> value to <color=#959595>"0.05, 0.05, 0.05"</color>
+   - Set <color=#959595>"HorizontalResolution"</color> value from <color=#959595>"320"</color> to <color=#959595>"160"</color>
+   - Set <color=#959595>"NightVisionBrightness"</color> value from <color=#959595>"3"</color> to <color=#959595>"1"</color>
+
+  - <color=#3c8aff>LobbyControl_Experimental</color>
+   - Set <color=#959595>"SyncOnUse" bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+
+  - <color=#3c8aff>MattyFixes_Experimental</color>
+   - Set <color=#959595>"Enabled (CupBoard)"</color> bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+   - Set <color=#959595>"Enabled (ItemClipping)"</color> bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+   - Set <color=#959595>"Enabled (OutOfBounds)"</color> bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+   - Set <color=#959595>"Enabled (ReadableMeshes)"</color> bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+   - Set <color=#959595>"Tolerance"</color> value from <color=#959595>"0.5"</color> to <color=#959595>"0.3"</color>
+   - Set <color=#959595>"RotateOnSpawn"</color> bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+   - Set <color=#959595>"UseCollider"</color> bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+   - Set <color=#959595>"VerticalOffset"</color> value froim <color=#959595>"0"</color> to "0.3"</color>
+
+  - <color=#3c8aff>ShipWindows</color>
+   - Set <color=#959595>"CelestialTintOverrideSpace"</color> bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+   - Set <color=#959595>"EnableWesleyShutterVoiceLines"</color> bool from <color=#959595>"true"</color> to <color=#959595>"false"</color>
+   - Set <color=#959595>"PlayWesleyShutterVoiceLinesOnTransitions"</color> bool from <color=#959595>"true"</color> to <color=#959595>"false"</color>
+   - Set <color=#959595>"SpaceOutside"</color> value from <color=#959595>"SPACE_HDRI"</color> to <color=#959595>"OTHER_MODS"</color>
+   - Set <color=#959595>"UnlockWindow2"</color> bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+   - Set <color=#959595>"UnlockWindow3"</color> bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+   - Set <color=#959595>"UnlockWindow4"</color> bool from <color=#959595>"false"</color> to <color=#959595>"true"</color>
+   - Set <color=#959595>"WindowMaterial"</color> value from <color=#959595>"NO_REFRACTION_IRIDESCENCE"</color> to <color=#959595>"NO_REFRACTION"</color>
+   - Set <color=#959595>"WindowsUnlockable"</color> bool from <color=#959595>"true"</color> to <color=#959595>"false"</color>
+</size>
+- <b>Other:</b>
+<size=15>
+  - Updated dependencies versions to latests
+</size>
