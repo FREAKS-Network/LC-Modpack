@@ -38,7 +38,8 @@ Our configuration of the mods are included in this pack, feel free to edit them 
 
 ![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/LT-1.0.0/resources/img/known_issues.png)
 
-To this date, we don't have any bugs being reported.
+### To this date, we don't have any bugs being reported.
+
 Any bugs to report? Let us know [here](https://github.com/SKAREZ/LC-LiteCompany/issues)! We will try to fix it if we can or giving you more informations!
 
 ![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/LT-1.0.0/resources/img/our_mods.png)

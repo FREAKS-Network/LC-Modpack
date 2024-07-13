@@ -1,2 +1,24 @@
-<size=20><b>1.0.0<b></size>
-- <b>Initial release</b>
+<size=20><b>1.0.1</b></size>
+- <b>Configuration:</b>
+<size=15>
+  - <color=#3c8aff>Emblem</color>
+    - Set <color=#959595>Color (MenuColor)</color> value from <color=#959595>230,100,65,100</color> to <color=#959595>255,255,255,100</color>
+    - Set <color=#959595>Color (LoadingText)</color> value from <color=#959595>230,100,65,100</color> to <color=#959595>255,255,255,100</color>
+    - Set <color=#959595>HighlightBGColor</color> value from <color=#959595>230,100,65,100</color> to <color=#959595>255,255,255,100</color>
+    - Set <color=#959595>SubMenuThemeColor</color> value from <color=#959595>230,139,0,100</color> to <color=#959595>255,255,255,100</color>
+  - <color=#3c8aff>GeneralImprovements</color>
+    - Set <color=#959595>MonitorBackgroundColor</color> value from <color=#959595>160959</color> to <color=#959595>252525</color>
+    - Set <color=#959595>ShipMonitor1</color> value from <color=#959595>None</color> to <color=#959595>ShipScrap</color>
+    - Set <color=#959595>ShipMonitor2</color> value from <color=#959595>None</color> to <color=#959595>ScrapLeft</color>
+    - Set <color=#959595>ShipMonitor3</color> value from <color=#959595>None</color> to <color=#959595>Time</color>
+    - Set <color=#959595>ShipMonitor4</color> value from <color=#959595>None</color> to <color=#959595>Weather</color>
+    - Set <color=#959595>ShipMonitor7</color> value from <color=#959595>None</color> to <color=#959595>InternalCam</color>
+    - Set <color=#959595>ShipMonitor8</color> value from <color=#959595>None</color> to <color=#959595>TotalQuotas</color>
+    - Set <color=#959595>ShipMonitor9</color> value from <color=#959595>None</color> to <color=#959595>ExternalCam</color>
+</size>
+- <b>Other:</b>
+<size=15>
+  - Fixed <color=#959595>manifest.json</color>
+  - Fixed <color=#959595>README.md</color>
+  - Updated dependencies to latset versions
+</size>

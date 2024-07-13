@@ -1,7 +1,7 @@
 {
     "name":"FREAKS_Modpack_Lite",
     "version_number":"1.0.0",
-    "website_url":"https://github.com/SKAREZ/LC-LiteCompany/",
+    "website_url":"https://github.com/FREAKS-Network/LC-Modpack/tree/lite",
     "description":"[v56] Lite version of FREAKS Modpack Vanilla Edition, includes over 20 mods that slighly improve QoL and aslo fixes performances issues, perfect for Solo/Squad vanilla runs players.",
     "dependencies":[
         "anormaltwig-LateCompany-1.0.14",
@@ -14,7 +14,7 @@
         "Dev1A3-LethalFixes-1.1.6",
         "DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-0.6.4",
         "FlipMods-HotbarPlus-1.7.2",
-        "fumiko-CullFactory-1.1.4",
+        "fumiko-CullFactory-1.1.5",
         "FutureSavior-Hold_Scan_Button-1.1.1",
         "Hardy-LCMaxSoundsFix-1.2.0",
         "mattymatty-Matty_Fixes_Experimental-1.1.6",
