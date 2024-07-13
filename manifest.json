@@ -1,6 +1,6 @@
 {
     "name":"FREAKS_Modpack_Lite",
-    "version_number":"1.0.0",
+    "version_number":"1.0.1",
     "website_url":"https://github.com/FREAKS-Network/LC-Modpack/tree/lite",
     "description":"[v56] Lite version of FREAKS Modpack Vanilla Edition, includes over 20 mods that slighly improve QoL and aslo fixes performances issues, perfect for Solo/Squad vanilla runs players.",
     "dependencies":[
