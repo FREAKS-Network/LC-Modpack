@@ -1,3 +1,14 @@
+# 1.3.3
+
++ **Added mods:**
+  + [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
++ **Removed mods:**
+  + [LobbyControl_Experimental](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl_Experimental/)
++ **Other:**
+  + Added 30 new posters
+  + Updated dependencies versions to latests
+  + Updated `README.md`
+
 # 1.3.2
 
 + **Added mods:**
