@@ -1,102 +1,61 @@
-![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/banner.png)
+![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/banner.png)
 
-### Vanilla Edition is out! Check this new version of the FREAKS® Modpack [right here](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Vanilla_Edition/)!
+### ⚠️ FREAKS Modpack Vanilla Edition is now FREAKS Modpack!
 
+> ###### This change might seem like a big thing (well maybe) but we are only replacing the first, orignal and oldest deprecated version of our modpack with the Vanilla Edition we made quite some time ago! Knowing that the original version were not gonna be updated anymore, we wanted to merge Vanilla Edition to revive it! This means that the old Vanilla Edition modpage is now deprecated and no longer gonna be updated!
 
+---
 
-![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/installation.png)
+**Even though this modpack aims to be vanilla-like, it does add some stuff such as:**
 
-Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/), then click on the `Install with Mod Manager` button right above.
+- A `sell` terminal command for people that want to speedrun the selling part of the game. (optional freature)
+- A lot of custom suits and cosmetics for MoreCompany, default suits unlocked by default too
+- A lot of emotes, usable with <kbd>1</kbd> to <kbd>0</kbd> keybinds or <kbd>V</kbd> for over +200 "Fortnite" emotes
+- Faster cruiser/item dropship landing
+- Faster hotbar scrolling speed and fast item drop mechanic
+- Few mods that fixes bunch of issues from Lethal Company, such as clipping items, de-sync issues and mobs AI
+- Headcam/Bodycam ship screen
+- Improved and stylized ship screens
+- Mods that improve framerates and performances, adding culling to interiors tiles for example
+- Overhauled spectator mode, zoom/unzoom with scrollwheel freature, togglelable Flashlight and Nightvision overlays (nightvision can't be toggled on outside!)
+- Player health metrics
+- Reserved Flashlight/Walkie slots and hotkeys (<kbd>F</kbd> for switching ON/OFF flashlights and <kbd>X</kbd> to use walkies)
+- Some HUD tweaks such as:
+  - Accurate stamina bar (with TZP effect strength based on colors)
+  - Hiden chat
+  - Item capacity bar (TZP, Weed Killers...)
+  - Lightning icon indicator in the hotbar for items that are going to be stroke by lightning
+  - Player health metrics
+  - Rendertext of the total scrap value inside the ship and total indoor scrap count/value (basically the scan terminal command but always shown on the HUD)
+- Synchronized skinwalker voices as well as player-like Mimics (custom suits, cosmetics, no mask, no arms...)
+- Uncapped player limit (over 32 players)
 
-> ### Do not forget to click on `Update all` inside the yellow banner in the `Installed` tab of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) if you need to after the installation, and aslo everytime you want to launch and play LC with people using this modpack.
-> Please note that whenever the modpack gets an update, we recommend you (and your friends) to create a clean new profile into [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and reinstall the modpack from this webpage or in the mod browser of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) to avoid any conflict inbetween newer and older version of mods updates, removed mods and added mods.
+###### Looking for a 100% vanilla-like modpack? - We do have released a new version of this modpack that does exaclty that! Check out [FREAKS Modpack Lite](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/)!
 
+![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/installation.png)
 
+Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) or [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager), then click on the `Install with Mod Manager` button right above.
 
-![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/configuration.png)
+##### Do not forget to click on `Update all` inside the yellow banner in the `Installed` tab of [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) if you need to after the installation, and aslo everytime you want to launch and play LC with people using this modpack.
 
-Our configuration of the mods are included in this pack, feel free to edit them with [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) in the `Config editor` tab.
+> ###### Please note that whenever the modpack gets an update, we recommend you (and maybe the friends you play with) to create a clean new profile into [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/)/[Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager) and reinstall the modpack from this webpage or in the mod browser inside the mod manager to avoid any conflict inbetween newer and older version of mods updates and added/removed mods.
 
+![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/configuration.png)
 
-
-![custom_boombox.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/custom_boombox.png)
-
-We have included our custom boombox musics/sounds, thanks to the [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) mod by [DeadlyKitten](https://github.com/DeadlyKitten). Some of them can be **NSFW**! As well for some custom posters inside the ship, so if you are streaming with this modpack, be carefull!
-
-<details>
-  <summary>Show musics/sounds list</summary>
-
-+ [0bpm.mp3](https://audio.jukehost.co.uk/V2izPe5uZdrXXQMUG3JwWkIa47EiP708)
-+ [1992-CRX.mp3](https://audio.jukehost.co.uk/irLjOq50HV5N46pWsQhhg2jNqvvOCKPR)
-+ [Ah-ca-nn.mp3](https://audio.jukehost.co.uk/Vc1CXnt7s10t9A6Qb20NQHnvdZSCDAuy) (VOLUME WARNING)
-+ [BAIXO.mp3](https://audio.jukehost.co.uk/i72fNIGUlkEyTl3OQ1vrdJnV1bZGcjMY)
-+ [Chef.mp3](https://audio.jukehost.co.uk/KsEyEeVqy2MlzEXk8qEocuAYi38m1cO5)
-+ [Did-you-pray-today.mp3](https://audio.jukehost.co.uk/LQCjys93TgTPrmAR7cevgHcqwLVabCsC)
-+ [Earrape.mp3](https://audio.jukehost.co.uk/7IAT6tVXAlF5zusOby1ZckTz2nCRUL0G) (VOLUME WARNING)
-+ [Everlong.mp3](https://audio.jukehost.co.uk/oqZF4xLJBhzKmwk8aryqzA4YgxydXJ1y)
-+ [Farfadet-maléfique.mp3](https://audio.jukehost.co.uk/6gPldMOl23TCPeG06JsSC6qYEqfOTccp)
-+ [Fortnite-battle-pass.mp3](https://audio.jukehost.co.uk/on7zieh4TSylOPAFoEJccnYmGWcp40si) (VOLUME WARNING)
-+ [Francis-Saussice.mp3](https://audio.jukehost.co.uk/eFBT2iKKbuxIDjUP38TPexdC8coTUcX1) (VOLUME WARNING)
-+ [Gay-ou-hétéro.mp3](https://audio.jukehost.co.uk/qoMozZQK2biBW0Y8xxRntLqMuIPqZvA4)
-+ [help_urself.mp3](https://audio.jukehost.co.uk/GuKJIPv6J8VRlrpKJdXb9WaffqpwLlYy)
-+ [jena-lee-mkX.mp3](https://audio.jukehost.co.uk/bGwlc9xcJhTweUzD4sApRtBZvTPmPdVq)
-+ [Jester.mp3](https://audio.jukehost.co.uk/2Ffv1oLrKTVXdMXs2LyvsHa1QUDrP4ZC)
-+ [JE-SUIS-MUSIK.mp3](https://audio.jukehost.co.uk/jpE6iSm1cAz3u1kOqQmlWf3sowtgP2ol)
-+ [Le-chocolat-ou-les-noirs.mp3](https://audio.jukehost.co.uk/gxZ4T4tBSeHoprBsTGHHDYhtaZ3MJLob)
-+ [Les-demons-de-minuit.mp3](https://audio.jukehost.co.uk/JI1klYKFPfktvsrvJZP0ZpSIjbRUNPaF)
-+ [look-alike.mp3](https://audio.jukehost.co.uk/xtoPNnkRpmXpn87chafmtCl0ugICTvtv)
-+ [M2LT.mp3](https://audio.jukehost.co.uk/c5sN9emtVaUIZeqFqsMjbYDhJEhZM8fk)
-+ [Mal-au-ventre.mp3](https://audio.jukehost.co.uk/AoZGxfNPlRCk3qVpN3dD69GEq5DIZmuy)
-+ [Metal-pipe.mp3](https://audio.jukehost.co.uk/xxMxhhkFMtQa9vVuzZfDvxNzDOIZY71U) (VOLUME WARNING)
-+ [MONEY-ON-THE-DASH.mp3](https://audio.jukehost.co.uk/IYWzzoW12vSA4mNYyXNjAiYkN0swKvHF)
-+ [Offline-!.mp3](https://audio.jukehost.co.uk/u3b3OSgQXWFXll3Rob166tK9jHzO3P61)
-+ [Psychotic.mp3](https://audio.jukehost.co.uk/hzru5En5fP5JAV5EQrQDYBQ93RO0TIjs)
-+ [Ta-gueule.mp3](https://audio.jukehost.co.uk/Gh4jlAjVLRhbenEyLmyMhxuOsKvMBYZt) (VOLUME WARNING)
-+ [Tekno.mp3](https://audio.jukehost.co.uk/v2c4puIPAc58HRo8NGuXD4JhhQhvlPoi) (VOLUME WARNING)
-+ [The-Spectre.mp3](https://audio.jukehost.co.uk/FXXHNom9n5e042TOEdaksMvD1xpayF4z)
-+ [Thomas.mp3](https://audio.jukehost.co.uk/6aWAhbcgjx3RLveWulCNDW1l9LTgJ6Ld) (VOLUME WARNING)
-+ [vivienne-westwood.mp3](https://audio.jukehost.co.uk/8dnZ14IVJPUBjkoP41P9Q7K7xCHlLFKV)
-+ [WASTE.mp3](https://audio.jukehost.co.uk/MZ9WUsaVcCDfxP3XPgwvZkXniWdn5T0k)
-
-</details>
-
-**They need manual installation**, here's how you can install them:
-
-1. Download the modpack manually
-2. Open [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and select your profile
-3. Go into the settings, then in the `All` tab, click on `Browse profile folder`
-4. Drag and drop the `BepInEx` folder from the `.zip` to the profile folder that got opened
-  + `X:\Users\%USER%\AppData\Roaming\r2modmanPlus-local\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\`
-5. You can delete our custom musics/sounds, or add your own by going into
-  + `X:\Users\%USER%\AppData\Roaming\r2modmanPlus-local\DataFolder\LethalCompany\profiles\%PROFILE_NAME%\Custom Songs\Boombox Music\`
-
-> **You don't need to drag any other files exept `BepInEx`, do NOT replace the existing files**
-> You can add your own custom musics/sounds into the same folder patch as above, needs be an `.mp3` or `.wav`
-
-
-
-![modlist.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/modlist.png)
+Our configuration of the mods are included in this pack, feel free to edit them within your [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/)/[Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager)'s `Config editor` tab.
 
 **Here's a disclaimer:** You can't disable server-sided mods and play with someone that is hosting a lobby with the presumed disabled server-sided mods!
 
-> Server-sided mods are mods from the host player that needs to be enabled by other players in order to play without having de-sync problems, bugs or even being able to join their lobby. Depending of the mod, some settings are relative to the host configuration only.
+> ###### Server-sided mods are mods from the host player that needs to be enabled by other players in order to play without having de-sync problems, bugs or even for being able to join their lobby. Depending of the mod, some settings are relative to the host's configuration only.
 
+![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/known_issues.png)
 
+### To this date, we don't have any bugs being reported.
 
-![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/known_issues.png)
+Any bugs to report? Let us know [here](https://github.com/FREAKS-Network/LC-Modpack/issues)! We will try to fix it if we can or giving you more informations!
 
-- When a player join the ship in orbit, they can spawn outside the ship, having a dark screen and being softlocked.
-  - **DC/RC fixes it.**
-- When a player join the ship, their audio can be bugged and locked outside the ship, DC/RC fixes this problem.
-  - **DC/RC fixes it.**
-- Some items can be desynced, if an item is on the ground but cannot be picked up, this is a desync item, try not to spam `E` to pick it up, as it may cause you to gain player speed and eventually, getting killed by gravity.
-  - **No fixes as been found to this issue**
-- `FIXED` <strike>Mobs and entities doesn't seem to spawn or be triggered</strike>
-- `FIXED` <strike>Ship can be blocked while in motion/orbit, leaving players unable to route to other moons and not saving progression made through the day</strike>
-
-
-![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/our_mods.png)
+![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/our_mods.png)
 
 ### Check out our other mods we made for Lethal Company!
 
-[<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/icons/suitsplus.png" alt="suitsplus" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/4.0.1/resources/img/icons/vanilla_edition.png" alt="vanilla_edition" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Vanilla_Edition/)
+[<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/icons/lite.png" alt="lite" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/) [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/icons/suitsplus.png" alt="suitsplus" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)
