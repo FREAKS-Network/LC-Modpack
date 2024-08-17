@@ -1,0 +1,60 @@
+<size=16><b>5.0.0</b></size>
+<size=12>
+- <b>Added mods:</b>
+ - <color=#3c8aff>AsyncLoggers</color>
+ - <color=#3c8aff>BepInEx_Faster_Load_AssetBundles_Patcher</color>
+ - <color=#3c8aff>LCBetterSaves</color>
+ - <color=#3c8aff>LethalPerformance</color>
+ - <color=#3c8aff>LobbyInviteOnly</color>
+
+- <b>Removed mods:</b>
+ - <color=#3c8aff>AlwaysHearActiveWalkies</color>
+ - <color=#3c8aff>Celestial_Tint</color>
+ - <color=#3c8aff>CozyImprovements</color>
+ - <color=#3c8aff>DissonanceLagFix</color>
+ - <color=#3c8aff>FixRPCLag</color>
+ - <color=#3c8aff>HidePlayerNames</color>
+ - <color=#3c8aff>JumpDelayPatch</color>
+ - <color=#3c8aff>MattyFixes_Experimental</color>
+ - <color=#3c8aff>MoreBlood</color>
+ - <color=#3c8aff>ShipWindows</color>
+ - <color=#3c8aff>ShipWindows_4K_Skybox</color>
+ - <color=#3c8aff>ShowAmmoCount</color>
+ - <color=#3c8aff>SignalTranslatorAligner</color>
+
+- <b>Configuration:</b>
+ - <color=#3c8aff>AccurateStaminaDisplay</color>
+  - Set <color=#959595>ExhaustionIndicator</color> value from <color=#959595>AlwaysShow</color> to <color=#959595>DontShow</color>
+ - <color=#3c8aff>GeneralImprovement</color>
+  - Set <color=#959595>AddMoreBetterMonitors</color> boolean from <color=#959595>true</color> to <color=#959595>false</color>
+  - Set <color=#959595>ChatFadeDelay</color> value from <color=#959595>4</color> to <color=#959595>0</color> 
+  - Set <color=#959595>ChatOpacity</color> value from <color=#959595>0.2</color> to <color=#959595>0</color>
+  - Set <color=#959595>DisplayKgInsteadOfLb</color> boolean from <color=#959595>true</color> to <color=#959595>false</color> 
+  - Set <color=#959595>HidePlayerNames</color> boolean from <color=#959595>true</color> to <color=#959595>false</color>
+  - Set <color=#959595>HideShipCabinetDoors</color> boolean from <color=#959595>true</color> to <color=#959595>false</color>
+  - Set <color=#959595>MaskedEntitiesShowPlayerNames</color> boolean from <color=#959595>false</color> to <color=#959595>true</color>
+  - Set <color=#959595>SellCounterItemLimit</color> value from <color=#959595>100</color> to <color=#959595>999</color>
+  - Set <color=#959595>ShipExternalCamSizeMultiplier</color> value from <color=#959595>2</color> to <color=#959595>1</color>
+  - Set <color=#959595>ShipInternalCamSizeMultiplier</color> value from <color=#959595>2</color> to <color=#959595>1</color>
+  - Set <color=#959595>ShipMonitor5</color> value from <color=#959595>Credits</color> to <color=#959595>ProfitQuota</color>
+  - Set <color=#959595>ShipMonitor6</color> value from <color=#959595>Sales</color> to <color=#959595>Deadline</color>
+  - Set <color=#959595>ShipMonitor7</color> value from <color=#959595>DoorPower</color> to <color=#959595>InternalCam</color>
+  - Set <color=#959595>ShipMonitor9</color> value from <color=#959595>ProfitQuota</color> to <color=#959595>ExternalCam</color>
+  - Set <color=#959595>ShipMonitor10</color> value from <color=#959595>Deadline</color> to <color=#959595>None</color>
+  - Set <color=#959595>ShipMonitor11</color> value from <color=#959595>TotalDays</color> to <color=#959595>None</color>
+  - Set <color=#959595>ShipMonitor12</color> value from <color=#959595>TotalDeaths</color> to <color=#959595>InternalCam</color>
+  - Set <color=#959595>ShipMonitor13</color> value from <color=#959595>InternalCam</color> to <color=#959595>None</color>
+  - Set <color=#959595>ShowMoonPricesInTerminal</color> boolean from <color=#959595>true</color> to <color=#959595>false</color>
+ - <color=#3c8aff>HotbarPlus</color>
+  - Set <color=#959595>OverrideFadeHudAlpha</color> value from <color=#959595>0.05</color> to <color=#959595>0.25</color>
+ - <color=#3c8aff>ReservedFlashlightSlot</color>
+  - Set <color=#959595>RemoveLaserPointerFromSlot</color> boolean from <color=#959595>false</color> to <color=#959595>true</color>
+ - <color=#3c8aff>TooManySuits</color>
+  - Set <color=#959595>TextScale</color> value from <color=#959595>0.005</color> to <color=#959595>0</color>
+
+- <b>Other:</b>
+ - Compatibility with v61
+ - Updated dependencies versions to latests
+ - Updated <color=#959595>README.md</color>
+ - Updated <color=#959595>CHANGELOG.md</color>
+</size>
