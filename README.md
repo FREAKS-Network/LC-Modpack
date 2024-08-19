@@ -1,4 +1,4 @@
 # ⚠️ FREAKS Modpack - Vanilla Edition is now FREAKS Modpack!
-### This branch as been merged with [master](https://github.com/FREAKS-Network/LC-Modpack/tree/master) branch now!
+### This modpack as been merged with our original modpack now!
 
-This branch will remain on read-only forever.
+This modpack will remain on read-only/deprecated state forever, updates are still going on [HERE](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/)!
