@@ -1,3 +1,13 @@
+# 5.1.0
+
+- **Added mods:**
+  - [LobbyCompatibility](https://thunderstore.io/c/lethal-company/p/BMX/LobbyCompatibility/)
+- **Other:**
+  - Added 42 new posters
+  - Compatibility with v64
+  - Updated dependencies versions to latests
+  - Updated `README.md`
+
 # 5.0.0
 
 - **Added mods:**
