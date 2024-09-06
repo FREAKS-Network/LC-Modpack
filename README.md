@@ -1,34 +1,27 @@
 ![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/banner.png)
 
-### ⚠️ FREAKS Modpack Vanilla Edition is now FREAKS Modpack!
-
-> ###### This change might seem like a big thing (well maybe) but we are only replacing the first, orignal and oldest deprecated version of our modpack with the Vanilla Edition we made quite some time ago! Knowing that the original version were not gonna be updated anymore, we wanted to merge Vanilla Edition to revive it! This means that the old Vanilla Edition modpage is now deprecated and no longer gonna be updated!
-
----
-
 **Even though this modpack aims to be vanilla-like, it does add some stuff such as:**
 
-- A `sell` terminal command for people that want to speedrun the selling part of the game. (optional freature)
-- A lot of custom suits and cosmetics for MoreCompany, default suits unlocked by default too
-- A lot of emotes, usable with <kbd>1</kbd> to <kbd>0</kbd> keybinds or <kbd>V</kbd> for over +200 "Fortnite" emotes
+- A lot of custom suits and cosmetics for MoreCompany, vanilla suits are unlocked by default too
+- A lot of emotes, usable with <kbd>1</kbd> to <kbd>0</kbd> keybinds and <kbd>V</kbd> for over +200 "Fortnite" emotes
+- A `sell` terminal command for people that want to speedrun the selling part of the game *(optional freature)*
+- Dedicated player's headcam ship screen
 - Faster cruiser/item dropship landing
 - Faster hotbar scrolling speed and fast item drop mechanic
-- Few mods that fixes bunch of issues from Lethal Company, such as clipping items, de-sync issues and mobs AI
-- Headcam/Bodycam ship screen
+- Few mods that fixes bunch of issues from Lethal Company, such as clipping items, de-sync issues and mobs AIs
 - Improved and stylized ship screens
-- Mods that improve framerates and performances, adding culling to interiors tiles for example
-- Overhauled spectator mode, zoom/unzoom with scrollwheel freature, togglelable Flashlight and Nightvision overlays (nightvision can't be toggled on outside!)
-- Player health metrics
-- Reserved Flashlight/Walkie slots and hotkeys (<kbd>F</kbd> for switching ON/OFF flashlights and <kbd>X</kbd> to use walkies)
-- Some HUD tweaks such as:
-  - Accurate stamina bar (with TZP effect strength based on colors)
+- Mods that improve framerates and performances, adding culling to interior tiles for example
+- Overhauled spectator mode, zoom/unzoom with scrollwheel feature, togglelable `Flashlight` and `Nightvision` overlays
+- Reserved Flashlight/Walkie slots and hotkeys *(<kbd>F</kbd> for switching ON/OFF flashlights and <kbd>X</kbd> to use walkies)*
+- Some HUD tweaks:
+  - Accurate stamina bar *(with TZP effect strength based on colors)*
   - Hiden chat
-  - Item capacity bar (TZP, Weed Killers...)
+  - Item capacity bar *(TZP, Weed Killers...)*
   - Lightning icon indicator in the hotbar for items that are going to be stroke by lightning
   - Player health metrics
-  - Rendertext of the total scrap value inside the ship and total indoor scrap count/value (basically the scan terminal command but always shown on the HUD)
-- Synchronized skinwalker voices as well as player-like Mimics (custom suits, cosmetics, no mask, no arms...)
-- Uncapped player limit (over 32 players)
+  - Rendertext of the total scrap value inside the ship and total indoor scrap count/value *(basically the scan terminal command but always shown on the HUD)*
+- Synchronized skinwalker voices as well as player-like Mimics *(custom suits, cosmetics, no mask, no arms...)*
+- Uncapped player limit *(over 32 players)*
 
 ###### Looking for a 100% vanilla-like modpack? - We do have released a new version of this modpack that does exaclty that! Check out [FREAKS Modpack Lite](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/)!
 
