@@ -1,3 +1,19 @@
+# 5.1.1
+
+- **Added mods:**
+  - [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
+  - [LobbyImprovements](https://thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/)
+- **Removed mods:**
+  - [KickWithoutBan](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/KickWithoutBan/)
+  - [LobbyInviteOnly](https://thunderstore.io/c/lethal-company/p/Dev1A3/LobbyInviteOnly/)
+- **Configuration:**
+  - [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    - Set `Enabled (Overlay)` bool from `true` to `false`
+- **Other:**
+  - Fixed broken keybindings
+    > If you still have broken keybindings from mods inputs, try to select "Local Only" inside the keybinding menu of InputUtils, even though this should be selected by default now.
+  - Updated dependencies versions to latests
+
 # 5.1.0
 
 - **Added mods:**
@@ -34,13 +50,13 @@
   - [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/)
     - Set `ExhaustionIndicator` value from `AlwaysShow` to `DontShow`
   - [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
-    - Set `AddMoreBetterMonitors` boolean from `true` to `false`
+    - Set `AddMoreBetterMonitors` bool from `true` to `false`
     - Set `ChatFadeDelay` value from `4` to `0`
     - Set `ChatOpacity` value from `0.2` to `0`
-    - Set `DisplayKgInsteadOfLb` boolean from `true` to `false`
-    - Set `HidePlayerNames` boolean from `true` to `false`
-    - Set `HideShipCabinetDoors` boolean from `true` to `false`
-    - Set `MaskedEntitiesShowPlayerNames` boolean from `false` to `true`
+    - Set `DisplayKgInsteadOfLb` bool from `true` to `false`
+    - Set `HidePlayerNames` bool from `true` to `false`
+    - Set `HideShipCabinetDoors` bool from `true` to `false`
+    - Set `MaskedEntitiesShowPlayerNames` bool from `false` to `true`
     - Set `SellCounterItemLimit` value from `100` to `999`
     - Set `ShipExternalCamSizeMultiplier` value from `2` to `1`
     - Set `ShipInternalCamSizeMultiplier` value from `2` to `1`
@@ -52,11 +68,11 @@
     - Set `ShipMonitor11` value from `TotalDays` to `None`
     - Set `ShipMonitor12` value from `TotalDeaths` to `InternalCam`
     - Set `ShipMonitor13` value from `InternalCam` to `None`
-    - Set `ShowMoonPricesInTerminal` boolean from `true` to `false`
+    - Set `ShowMoonPricesInTerminal` bool from `true` to `false`
   - [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
     - Set `OverrideFadeHudAlpha` value from `0.05` to `0.25`
   - [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
-    - Set `RemoveLaserPointerFromSlot` boolean from `false` to `true`
+    - Set `RemoveLaserPointerFromSlot` bool from `false` to `true`
   - [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)
     - Set `TextScale` value from `0.005` to `0`
 - **Other:**
@@ -184,7 +200,7 @@
     - Set `ZoomSpeed` value from `0.4` to `0.25`
   - [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
     - Set `LockCameraAtTerminal` bool from `true` to `false`
-    - Set `MaskedEntitiesShowPlayerNames` boolean from `true` to `false`
+    - Set `MaskedEntitiesShowPlayerNames` bool from `true` to `false`
     - Set `MaskedEntitiesSpinOnRadar` bool from `true` to `false`
     - Set `SaveShipFurniturePlaces` value from `StartingFurniture` to `All`
   - [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/)

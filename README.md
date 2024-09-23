@@ -1,4 +1,4 @@
-![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/banner.png)
+![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/.github/assets/img/banner.png)
 
 **Even though this modpack aims to be vanilla-like, it does add some stuff such as:**
 
@@ -12,20 +12,20 @@
 - Improved and stylized ship screens
 - Mods that improve framerates and performances, adding culling to interior tiles for example
 - Overhauled spectator mode, zoom/unzoom with scrollwheel feature, togglelable `Flashlight` and `Nightvision` overlays
-- Reserved Flashlight/Walkie slots and hotkeys *(<kbd>F</kbd> for switching ON/OFF flashlights and <kbd>X</kbd> to use walkies)*
+- Reserved Flashlight/Walkie slots and hotkeys *(<kbd>F</kbd> for switching ON/OFF flashlights and <kbd>X</kbd> to use talkie-walkies)*
 - Some HUD tweaks:
-  - Accurate stamina bar *(with TZP effect strength based on colors)*
+  - Accurate stamina bar *(with color based TZP effect strength)*
   - Hiden chat
-  - Item capacity bar *(TZP, Weed Killers...)*
+  - Item capacity bar *(TZP, Weed Killer...)*
   - Lightning icon indicator in the hotbar for items that are going to be stroke by lightning
   - Player health metrics
   - Rendertext of the total scrap value inside the ship and total indoor scrap count/value *(basically the scan terminal command but always shown on the HUD)*
-- Synchronized skinwalker voices as well as player-like Mimics *(custom suits, cosmetics, no mask, no arms...)*
+- Synchronized skinwalker voices as well as player-like Mimics *(custom suits, fake player name, cosmetics, no mask, no arms...)*
 - Uncapped player limit *(over 32 players)*
 
 ###### Looking for a 100% vanilla-like modpack? - We do have released a new version of this modpack that does exaclty that! Check out [FREAKS Modpack Lite](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/)!
 
-![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/installation.png)
+![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/.github/assets/img/installation.png)
 
 Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) or [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager), then click on the `Install with Mod Manager` button right above.
 
@@ -33,7 +33,7 @@ Install and setup [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2m
 
 > ###### Please note that whenever the modpack gets an update, we recommend you (and maybe the friends you play with) to create a clean new profile into [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/)/[Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager) and reinstall the modpack from this webpage or in the mod browser inside the mod manager to avoid any conflict inbetween newer and older version of mods updates and added/removed mods.
 
-![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/configuration.png)
+![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/.github/assets/img/configuration.png)
 
 Our configuration of the mods are included in this pack, feel free to edit them within your [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/)/[Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager)'s `Config editor` tab.
 
@@ -41,14 +41,14 @@ Our configuration of the mods are included in this pack, feel free to edit them 
 
 > ###### Server-sided mods are mods from the host player that needs to be enabled by other players in order to play without having de-sync problems, bugs or even for being able to join their lobby. Depending of the mod, some settings are relative to the host's configuration only.
 
-![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/known_issues.png)
+![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/.github/assets/img/known_issues.png)
 
 ### To this date, we don't have any bugs being reported.
 
 Any bugs to report? Let us know [here](https://github.com/FREAKS-Network/LC-Modpack/issues)! We will try to fix it if we can or giving you more informations!
 
-![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/our_mods.png)
+![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/.github/assets/img/our_mods.png)
 
 ### Check out our other mods we made for Lethal Company!
 
-[<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/icons/lite.png" alt="lite" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/) [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/resources/img/icons/suitsplus.png" alt="suitsplus" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)
+[<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/.github/assets/img/icons/lite.png" alt="lite" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/) [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/.github/assets/img/icons/suitsplus.png" alt="suitsplus" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)

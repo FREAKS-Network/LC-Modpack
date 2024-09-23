@@ -1,1 +1,16 @@
-{"overrides":[{"action":"FocusReservedHotbarHotkey","origPath":"<Keyboard>/leftAlt","path":"<Keyboard>/leftAlt","groups":"KeyboardAndMouse"}]}
+{
+	"overrides":[
+		{
+			"action":"FocusReservedHotbarHotkey",
+			"origPath":"<Keyboard>/leftAlt",
+			"path":"<InputUtils-Kbm-Not-Bound>",
+			"groups":"KeyboardAndMouse"
+		},
+		{
+			"action":"ToggleFocusReservedHotbarHotkey",
+			"origPath":"<Keyboard>/rightAlt",
+			"path":"<Keyboard>/leftAlt",
+			"groups":"KeyboardAndMouse"
+		}
+	]
+}
