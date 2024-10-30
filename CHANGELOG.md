@@ -1,3 +1,82 @@
+# 6.0.0
+
+- **Added mods:**
+  - [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
+  - [Loadstone](https://thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/)
+  - [WalkieUse](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/)
+- **Removed mods:**
+  - [AbsasCosmetics](https://thunderstore.io/c/lethal-company/p/NiaNation/AbsasCosmetics/)
+  - [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
+  - [BensCosmetics](https://thunderstore.io/c/lethal-company/p/PlainBen/BensCosmetics/)
+  - [Boombox_Sync_Fix](https://thunderstore.io/c/lethal-company/p/FutureSavior/Boombox_Sync_Fix/)
+  - [davson_suitpack](https://thunderstore.io/c/lethal-company/p/davson/davson_suitpack/)
+  - [DiscountAlert](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert/)
+  - [FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)
+  - [JetpackWarning](https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackWarning/)
+  - [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)
+  - [LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/)
+  - [LethalPosters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/)
+  - [LobbyCompatibility](https://thunderstore.io/c/lethal-company/p/BMX/LobbyCompatibility/)
+  - [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/)
+  - [RandomCosmetics](https://thunderstore.io/c/lethal-company/p/UnLuckyNikolay/RandomCosmetics/)
+  - [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
+  - [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)
+  - [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
+  - [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+  - [ScannableCodes](https://thunderstore.io/c/lethal-company/p/Dev1A3/ScannableCodes/)
+  - [SellMyScrap](https://thunderstore.io/c/lethal-company/p/Zehs/SellMyScrap/)
+  - [SillyCosmetics](https://thunderstore.io/c/lethal-company/p/nerdcat/SillyCosmetics/)
+  - [SillyExpressionsCosmetics](https://thunderstore.io/c/lethal-company/p/MissFoxK/SillyExpressionsCosmetics/)
+  - [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
+  - [VisorColorsCosmetics](https://thunderstore.io/c/lethal-company/p/crump_laude/VisorColorsCosmetics/)
+  - [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
+- **Configuration:**
+  - [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/)
+    - Set `ExhaustionIndicator` value from `DontShow` to `ChangeColor`
+  - [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
+    - Set `EmoteWheel` keybind to <kbd>V</kbd>
+  - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+    - Set `AutoChargeOnOrbit` bool from `true` to `false`
+    - Set `ChatFadeDelay` value from `0` to `4`
+    - Set `ChatOpacity` value from `0` to `0.2`
+    - Set `HideEmptySubtextOfScanNodes` bool from `true` to `false`
+    - Set `InverseTeleporterCooldown` value from `10` to `210`
+    - Set `LightSwitchScanNode` bool from `true` to `false`
+    - Set `MaskedEntitiesCopyPlayerLooks` value from `SuitAndCosmetics` to `None`
+    - Set `MaskedEntitiesReachTowardsPlayer` bool from `false` to `true`
+    - Set `MaskedEntitiesShowPlayerNames` bool from `true` to `false`
+    - Set `MaskedEntitiesSpinOnRadar` bool from `false` to `true`
+    - Set `MaskedEntitiesWearMasks` bool from `false` to `true`
+    - Set `ScannableTools` value from `All` to `None`
+    - Set `ShipMapCamRotation` value from `North` to `None`
+    - Set `ShowLightningWarnings` bool from `true` to `false`
+    - Set `SpeakerPlaysIntroVoice` bool from `false` to `true`
+    - Set `TerminalHistoryItemCount` value from `100` to `20`
+  - [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
+    - Set `UseDefaultItemActivateInterval` bool from `false` to `true`
+    - Set `UseDefaultItemSwapInterval` bool from `false` to `true`
+  - [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
+    - Set `ShowCosmetics` bool from `true` to `false`
+    - Set `DefaultCosmetics` bool from `true` to `false`
+  - [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    - Set `DisplayOriginalScreenWhenDisabled` bool from `true` to `false`
+    - Set `Enabled (Overlay)` bool from `false` to `true`
+    - Set `ExternalCameraEmissiveColor` value from `None` to `0.05, 0.13, 0.05`
+    - Set `FieldOfView` value from `86` to `65`
+    - Set `FixDroppedItemRotation` bool from `true` to `false`
+    - Set `HorizontalResolution` value from `160` to `320`
+    - Set `MonitorEmissiveColor` value from `0.05, 0.5, 0.05` to `0.05, 0.13, 0.05`
+    - Set `RenderDistance` value from `20` to `25`
+- **Other:**
+  - Compatibility with v66
+    > In this update we got rid of a bunch of mods that causes performance issues, bugs and instability inbetween other mods as well as mods that are, in our opinion, broking the vanilla experience we want to give for the people that plays with this modpack. We've also removed all kinds of cosmetics mods for performance and compatibility issues, even MoreCompany's cosmetics are disabled, finally, we removed a lot of custom suits too, only keeping a few of them. This brings up the modpack more to a vanilla-like experience. <br> This update is experimental so we might bring back some mods we actually removed, this is subjet to change! <br> **If you are not pleased by all of these changes and want to have cosmetics, suits and some of the mods that got removed back, you can use older versions such as version [5.1.1](ror2mm://v1/install/thunderstore.io/FREAKS/FREAKS_Modpack/5.1.1/) of the modpack but you will certainly have a lot of issues since it has been made for v64!**
+  - Updated dependencies versions to latests
+  - Updated `manifest.json`
+  - Updated `README.md`
+  - New icon
+  - New in-game menus
+  - New banner
+
 # 5.1.1
 
 - **Added mods:**
@@ -49,7 +128,7 @@
 - **Configuration:**
   - [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/)
     - Set `ExhaustionIndicator` value from `AlwaysShow` to `DontShow`
-  - [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+  - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
     - Set `AddMoreBetterMonitors` bool from `true` to `false`
     - Set `ChatFadeDelay` value from `4` to `0`
     - Set `ChatOpacity` value from `0.2` to `0`
@@ -198,7 +277,7 @@
     - Set `DefaultZoomDistance` value from `1.4` to `2.5`
     - Set `FirstPersonKeybind` keybind to <kbd>V</kbd>
     - Set `ZoomSpeed` value from `0.4` to `0.25`
-  - [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+  - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
     - Set `LockCameraAtTerminal` bool from `true` to `false`
     - Set `MaskedEntitiesShowPlayerNames` bool from `true` to `false`
     - Set `MaskedEntitiesSpinOnRadar` bool from `true` to `false`
@@ -243,7 +322,7 @@
   - [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
   - [WeatherTweaks](https://thunderstore.io/c/lethal-company/p/mrov/WeatherTweaks/)
 - **Configuration:**
-  - [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+  - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
     - Set `MenuMusicVolume` value from `100` to `0`
   - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
     - Set `RecordWhileDead` bool from `false` to `true`
@@ -257,7 +336,7 @@
 - **Removed mods:**
   - [LBtoKG](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG/)
 - **Configuration:**
-  - [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+  - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
     - Set `DisableShipCamPostProcessing` bool from `true` to `false`
     - Set `DisplayKgInsteadOfLb` bool from `false` to `true`
     - Set `ShipInternalCamSizeMultiplier` value from `3` to `2`
@@ -298,17 +377,17 @@
   - [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
 - **Other:**
   - Updated `README.md`
-  - New icon
   - New banner
+  - New icon
 
 # 1.1.1
 
 - **Configuration:**
-  - [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+  - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
     - Set `ShipInternalCamSizeMultiplier` value from `1` to `3`
     - Set `ShipExternalCamSizeMultiplier` value from `1` to `3`
 - **Other:**
-  - Fixed `manifest.json` _(Removed [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) in last commit by accident)_
+  - Fixed `manifest.json` _(Removed [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) in last commit by accident)_
 
 # 1.1.0
 
@@ -323,10 +402,10 @@
   - [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
   - [LetMeLookDown](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
   - [NoSellLimit](https://thunderstore.io/c/lethal-company/p/ViViKo/NoSellLimit/)
-    > Most of the removed mods where replaced by [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) thanks to [Shaosil](https://github.com/Shaosil) for adding all the features of the mods we removed did into one single mod.
+    > Most of the removed mods where replaced by [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) thanks to [Shaosil](https://github.com/Shaosil) for adding all the features of the mods we removed did into one single mod.
     > To keep the Vanilla experience/look we removed [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/) and [FOV_Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/), you still can download them alongside the modpack if you want!
 - **Configuration:**
-  - [GeneralImprovement](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+  - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
     - Set `AutoChargeOnOrbit` bool from `false` to `true`
     - Set `DisableShipCamPostProcessing` bool from `false` to `true`
     - Set `DropShipItemLimit` value from `24` to `100`
