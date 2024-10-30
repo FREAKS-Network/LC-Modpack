@@ -1,16 +1,9 @@
 {
 	"name":"FREAKS_Modpack",
-	"version_number":"5.1.1",
+	"version_number":"6.0.0",
 	"website_url":"https://github.com/FREAKS-Network/LC-Modpack/",
 	"description":"[v64] Modpack from FREAKS® for Lethal Company, includes over 50 mods to improve the QoL of the game without breaking a lot the vanilla experience.",
 	"dependencies":[
-		"AinaVT-LethalConfig-1.4.3",
-		"akechii-DiscountAlert-2.3.0",
-		"anormaltwig-LateCompany-1.0.18",
-		"BatTeam-LethalFashion-1.0.7",
-		"BepInEx-BepInExPack-5.4.2100",
-		"BlueAmulet-LCBetterClock-1.0.3",
-		"BMX-LobbyCompatibility-1.2.0",
 		"ButteryStancakes-AccurateStaminaDisplay-2.1.3",
 		"CatsArmy-CorporateRestructureWeather-1.0.0",
 		"crump_laude-VisorColorsCosmetics-1.0.0",
