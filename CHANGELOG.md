@@ -1,3 +1,19 @@
+# 6.1.2
+
+- **Configuration:**
+  - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+    - Set `ShipExternalCamFPS` value from `30` to `0`
+    - Set `ShipInternalCamFPS` value from `30` to `0`
+  - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+    - Set `MaximumDelay (Non-Masked Enemy)` value from `12000` to `120000`
+    - Set `MaximumDelay (Masked Enemy)` value from `12000` to `120000`
+    - Set `MinimumDelay (Non-Masked Enemy)` value from `7000` to `30000`
+    - Set `MinimumDelay (Masked Enemy)` value from `7000` to `30000`
+  - [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    - Set `Framerate` value from `30` to `0`
+- **Other:**
+  - Updated `README.md`
+
 # 6.1.1
 
 - **Added mods:**
