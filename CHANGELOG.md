@@ -1,3 +1,52 @@
+# 6.1.0
+
+- **Added mods:**
+  - [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
+  - [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
+- **Configuration:**
+  - [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/)
+    - Set `ExhaustionIndicator` value from `ChangeColor` to `AlwaysShow`
+  - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+    - Set `LightSwitchScanNode` bool from `false` to `true`
+    - Set `ScannableTools` value from `None` to `All`
+    - Set `ShipExternalCamFPS` value from `0` to `30`
+    - Set `ShipInternalCamFPS` value from `0` to `30`
+  - [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
+    - Set `24Hours` bool from `false` to `true`
+    - Set `DarkZero` bool from `true` to `false`
+    - Set `FasterUpdate` bool from `true` to `false`
+    - Set `ProperTime` bool from `true` to `false`
+    - Set `RaiseClock` bool from `true` to `false`
+    - Set `VisibilityInside` value from `0.25` to `0`
+    - Set `VisibilityShip` value from `1` to `0`
+  - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+    - Set `MaximumDelay (Non-Masked Enemy)` value from `120000` to `12000`
+    - Set `MaximumDelay (Masked Enemy)` value from `120000` to `12000`
+    - Set `MinimumDelay (Non-Masked Enemy)` value from `30000` to `7000`
+    - Set `MinimumDelay (Masked Enemy)` value from `30000` to `7000`
+  - [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
+    - Set `ShowOnDeadBodies` bool from `true` to `false`
+    - Set `ShowOnMaskedEnemy` bool from `true` to `false`
+  - [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+    - Set `EnableAdvancedCompanyCosmeticsCompatibility` bool from `true` to `false`
+    - Set `EnableLethalVRMCompatibility` bool from `true` to `false`
+    - Set `EnableMoreCompanyCosmeticsCompatibility` bool from `true` to `false`
+    - Set `EnableModelReplacementAPICompatibility` bool from `true` to `false`
+    - Set `EnableReservedItemSlotsCompatibility` bool from `true` to `false`
+    - Set `Framerate` value from `0` to `30`
+    - Set `GeneralImprovementsBetterMonitorIndex` value from `0` to `9`
+    - Set `HorizontalResolution` value from `320` to `160`
+  - [ShipLootPlus](https://thunderstore.io/c/lethal-company/p/PXC/ShipLootPlus/)
+    - Set `Color (Line 1)` value from `D46204` to `D56411`
+    - Set `Color (Line 2)` value from `D46204` to `D56411`
+    - Set `Color (Line 3)` value from `D46204` to `D56411`
+  - [ShowCapacity](https://thunderstore.io/c/lethal-company/p/Piggy/ShowCapacity/)
+    - Set `Green` value from `255` to `127`
+- **Other:**
+  - Compatibility with v68
+  - Updated dependencies versions to latests
+  - Updated `README.md`
+
 # 6.0.0
 
 - **Added mods:**
@@ -159,6 +208,15 @@
   - Updated dependencies versions to latests
   - Updated `README.md`
   - Updated `CHANGELOG.md`
+
+<br><br><br><br><br><br><br>
+
+# ⚠️ **WARNING** ⚠️
+The following changelogs are from the [FREAKS Modpack - Vanilla Edition](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Vanilla_Edition/) modpack right before it got merged into this modpack, older changelogs from the **original version** are no longer visible here, this is why the version bumped from `1.3.3` to `5.0.0`.
+
+Older changelogs are still visible in the actual [GitHub](https://github.com/FREAKS-Network/LC-Modpack/releases) repository. <br> For very old ones, see the [Old GitHub](https://github.com/FREAKS-Network/LC-Modpack.OLD/releases) repository *(but why would you anyways?)*
+
+<br><br><br><br><br><br><br>
 
 # 1.3.3
 
