@@ -1,77 +1,51 @@
-<size=16><b>FREAKS Modpack 6.0.0</b></size>
+<size=24><b>FREAKS Modpack 6.1.0</b></size>
 <size=12>
 - <b>Added mods:</b>
- - <color=#3c8aff>FlashlightToggle</color>
- - <color=#3c8aff>Loadstone</color>
- - <color=#3c8aff>WalkieUse</color>
-- <b>Removed mods:</b>
- - <color=#3c8aff>AbsasCosmetics</color>
- - <color=#3c8aff>AlwaysHearActiveWalkies</color>
- - <color=#3c8aff>BensCosmetics</color>
- - <color=#3c8aff>Boombox_Sync_Fix</color>
- - <color=#3c8aff>davson_suitpack</color>
- - <color=#3c8aff>DiscountAlert</color>
- - <color=#3c8aff>FasterItemDropship</color>
- - <color=#3c8aff>JetpackWarning</color>
- - <color=#3c8aff>LCBetterSaves</color>
- - <color=#3c8aff>LCMaxSoundsFix</color>
- - <color=#3c8aff>LethalPosters</color>
- - <color=#3c8aff>LobbyCompatibility</color>
- - <color=#3c8aff>ObjectVolumeController</color>
- - <color=#3c8aff>RandomCosmetics</color>
- - <color=#3c8aff>ReservedFlashlightSlot</color>
- - <color=#3c8aff>ReservedItemSlotCore</color>
- - <color=#3c8aff>ReservedWalkieSlot</color>
- - <color=#3c8aff>TooManyEmotes</color>
- - <color=#3c8aff>ScannableCodes</color>
- - <color=#3c8aff>SellMyScrap</color>
- - <color=#3c8aff>SillyCosmetics</color>
- - <color=#3c8aff>SillyExpressionsCosmetics</color>
+ - <color=#3c8aff>LCBetterClock</color>
  - <color=#3c8aff>SuitSaver</color>
- - <color=#3c8aff>VisorColorsCosmetics</color>
- - <color=#3c8aff>YippeeMod</color>
 - <b>Configuration:</b>
  - <color=#3c8aff>AccurateStaminaDisplay</color>
-  - Set <color=#959595>ExhaustionIndicator</color> value from <color=#959595>DontShow</color> to <color=#959595>ChangeColor</color>
+  - Set <color=#959595>ExhaustionIndicator</color> value from <color=#959595>ChangeColor</color> to <color=#959595>AlwaysShow</color>
  - <color=#3c8aff>BetterEmotes</color>
   - Set <color=#959595>EmoteWheel</color> keybind to <color=#959595>V</color>
  - <color=#3c8aff>GeneralImprovements</color>
-  - Set <color=#959595>AutoChargeOnOrbit</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
-  - Set <color=#959595>ChatFadeDelay</color> value from <color=#959595>0</color> to <color=#959595>4</color>
-  - Set <color=#959595>ChatOpacity</color> value from <color=#959595>0</color> to <color=#959595>0.2</color>
-  - Set <color=#959595>HideEmptySubtextOfScanNodes</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
-  - Set <color=#959595>InverseTeleporterCooldown</color> value from <color=#959595>10</color> to <color=#959595>210</color>
-  - Set <color=#959595>LightSwitchScanNode</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
-  - Set <color=#959595>MaskedEntitiesCopyPlayerLooks</color> value from <color=#959595>SuitAndCosmetics</color> to <color=#959595>None</color>
-  - Set <color=#959595>MaskedEntitiesReachTowardsPlayer</color> bool from <color=#959595>false</color> to <color=#959595>true</color>
-  - Set <color=#959595>MaskedEntitiesShowPlayerNames</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
-  - Set <color=#959595>MaskedEntitiesSpinOnRadar</color> bool from <color=#959595>false</color> to <color=#959595>true</color>
-  - Set <color=#959595>MaskedEntitiesWearMasks</color> bool from <color=#959595>false</color> to <color=#959595>true</color>
-  - Set <color=#959595>ScannableTools</color> value from <color=#959595>All</color> to <color=#959595>None</color>
-  - Set <color=#959595>ShipMapCamRotation</color> value from <color=#959595>North</color> to <color=#959595>None</color>
-  - Set <color=#959595>ShowLightningWarnings</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
-  - Set <color=#959595>SpeakerPlaysIntroVoice</color> bool from <color=#959595>false</color> to <color=#959595>true</color>
-  - Set <color=#959595>TerminalHistoryItemCount</color> value from <color=#959595>100</color> to <color=#959595>20</color>
-- <color=#3c8aff>HotbarPlus</color>
- - Set <color=#959595>UseDefaultItemActivateInterval</color> bool from <color=#959595>false</color> to <color=#959595>true</color>
- - Set <color=#959595>UseDefaultItemSwapInterval</color> bool from <color=#959595>false</color> to <color=#959595>true</color>
+  - Set <color=#959595>LightSwitchScanNode</color> bool from <color=#959595>false</color> to <color=#959595>true</color>
+  - Set <color=#959595>ScannableTools</color> value from <color=#959595>None</color> to <color=#959595>All</color>
+  - Set <color=#959595>ShipExternalCamFPS</color> value from <color=#959595>0</color> to <color=#959595>30</color>
+  - Set <color=#959595>ShipInternalCamFPS</color> value from <color=#959595>0</color> to <color=#959595>30</color>
+- <color=#3c8aff>LCBetterClock</color>
+ - Set <color=#959595>24Hours</color> bool from <color=#959595>false</color> to <color=#959595>true</color>
+ - Set <color=#959595>DarkZero</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - Set <color=#959595>FasterUpdate</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - Set <color=#959595>ProperTime</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - Set <color=#959595>RaiseClock</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - Set <color=#959595>VisibilityInside</color> value from <color=#959595>0.25</color> to <color=#959595>0</color>
+ - Set <color=#959595>VisibilityShip</color> value from <color=#959595>1</color> to <color=#959595>0</color>
+- <color=#3c8aff>Mirage</color>
+ - Set <color=#959595>MaximumDelay (Non-Masked Enemy)</color> value from <color=#959595>120000</color> to <color=#959595>12000</color>
+ - Set <color=#959595>MaximumDelay (Masked Enemy)</color> value from <color=#959595>120000</color> to <color=#959595>12000</color>
+ - Set <color=#959595>MinimumDelay (Non-Masked Enemy)</color> value from <color=#959595>30000</color> to <color=#959595>7000</color>
+ - Set <color=#959595>MinimumDelay (Masked Enemy)</color> value from <color=#959595>30000</color> to <color=#959595>7000</color>
 - <color=#3c8aff>MoreCompany</color>
- - Set <color=#959595>ShowCosmetics</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
- - Set <color=#959595>DefaultCosmetics</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - Set <color=#959595>ShowOnDeadBodies</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - Set <color=#959595>ShowOnMaskedEnemy</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
 - <color=#3c8aff>OpenBodyCams</color>
- - Set <color=#959595>DisplayOriginalScreenWhenDisabled</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
- - Set <color=#959595>Enabled (Overlay)</color> bool from <color=#959595>false</color> to <color=#959595>true</color>
- - Set <color=#959595>ExternalCameraEmissiveColor</color> value from <color=#959595>None</color> to <color=#959595>0.05, 0.13, 0.05</color>
- - Set <color=#959595>FieldOfView</color> value from <color=#959595>86</color> to <color=#959595>65</color>
- - Set <color=#959595>FixDroppedItemRotation</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
- - Set <color=#959595>MonitorEmissiveColor</color> value from <color=#959595>0.05, 0.5, 0.05</color> to <color=#959595>0.05, 0.13, 0.05</color>
- - Set <color=#959595>RenderDistance</color> value from <color=#959595>20</color> to <color=#959595>25</color>
+ - Set <color=#959595>EnableAdvancedCompanyCosmeticsCompatibility</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - Set <color=#959595>EnableLethalVRMCompatibility</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - Set <color=#959595>EnableMoreCompanyCosmeticsCompatibility</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - Set <color=#959595>EnableModelReplacementAPICompatibility</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - Set <color=#959595>EnableReservedItemSlotsCompatibility</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - Set <color=#959595>Framerate</color> value from <color=#959595>0</color> to <color=#959595>30</color>
+ - Set <color=#959595>GeneralImprovementsBetterMonitorIndex</color> value from <color=#959595>0</color> to <color=#959595>9</color>
+ - Set <color=#959595>HorizontalResolution</color> value from <color=#959595>320</color> to <color=#959595>160</color>
+- <color=#3c8aff>ShipLootPlus</color>
+ - Set <color=#959595>Color (Line 1)</color> value from <color=#959595>D46204</color> to <color=#959595>D56411</color>
+ - Set <color=#959595>Color (Line 2)</color> value from <color=#959595>D46204</color> to <color=#959595>D56411</color>
+ - Set <color=#959595>Color (Line 3)</color> value from <color=#959595>D46204</color> to <color=#959595>D56411</color>
+- <color=#3c8aff>ShowCapacity</color>
+ - Set <color=#959595>Green</color> value from <color=#959595>255</color> to <color=#959595>127</color>
 - <b>Other:</b>
- - Compatibility with v66
+ - Compatibility with v68
  - Updated dependencies versions to latests
- - Updated <color=#959595>manifest.json</color>
  - Updated <color=#959595>README.md</color>
- - New icon
- - New in-game menus
- - New banner
 </size>

@@ -9,13 +9,14 @@
 - Overhauled spectator mode, zoom/unzoom feature with <kbd>Scrollwheel Up</kbd>/<kbd>Scrollwheel Down</kbd>, a toggleable first person view using <kbd>V</kbd> as well as a togglelable **Flashlight Overlay** using <kbd>F</kbd> and a **Nightvision Overlay** using <kbd>N</kbd>
 - Toggleable hotkeys for switching ON/OFF **Flashlights** and **Talkie-Walkies** (<kbd>F</kbd> and <kbd>X</kbd> by default)
 - Some HUD tweaks:
-  - Accurate stamina bar overlay *(the stamina bar will change colors depending on the TZP effect strength)*
+  - Accurate stamina bar overlay
   - Death reasons in the report screen
   - Hiden chat
   - Improved paycheck UI
   - Item capacity bar *(ex. TZP, Weed Killer, Spray Paint...)*
   - Player health metrics
   - Rendertext of the total scrap value inside the ship and total indoor scrap count/value *(basically the scan terminal command but always shown on the HUD)*
+  - Stamina bar color will change based on the TZP effect strength
 - Synchronized skinwalker voices
 - Uncapped player limit *(over 32 players)*
 
@@ -47,4 +48,4 @@ Help us improve our modpack! Got any suggestions or bugs to report? Let us know 
 
 | **[FREAKS Modpack Lite](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/)** | **[SuitsPlus](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)** |
 | :--------: | :--------: |
-| [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/lite/icon.png" alt="freaks_modpack" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/) | [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/icon.png" alt="freaks_modpack_lite" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/) |
+| [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/lite/icon.png" alt="freaks_modpack" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/) | [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/icon.png" alt="freaks_modpack_lite" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) |
