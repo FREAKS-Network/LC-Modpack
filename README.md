@@ -48,4 +48,4 @@ Help us improve our modpack! Got any suggestions or bugs to report? Let us know 
 
 | **[FREAKS Modpack Lite](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/)** | **[SuitsPlus](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)** |
 | :--------: | :--------: |
-| [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/lite/icon.png" alt="freaks_modpack" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/) | [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/icon.png" alt="freaks_modpack_lite" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) |
+| [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/lite/icon.png" alt="freaks_modpack_lite" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack_Lite/) | [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/icon.png" alt="suitsplus" width="200"/>](https://thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) |
