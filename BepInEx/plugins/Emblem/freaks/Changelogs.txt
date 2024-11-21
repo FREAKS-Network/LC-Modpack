@@ -1,4 +1,4 @@
-<size=24><b>FREAKS Modpack 6.1.0</b></size>
+<size=24><b>FREAKS Modpack 6.1.1</b></size>
 <size=12>
 - <b>Added mods:</b>
  - <color=#3c8aff>LCBetterClock</color>

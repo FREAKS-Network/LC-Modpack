@@ -1,4 +1,4 @@
-# 6.1.0
+# 6.1.1
 
 - **Added mods:**
   - [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)

@@ -1,6 +1,6 @@
 {
 	"name":"FREAKS_Modpack",
-	"version_number":"6.1.0",
+	"version_number":"6.1.1",
 	"website_url":"https://github.com/FREAKS-Network/LC-Modpack/",
 	"description":"[v68] Modpack by FREAKS® for Lethal Company, includes over 40 mods to improve the QoL of the game without breaking the vanilla experience.",
 	"dependencies":[
@@ -8,6 +8,7 @@
 		"mattymatty-AsyncLoggers-2.1.2",
 		"DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-0.6.5",
 		"BepInEx-BepInExPack-5.4.2100",
+		"BlueAmulet-LCBetterClock-1.0.3",
 		"KlutzyBubbles-BetterEmotes-1.5.4",
 		"Swaggies-BetterPaycheck-0.9.0",
 		"Fusition-BetterSpectate-1.0.0",
