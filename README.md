@@ -24,7 +24,7 @@ Our proper configurations of the mods are included in this modpack, feel free to
 
 ![known_issues.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/experimental/.github/assets/img/known_issues.png)
 
-### ⚠️ This version don't support issues report! <br> Please try not to open an issue in our GitHub repository for this specific modpack!
+### ⚠️ This version don't support issues report! <br> Please do not open an issue in our GitHub repository for this specific modpack!
 
 ![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/experimental/.github/assets/img/our_mods.png)
 
