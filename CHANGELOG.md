@@ -1,3 +1,14 @@
+# 1.0.2
+
+- **Configuration:**
+  - [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/)
+    - Set `TimeUntilStare` value from `8` to `0`
+    - Set `HeadTurnSpeed` value from `0.3` to `1.3`
+  - [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
+    - Set `OverallDifficulty` value from `FUN` to `OP`
+  - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+    - Set `EasyMode` bool from `false` to `true`
+
 # 1.0.1
 
 - **Added mods:**
