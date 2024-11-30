@@ -1,3 +1,17 @@
+# 1.0.3
+
+- **Added mods:**
+  - [CursedScraps](https://thunderstore.io/c/lethal-company/p/Lega/CursedScraps/)
+  - [Dildo_Cumpany](https://thunderstore.io/c/lethal-company/p/Loopers/Dildo_Cumpany/)
+  - [Emergency_Dice_Updated](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/)
+  - [ghostCodes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/)
+  - [Groan_Tube_Scrap](https://thunderstore.io/c/lethal-company/p/Kittenji/Groan_Tube_Scrap/)
+  - [LCGoldScrapMod](https://thunderstore.io/c/lethal-company/p/SimonTendo/LCGoldScrapMod/)
+  - [LetTheDeadRest](https://thunderstore.io/c/lethal-company/p/dummy/LetTheDeadRest/)
+  - [Rats](https://thunderstore.io/c/lethal-company/p/Snowlance/Rats/)
+  - [TalkingHeads](https://thunderstore.io/c/lethal-company/p/BomBom/TalkingHeads/)
+  - [YesFox](https://thunderstore.io/c/lethal-company/p/Dev1A3/YesFox/)
+
 # 1.0.2
 
 - **Configuration:**
