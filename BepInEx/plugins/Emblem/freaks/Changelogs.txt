@@ -1,0 +1,63 @@
+<size=24><b>FREAKS Modpack EXPERIMENTAL 1.0.613</b></size>
+<size=12>
+- <b>Added mods:</b>
+ - <color=#3c8aff>BuyAnyShipDecoration</color>
+ - <color=#3c8aff>MirageLegacy</color>
+ - <color=#3c8aff>ReservedFlashlightSlot</color>
+ - <color=#3c8aff>ReservedWalkieSlot</color>
+- <b>Removed mods:</b>
+ - <color=#3c8aff>Acidir</color>
+ - <color=#3c8aff>AlwaysHearActiveWalkies</color>
+ - <color=#3c8aff>Asteroid13</color>
+ - <color=#3c8aff>Asteroid14</color>
+ - <color=#3c8aff>Atlantica</color>
+ - <color=#3c8aff>CoilHeadStare</color>
+ - <color=#3c8aff>Cosmocos</color>
+ - <color=#3c8aff>Desolation</color>
+ - <color=#3c8aff>Dildo_Cumpany</color>
+ - <color=#3c8aff>Diversity</color>
+ - <color=#3c8aff>Etern</color>
+ - <color=#3c8aff>Fission</color>
+ - <color=#3c8aff>Gratar</color>
+ - <color=#3c8aff>Infernis</color>
+ - <color=#3c8aff>Junic</color>
+ - <color=#3c8aff>LETHALRESONANCE</color>
+ - <color=#3c8aff>Mirage</color>
+ - <color=#3c8aff>Oldred</color>
+ - <color=#3c8aff>Polarus</color>
+ - <color=#3c8aff>Rats</color>
+ - <color=#3c8aff>WesleysInteriors</color>
+- <b>Configuration:</b>
+ - <color=#3c8aff>CursedScrap</color>
+  - Set <color=#959595>Chance</color> value from <color=#959595>default:15</color> to <color=#959595>default:5</color>
+  - Set <color=#959595>Enable (Blurry)</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+  - Set <color=#959595>Enable (Errant)</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+  - Set <color=#959595>Enable (Fragile)</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+  - Set <color=#959595>Enable (Inhibition)</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+  - Set <color=#959595>Enable (Shadow)</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - <color=#3c8aff>Emblem</color>
+  - Set <color=#959595>ScanlineShader</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - <color=#3c8aff>Emergency_Dice_Updated</color>
+  - Set <color=#959595>Jumpscare</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - <color=#3c8aff>GeneralImprovements</color>
+  - Set <color=#959595>ShipMapCamRotation</color> value from <color=#959595>None</color> to <color=#959595>North</color>
+  - Set <color=#959595>MaskedEntitiesCopyPlayerLooks</color> value from <color=#959595>None</color> to <color=#959595>SuitsAndCosmetics</color>
+  - Set <color=#959595>MaskedEntitiesReachTowardsPlayer</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+  - Set <color=#959595>MaskedEntitiesShowPlayerNames</color> bool from <color=#959595>false</color> to <color=#959595>true</color>
+  - Set <color=#959595>MaskedEntitiesSpinOnRadar</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+  - Set <color=#959595>MaskedEntitiesWearMasks</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - <color=#3c8aff>Lategame_Upgrades</color>
+  - Set <color=#959595>ShowUpgradesBeingLoadedInChat</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - <color=#3c8aff>LethalCasino</color>
+  - Set <color=#959595>OverallDifficulty</color> value from <color=#959595>OP</color> to <color=#959595>FUN</color>
+ - <color=#3c8aff>LethalThings</color>
+  - Set <color=#959595>PouchyBelt</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+  - Set <color=#959595>ToyHammerIsScrap</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - <color=#3c8aff>Mimics</color>
+  - Set <color=#959595>ColorBlindMode</color> bool from <color=#959595>false</color> to <color=#959595>true</color>
+  - Set <color=#959595>SFXVolume</color> value from <color=#959595>100</color> to <color=#959595>50</color>
+- <b>Other:</b>
+ - Updated dependencies versions to latests
+ - Updated <color=#959595>manifest.json</color>
+ - Updated <color=#959595>README.md</color>
+</size>

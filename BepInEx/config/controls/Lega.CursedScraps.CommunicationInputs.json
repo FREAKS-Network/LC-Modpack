@@ -1,0 +1,16 @@
+{
+    "overrides": [
+      {
+        "action": "HotParticleKey",
+        "origPath": "<Keyboard>/h",
+        "path": "<Keyboard>/h",
+        "groups": "KeyboardAndMouse"
+      },
+      {
+        "action": "ColdParticleKey",
+        "origPath": "<Keyboard>/c",
+        "path": "<Keyboard>/c",
+        "groups": "KeyboardAndMouse"
+      }
+    ]
+  }

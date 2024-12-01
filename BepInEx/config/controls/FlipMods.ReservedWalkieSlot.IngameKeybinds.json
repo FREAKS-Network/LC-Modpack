@@ -1,0 +1,10 @@
+{
+    "overrides":[
+       {
+          "action":"ActivateWalkieHotkey",
+          "origPath":"<Keyboard>/x",
+          "path":"<Keyboard>/x",
+          "groups":"KeyboardAndMouse"
+       }
+    ]
+ }

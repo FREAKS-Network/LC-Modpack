@@ -1,1 +1,10 @@
-{"overrides":[{"action":"WalkieKey","origPath":"<Keyboard>/r","path":"<Keyboard>/x","groups":"KeyboardAndMouse"}]}
+{
+    "overrides": [
+      {
+        "action": "WalkieKey",
+        "origPath": "<InputUtils-Kbm-Not-Bound>",
+        "path": "<InputUtils-Kbm-Not-Bound>",
+        "groups": "KeyboardAndMouse"
+      }
+    ]
+  }
