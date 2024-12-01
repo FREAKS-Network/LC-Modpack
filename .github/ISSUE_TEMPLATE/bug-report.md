@@ -20,4 +20,4 @@ assignees: ''
 ### Informations
 `Version` : *Enter wich version of the modpack you were using*
 <!-- Don't delete --> <br> 
-`Branch` : *Enter wich branch of the modpack you were using (MASTER or LITE)*
+`Branch` : *Enter wich branch of the modpack you were using (e.g. MASTER, EXPERIMENTAL or LITE)*

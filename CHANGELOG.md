@@ -1,3 +1,19 @@
+# 6.1.3
+
+- **Added mods:**
+  - [MirageLegacy](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
+- **Removed mods:**
+  - [Mirage](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
+- **Configuration:**
+  - [Emblem](https://thunderstore.io/c/lethal-company/p/Darkbrewery/Emblem/)
+    - Set `ScanlineShader` bool from `true` to `false`
+  - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+    - Set `ShipMapCamRotation` value from `None` to `North`
+- **Other:**
+  - Updated dependencies versions to latests
+  - Updated `manifest.json`
+  - Updated `README.md`
+
 # 6.1.2
 
 - **Configuration:**

@@ -18,4 +18,4 @@ assignees: ''
 *Link any screenshots or clips that can show us what you want, if none, delete this part*
 
 ### Informations
-`Branch` : *Enter wich branch of the modpack you are refering to (MASTER or LITE)*
+`Branch` : *Enter wich branch of the modpack you are refering to (e.g. MASTER, EXPERIMENTAL or LITE)*
