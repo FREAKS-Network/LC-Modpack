@@ -7,4 +7,6 @@
 - <b>Other:</b>
  - Compatibility with v69
  - Updated dependencies versions to latests
+ - Updated <color=#959595>CHANGELOG.md</color>
+ - Updated <color=#959595>LICENSE</color>
 </size>
