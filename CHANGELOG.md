@@ -1,3 +1,14 @@
+# 1.0.614
+
+- **Added mods:**
+  - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+- **Removed mods:**
+  - [MirageLegacy](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageLegacy/)
+- **Other:**
+  - Compatibility with v69
+  - Updated dependencies versions to latests
+  - Updated `LICENSE`
+
 # 1.0.613
 > This version introduces a comprehensive overhaul of the modpack, maintaining its foundation on [FREAKS Modpack 6.1.3](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/v/6.1.3/). However, instead of relying on dependencies, all mods and configurations from the base modpack have been directly integrated into this experimental branch. This change simplifies debugging and optimization processes, potentially leading to improved performance.
 

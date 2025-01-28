@@ -1,6 +1,6 @@
 ![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/experimental/.github/assets/img/banner.png)
 
-# ⚠️ Experimental version based on [FREAKS Modpack 6.1.3](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/v/6.1.3) 
+# ⚠️ Experimental version based on [FREAKS Modpack 6.1.4](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/v/6.1.4) 
 > **The modpack may be unstable, he might be frequently updated based on our personal preferences for adding or removing mods. Use it at your own risk.** <br> If you're looking for a stable modpack, please use the main version [here](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/).
 
 **This modpack has been primarily made for fun, introducing a lot of mods that significantly alter the vanilla-like experience that the main modpack aims to preserve. <br> It enriches the game with a variety of new features, including:**
