@@ -1,9 +1,21 @@
+# 6.1.4
+
+- **Added mods:**
+  - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+- **Removed mods:**
+  - [MirageLegacy](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageLegacy/)
+- **Other:**
+  - Compatibility with v69
+  - Updated dependencies versions to latests
+  - Updated `CHANGELOG.md`
+  - Updated `LICENSE`
+
 # 6.1.3
 
 - **Added mods:**
-  - [MirageLegacy](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
+  - [MirageLegacy](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageLegacy/)
 - **Removed mods:**
-  - [Mirage](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
+  - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
 - **Configuration:**
   - [Emblem](https://thunderstore.io/c/lethal-company/p/Darkbrewery/Emblem/)
     - Set `ScanlineShader` bool from `true` to `false`
