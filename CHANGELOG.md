@@ -1,3 +1,17 @@
+# 1.1.614
+
+- **Removed mods:**
+  - [CursedScraps](https://thunderstore.io/c/lethal-company/p/Lega/CursedScraps/)
+  - [Emergency_Dice_Updated](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/)
+  - [ghostCodes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/)
+- **Configuration:**
+  - [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+    - Set `MinimumStartingMoney` value from `30` to `60`
+- **Other:**
+  - Updated dependencies versions to latests
+  - Updated `manifest.json`
+  - Updated `README.md`
+
 # 1.0.614
 
 - **Added mods:**
