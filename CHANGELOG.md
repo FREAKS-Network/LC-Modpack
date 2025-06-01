@@ -1,6 +1,7 @@
-# 6.2.0
+ # 6.2.0
 
 - **Removed mods:**
+  - [MainMenuVersion](https://new.thunderstore.io/c/lethal-company/p/mrov/MainMenuVersion/)
   - [OpenBodyCams](https://new.thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
 - **Configuration:**
   - [GeneralImprovements](https://new.thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
