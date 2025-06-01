@@ -1,16 +1,16 @@
 {
-    "overrides": [
+   "overrides":[
       {
-        "action": "FlashlightBinding",
-        "origPath": "<Keyboard>/f",
-        "path": "<Keyboard>/f",
-        "groups": "KeyboardAndMouse"
+         "action":"FlashlightBinding",
+         "origPath":"<Keyboard>/f",
+         "path":"<Keyboard>/f",
+         "groups":"KeyboardAndMouse"
       },
       {
-        "action": "NightVisionBinding",
-        "origPath": "<Keyboard>/n",
-        "path": "<Keyboard>/n",
-        "groups": "KeyboardAndMouse"
+         "action":"NightVisionBinding",
+         "origPath":"<Keyboard>/n",
+         "path":"<Keyboard>/n",
+         "groups":"KeyboardAndMouse"
       }
-    ]
-  }
+   ]
+}

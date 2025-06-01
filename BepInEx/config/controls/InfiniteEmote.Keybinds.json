@@ -1,10 +1,10 @@
 {
-    "overrides": [
+   "overrides":[
       {
-        "action": "StopEmote",
-        "origPath": "<Mouse>/middleButton",
-        "path": "<Mouse>/middleButton",
-        "groups": "KeyboardAndMouse"
+         "action":"StopEmote",
+         "origPath":"<Mouse>/middleButton",
+         "path":"<Mouse>/middleButton",
+         "groups":"KeyboardAndMouse"
       }
-    ]
-  }
+   ]
+}
