@@ -1,6 +1,7 @@
 <size=24><b>FREAKS Modpack 6.2.0</b></size>
 <size=12>
 - <b>Removed mods:</b>
+ - <color=#3c8aff>MainMenuVersion</color>
  - <color=#3c8aff>OpenBodyCams</color>
 - <b>Configuration:</b>
  - <color=#3c8aff>GeneralImprovements</color>
