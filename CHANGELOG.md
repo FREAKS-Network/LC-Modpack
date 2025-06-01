@@ -1,3 +1,27 @@
+# 1.0.620
+
+- **Removed mods:**
+  - [MainMenuVersion](https://new.thunderstore.io/c/lethal-company/p/mrov/MainMenuVersion/)
+  - [OpenBodyCams](https://new.thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+- **Configuration:**
+  - [GeneralImprovements](https://new.thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+    - Set `ShipMapCamRotation` value from `North` to `None`
+    - Set `ShipMonitor9` value from `None` to `ExternalCam`
+    - Set `ShipMonitor12` value from `InternalCam` to `None`
+    - Set `SprintOnLadders` value from `None` to `NoDrain`
+  - [HotbarPlus](https://new.thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
+    - Set `FixVanillaContainerDesyncBug` bool from `false` to `true`
+  - [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/)
+    - Set `TeleporterTraps` bool from `true` to `false`
+  - [Mirage](https://new.thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+    - Set `ChanceToRollAsStoreItem` value from `50` to `0`
+    - Set `ChanceToSpawnWithItem` value from `80` to `0`
+- **Other:**
+  - Compatibility with v70
+  - Updated dependencies versions to latests
+  - Updated `CHANGELOG.md`
+  - Updated `README.md`
+
 # 1.1.614
 
 - **Removed mods:**

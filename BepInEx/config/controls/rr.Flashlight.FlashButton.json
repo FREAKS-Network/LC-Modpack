@@ -1,10 +1,10 @@
 {
-    "overrides": [
+   "overrides":[
       {
-        "action": "FlashKey",
-        "origPath": "<InputUtils-Kbm-Not-Bound>",
-        "path": "<InputUtils-Kbm-Not-Bound>",
-        "groups": "KeyboardAndMouse"
+         "action":"FlashKey",
+         "origPath":"<Keyboard>/f",
+         "path":"<Keyboard>/f",
+         "groups":"KeyboardAndMouse"
       }
-    ]
-  }
+   ]
+}

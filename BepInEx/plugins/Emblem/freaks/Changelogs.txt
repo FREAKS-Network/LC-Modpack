@@ -1,14 +1,24 @@
-<size=24><b>FREAKS Modpack EXPERIMENTAL 1.1.614</b></size>
+<size=24><b>FREAKS Modpack EXPERIMENTAL 1.0.620</b></size>
 <size=12>
 - <b>Removed mods:</b>
- - <color=#3c8aff>CursedScraps</color>
- - <color=#3c8aff>Emergency_Dice_Updated</color>
- - <color=#3c8aff>ghostCodes</color>
+ - <color=#3c8aff>MainMenuVersion</color>
+ - <color=#3c8aff>OpenBodyCams</color>
 - <b>Configuration:</b>
  - <color=#3c8aff>GeneralImprovements</color>
-  - Set <color=#959595>MinimumStartingMoney</color> value from <color=#959595>30</color> to <color=#959595>60</color>
+  - Set <color=#959595>ShipMapCamRotation</color> value from <color=#959595>North</color> to <color=#959595>None</color>
+  - Set <color=#959595>ShipMonitor9</color> value from <color=#959595>None</color> to <color=#959595>ExternalCam</color>
+  - Set <color=#959595>ShipMonitor12</color> value from <color=#959595>InternalCam</color> to <color=#959595>None</color>
+  - Set <color=#959595>SprintOnLadders</color> value from <color=#959595>None</color> to <color=#959595>NoDrain</color>
+ - <color=#3c8aff>HotbarPlus</color>
+  - Set <color=#959595>FixVanillaContainerDesyncBug</color> bool from <color=#959595>false</color> to <color=#959595>true</color>
+ - <color=#3c8aff>LethalThings</color>
+  - Set <color=#959595>TeleporterTraps</color> bool from <color=#959595>true</color> to <color=#959595>false</color>
+ - <color=#3c8aff>Mirage</color>
+  - Set <color=#959595>ChanceToRollAsStoreItem</color> value from <color=#959595>50</color> to <color=#959595>0</color>
+  - Set <color=#959595>ChanceToSpawnWithItem</color> value from <color=#959595>80</color> to <color=#959595>0</color>
 - <b>Other:</b>
+ - Compatibility with v70
  - Updated dependencies versions to latests
- - Updated <color=#959595>manifest.json</color>
+ - Updated <color=#959595>CHANGELOG.md</color>
  - Updated <color=#959595>README.md</color>
 </size>
