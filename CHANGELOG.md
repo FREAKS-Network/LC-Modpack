@@ -1,4 +1,14 @@
- # 6.2.0
+# 6.2.1
+
+- **Removed mods:**
+  - [BetterEmotes](https://new.thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
+    > Animations issues with the Company Cruiser and other stuff, again...
+- **Other:**
+  - Compatibility with v71
+  - Updated dependencies versions to latests
+  - Updated `README.md`
+
+# 6.2.0
 
 - **Removed mods:**
   - [MainMenuVersion](https://new.thunderstore.io/c/lethal-company/p/mrov/MainMenuVersion/)
