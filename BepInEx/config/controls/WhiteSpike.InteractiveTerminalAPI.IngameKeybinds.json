@@ -1,40 +1,40 @@
 {
     "overrides": [
-      {
-        "action": "UpgradeStoreCursorUpKey",
-        "origPath": "<Keyboard>/w",
-        "path": "<Keyboard>/w",
-        "groups": "KeyboardAndMouse"
-      },
-      {
-        "action": "UpgradeStoreCursorDownKey",
-        "origPath": "<Keyboard>/s",
-        "path": "<Keyboard>/s",
-        "groups": "KeyboardAndMouse"
-      },
-      {
-        "action": "UpgradeStorePageUpKey",
-        "origPath": "<Keyboard>/d",
-        "path": "<Keyboard>/d",
-        "groups": "KeyboardAndMouse"
-      },
-      {
-        "action": "UpgradeStorePageDownKey",
-        "origPath": "<Keyboard>/a",
-        "path": "<Keyboard>/a",
-        "groups": "KeyboardAndMouse"
-      },
-      {
-        "action": "LguStoreConfirmKey",
-        "origPath": "<Keyboard>/enter",
-        "path": "<Keyboard>/enter",
-        "groups": "KeyboardAndMouse"
-      },
-      {
-        "action": "ApplicationChangeSorting",
-        "origPath": "<Keyboard>/f",
-        "path": "<Keyboard>/f",
-        "groups": "KeyboardAndMouse"
-      }
+        {
+            "action": "UpgradeStoreCursorUpKey",
+            "origPath": "<Keyboard>/w",
+            "path": "<Keyboard>/w",
+            "groups": "KeyboardAndMouse"
+        },
+        {
+            "action": "UpgradeStoreCursorDownKey",
+            "origPath": "<Keyboard>/s",
+            "path": "<Keyboard>/s",
+            "groups": "KeyboardAndMouse"
+        },
+        {
+            "action": "UpgradeStorePageUpKey",
+            "origPath": "<Keyboard>/d",
+            "path": "<Keyboard>/d",
+            "groups": "KeyboardAndMouse"
+        },
+        {
+            "action": "UpgradeStorePageDownKey",
+            "origPath": "<Keyboard>/a",
+            "path": "<Keyboard>/a",
+            "groups": "KeyboardAndMouse"
+        },
+        {
+            "action": "LguStoreConfirmKey",
+            "origPath": "<Keyboard>/enter",
+            "path": "<Keyboard>/enter",
+            "groups": "KeyboardAndMouse"
+        },
+        {
+            "action": "ApplicationChangeSorting",
+            "origPath": "<Keyboard>/f",
+            "path": "<Keyboard>/f",
+            "groups": "KeyboardAndMouse"
+        }
     ]
-  }
+}

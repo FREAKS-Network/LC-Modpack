@@ -1,3 +1,17 @@
+# 1.0.621
+
+- **Added mods:**
+  - [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
+  - [WesleysInteriors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/)
+  - [Wesleys_Moons](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/)
+- **Removed mods:**
+  - [BetterEmotes](https://new.thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/)
+    > Animations issues with the Company Cruiser and other stuff, again...
+- **Other:**
+  - Compatibility with v71
+  - Updated dependencies versions to latests
+  - Updated `README.md`
+
 # 1.0.620
 
 - **Removed mods:**

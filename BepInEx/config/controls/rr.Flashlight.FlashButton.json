@@ -1,10 +1,10 @@
 {
-   "overrides":[
-      {
-         "action":"FlashKey",
-         "origPath":"<Keyboard>/f",
-         "path":"<Keyboard>/f",
-         "groups":"KeyboardAndMouse"
-      }
-   ]
+    "overrides": [
+        {
+            "action": "FlashKey",
+            "origPath": "<Keyboard>/f",
+            "path": "<Keyboard>/f",
+            "groups": "KeyboardAndMouse"
+        }
+    ]
 }

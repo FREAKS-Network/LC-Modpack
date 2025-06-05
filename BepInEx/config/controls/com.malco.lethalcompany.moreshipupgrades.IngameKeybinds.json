@@ -1,10 +1,10 @@
 {
-    "overrides":[
-       {
-          "action":"NvgKey",
-          "origPath":"<Keyboard>/n",
-          "path":"<Keyboard>/n",
-          "groups":"KeyboardAndMouse"
-       }
+    "overrides": [
+        {
+            "action": "NvgKey",
+            "origPath": "<Keyboard>/n",
+            "path": "<Keyboard>/n",
+            "groups": "KeyboardAndMouse"
+        }
     ]
- }
+}

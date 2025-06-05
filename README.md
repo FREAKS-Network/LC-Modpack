@@ -1,23 +1,24 @@
 ![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/experimental/.github/assets/img/banner.png)
 
-# ⚠️ Experimental version based on [FREAKS Modpack 6.2.0](https://new.thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/v/6.1.4) 
+# ⚠️ Experimental version based on [FREAKS Modpack 6.2.1](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/v/6.2.1) 
 > **The modpack may be unstable, he might be frequently updated based on our personal preferences for adding or removing mods. Use it at your own risk.** <br> If you're looking for a stable modpack, please use the main version [here](https://new.thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/).
 
 **This modpack has been primarily made for fun, introducing a lot of mods that significantly alter the vanilla-like experience that the main modpack aims to preserve. <br> It enriches the game with a variety of new features, including:**
 
-- A variety of new items, mobs, mechanics, store items, and player upgrades (Kidnapper Fox reintroduced!)
 - A casino at The Company Building (DID YOU KNOW THAT 90% OF GAMBLERS QUIT RIGHT BEFORE THEY HIT IT BIG?)
+- A variety of new items, mobs, mechanics, store items, and player upgrades (Kidnapper Fox reintroduced!)
+- A lot of new moons and new interiors to explore, with a story-line to follow across all the moons, starting with Galetry, a new, safe, Company related moon that hides some secrets
 - Configurable hotkeys for toggling **Flashlights** and **Talkie-Walkies** ON/OFF (<kbd>F</kbd> for Flashlights and <kbd>X</kbd> for Talkie-Walkies by default)
-- Custom emotes and suits, emotes are accessible using keybindings <kbd>1</kbd> to <kbd>0</kbd> or using the emote wheel with <kbd>V</kbd>
+- Custom and more colored suits
 - Dedicated inventory slots for **Flashlights** and **Talkie-Walkies**
-- Enhanced ship screens with stylized designs
+- Enhanced ship screens with styl ized designs
 - HUD enhancements:
   - Continuous display of total scrap value inside the ship and total indoor scrap count/value on the HUD
   - Display of death reasons on the report screen
   - Enhanced paycheck UI
   - Hidden chat
   - Item capacity bar for items like TZP, Weed Killer, Spray Paint, etc.
-  - Player health indicators
+  - Player health indicator
   - Precise stamina bar overlay
   - Stamina bar color changes reflecting the strength of the TZP effect
 - Increased hotbar scrolling speed
