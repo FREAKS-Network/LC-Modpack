@@ -1,3 +1,10 @@
+# 2.0.621
+
+- **Other:**
+  - Compatibility with v72
+  - Fixed version manifest
+  - Updated dependencies versions to latests
+
 # 1.0.621
 
 - **Added mods:**
