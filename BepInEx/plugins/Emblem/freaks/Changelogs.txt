@@ -1,9 +1,7 @@
-<size=24><b>FREAKS Modpack 6.2.1</b></size>
+<size=24><b>FREAKS Modpack 6.3.0</b></size>
 <size=12>
-- <b>Removed mods:</b>
- - <color=#3c8aff>BetterEmotes</color>
 - <b>Other:</b>
- - Compatibility with v71
+ - Compatibility with v73
  - Updated dependencies versions to latests
  - Updated <color=#959595>README.md</color>
 </size>

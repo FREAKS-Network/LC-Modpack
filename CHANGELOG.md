@@ -1,3 +1,10 @@
+# 6.3.0
+
+- **Other:**
+  - Compatibility with v73
+  - Updated dependencies versions to latests
+  - Updated `README.md`
+
 # 6.2.1
 
 - **Removed mods:**
