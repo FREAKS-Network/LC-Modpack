@@ -1,3 +1,10 @@
+# 2.1.630
+
+- **Other:**
+  - Compatibility with v73
+  - Updated dependencies versions to latests
+  - Updated `README.md`
+
 # 2.0.621
 
 - **Other:**

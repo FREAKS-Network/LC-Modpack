@@ -1,6 +1,5 @@
 {
-    "overrides": [
-        {
+    "overrides": [{
             "action": "FlashlightBinding",
             "origPath": "<Keyboard>/f",
             "path": "<Keyboard>/f",

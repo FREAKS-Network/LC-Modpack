@@ -1,13 +1,13 @@
 ![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/experimental/.github/assets/img/banner.png)
 
-# ⚠️ Experimental version based on [FREAKS Modpack 6.2.1](https://thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/v/6.2.1) 
-> **The modpack may be unstable, he might be frequently updated based on our personal preferences for adding or removing mods. Use it at your own risk.** <br> If you're looking for a stable modpack, please use the main version [here](https://new.thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/).
+# ⚠️ Experimental version based on [FREAKS Modpack 6.3.0](https://github.com/FREAKS-Network/LC-Modpack/releases/tag/6.3.0) 
+> **The modpack may be unstable and might be frequently updated based on our personal preferences for adding or removing mods. Use it at your own risk.** <br> If you're looking for a stable modpack, either don't update the modpack or use the main version [here](https://new.thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/).
 
 **This modpack has been primarily made for fun, introducing a lot of mods that significantly alter the vanilla-like experience that the main modpack aims to preserve. <br> It enriches the game with a variety of new features, including:**
 
 - A casino at The Company Building (DID YOU KNOW THAT 90% OF GAMBLERS QUIT RIGHT BEFORE THEY HIT IT BIG?)
 - A variety of new items, mobs, mechanics, store items, and player upgrades (Kidnapper Fox reintroduced!)
-- A lot of new moons and new interiors to explore, with a story-line to follow across all the moons, starting with Galetry, a new, safe, Company related moon that hides some secrets
+- A lot of new moons and new interiors to explore
 - Configurable hotkeys for toggling **Flashlights** and **Talkie-Walkies** ON/OFF (<kbd>F</kbd> for Flashlights and <kbd>X</kbd> for Talkie-Walkies by default)
 - Custom and more colored suits
 - Dedicated inventory slots for **Flashlights** and **Talkie-Walkies**
@@ -33,19 +33,21 @@
 
 ![installation.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/experimental/.github/assets/img/installation.png)
 
-Install and setup [r2modman](https://new.thunderstore.io/c/lethal-company/p/ebkr/r2modman/) or [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager), then click on the `Install with Mod Manager` button right above.
+Install and setup [GaleModManager](https://new.thunderstore.io/c/lethal-company/p/Kesomannen/GaleModManager/) or [r2modman](https://new.thunderstore.io/c/lethal-company/p/ebkr/r2modman/), then click on the `Install with Mod Manager` button right above or search the modpack's name using the mod browser in your mod manager.
 
-##### Remember to click the `Update all` button in the yellow banner within the `Installed` tab of your mod manager after installing the modpack. Do this each time you want to play Lethal Company with your friends using this modpack (they need to do it too)!
-
-> ###### Please note that whenever the modpack is updated, we recommend that you and your friends create a new profile using [r2modman](https://new.thunderstore.io/c/lethal-company/p/ebkr/r2modman/) or [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager). Reinstall the modpack from this webpage or through the mod browser in your mod manager to prevent conflicts between older and newer modpack updates.
+**Pro tip:** To avoid any issues when loading the game or joining a lobby, don't forget to check if any mods got updated, if they did, click the `Update all` button within the installed mods tab of your mod manager, that also counts when installing the modpack for the first time.
+<br>
+###### Please note that whenever the modpack gets updated, we recommend that you and your friends to create a new profile in your mod manager and then re-install the modpack from this webpage or through the mod browser in your mod manager to prevent conflicts between older and newer modpack updates.
 
 
 
 ![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/experimental/.github/assets/img/configuration.png)
 
-The modpack includes our recommended configurations for the mods. You can customize these settings using the `Config editor` tab in [r2modman](https://new.thunderstore.io/c/lethal-company/p/ebkr/r2modman/) or [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager), or by utilizing [LethalConfig](https://new.thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/) directly in the game.
+Our personnal and recommended configurations for all of the active mods are already pre-defined in the modpack, so we do not recommend anyone to change them, unless you really want to.
 
-**Disclaimer:** Server-sided mods must be enabled for all players joining a lobby hosted by someone using these mods. Disabling them can lead to de-sync issues, bugs, or prevent you from joining the lobby. Also, some mods rely on host-specific settings, so avoid modifying them unless you are certain of the changes.
+**Disclaimer:** Disabling certain mods or changing mods configs that are Host-Sided can lead to de-sync issues, bugs, or prevent you from joining a lobby, so avoid modifying them unless you are certain of the changes you've done.
+
+###### You can customize mods configs using the `Config editor` tab in either [GaleModManager](https://new.thunderstore.io/c/lethal-company/p/Kesomannen/GaleModManager/)/[r2modman](https://new.thunderstore.io/c/lethal-company/p/ebkr/r2modman/) or directly in-game.
 
 
 
@@ -59,8 +61,19 @@ Help us enhance our modpack! If you have any suggestions or encounter any bugs, 
 
 ![our_mods.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/experimental/.github/assets/img/our_mods.png)
 
-### Check out the other mods we made for Lethal Company!
+### Check out the other mods we made!
 
+#### 🎮 [Lethal Company](https://new.thunderstore.io/c/lethal-company/)
 | **[FREAKS Modpack](https://new.thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/)** | **[SuitsPlus](https://new.thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/)** |
 | :--------: | :--------: |
-| [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/icon.png" alt="freaks_modpack" width="200"/>](https://new.thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/) | [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/icon.png" alt="suits_plus" width="200"/>](https://new.thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) |
+| [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/master/icon.png" alt="freaks_modpack" width="200"/>](https://new.thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/) | [<img src="https://raw.githubusercontent.com/FREAKS-Network/LC-SuitsPlus/master/icon.png" alt="suitsplus" width="200"/>](https://new.thunderstore.io/c/lethal-company/p/FREAKS/SuitsPlus/) |
+
+#### 🎮 [R.E.P.O](https://new.thunderstore.io/c/repo/)
+| **[FREAKS Modpack](https://new.thunderstore.io/c/repo/p/FREAKS/FREAKS_Modpack_/)** |
+| :--------: |
+| [<img src="https://raw.githubusercontent.com/FREAKS-Network/REPO-Modpack/master/icon.png" alt="freaks_modpack" width="200"/>](https://new.thunderstore.io/c/repo/p/FREAKS/FREAKS_Modpack_/) |
+
+#### 🎮 [PEAK](https://new.thunderstore.io/c/peak/)
+| **[FREAKS Modpack](https://new.thunderstore.io/c/peak/p/FREAKS/FREAKS_Modpack__/)** |
+| :--------: |
+| [<img src="https://raw.githubusercontent.com/FREAKS-Network/PEAK-Modpack/master/icon.png" alt="freaks_modpack" width="200"/>](https://new.thunderstore.io/c/peak/p/FREAKS/FREAKS_Modpack__/) |

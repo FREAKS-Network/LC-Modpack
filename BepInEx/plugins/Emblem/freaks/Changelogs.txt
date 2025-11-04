@@ -1,13 +1,7 @@
-<size=24><b>FREAKS Modpack EXPERIMENTAL 1.0.621</b></size>
+<size=24><b>FREAKS Modpack EXPERIMENTAL 2.1.630</b></size>
 <size=12>
-- <b>Added mods:</b>
- - <color=#3c8aff>TerminalFormatter</color>
- - <color=#3c8aff>WesleysInteriors</color>
- - <color=#3c8aff>Wesleys_Moons</color>
-- <b>Removed mods:</b>
- - <color=#3c8aff>BetterEmotes</color>
 - <b>Other:</b>
- - Compatibility with v71
+ - Compatibility with v73
  - Updated dependencies versions to latests
  - Updated <color=#959595>README.md</color>
 </size>
