@@ -1,7 +1,0 @@
-<size=24><b>FREAKS Modpack 6.3.0</b></size>
-<size=12>
-- <b>Other:</b>
- - Compatibility with v73
- - Updated dependencies versions to latests
- - Updated <color=#959595>README.md</color>
-</size>

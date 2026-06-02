@@ -16,9 +16,7 @@
 - Increased hotbar scrolling speed
 - Mods fixing various issues in Lethal Company, including item clipping, de-sync, mob AI, and performance issues
 - Revamped spectator mode, adding a zoom/unzoom feature using <kbd>Scrollwheel Up</kbd>/<kbd>Scrollwheel Down</kbd>, a toggleable first-person view with <kbd>V</kbd>, and switchable **Flashlight Overlay** and **Nightvision Overlay** using <kbd>F</kbd> and <kbd>N</kbd> respectively
-- Synchronized skinwalker voices
 - Uncapped player limit, allowing for more than 32 players
-- And much more to discover...
 
 
 
