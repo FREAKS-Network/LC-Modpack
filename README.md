@@ -3,14 +3,15 @@
 **While this modpack aims to maintain a vanilla-like experience, it enriches the game with a variety of new features, including:**
 
 - Configurable hotkeys for toggling **Flashlights** and **Talkie-Walkies** ON/OFF (<kbd>F</kbd> for Flashlights and <kbd>X</kbd> for Talkie-Walkies by default)
-- Custom and more colored suits
+- More of colored and custom suits
+- Enhanced ship screens with stylized designs
 - HUD enhancements:
   - Continuous display of total scrap value inside the ship and total indoor scrap count/value on the HUD
-  - Display of death reasons on the report screen
+  - Display of various labels for each players at the end of a day (Total scrap amount, Total scrap value, etc...)
   - Enhanced paycheck UI
   - Hidden chat
   - Item capacity bar for items like TZP, Weed Killer, Spray Paint, etc.
-  - Player health indicator
+  - Player health indicator and total damage overlay enhancements
   - Precise stamina bar overlay
   - Stamina bar color changes reflecting the strength of the TZP effect
 - Increased hotbar scrolling speed

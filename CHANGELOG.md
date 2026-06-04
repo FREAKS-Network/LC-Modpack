@@ -1,22 +1,37 @@
+# 7.0.1
+
+- **Added mods:**
+ - [FontUpdate](https://thunderstore.io/c/lethal-company/p/rectorado/FontUpdate/)
+ - [NilsHUD](https://thunderstore.io/c/lethal-company/p/Nilaier/NilsHUD/)
+ - [Universal Radar](https://thunderstore.io/c/lethal-company/p/ScienceBird/Universal_Radar/)
+ - [BetterEXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
+ - [QualityCompany](https://thunderstore.io/c/lethal-company/p/Um_no/QualityCompany/)
+ - [RuntimeIcons](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/RuntimeIcons/)
+ - [VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)
+- **Other:**
+  - Fixed ship radar default rotation
+  - Fixed player suit save
+  - Updated `README.md`
+
 # 7.0.0
 
 - **Added mods:**
- - [Interactive Moon Catalogue Forked](https://thunderstore.io/c/lethal-company/p/SammySemicolon/Interactive_Moon_Catalogue_Forked/)
- - [Interactive Store](https://new.thunderstore.io/c/lethal-company/p/WhiteSpike/Interactive_Store/)
+  - [Interactive Moon Catalogue Forked](https://thunderstore.io/c/lethal-company/p/SammySemicolon/Interactive_Moon_Catalogue_Forked/)
+  - [Interactive Store](https://new.thunderstore.io/c/lethal-company/p/WhiteSpike/Interactive_Store/)
 - **Removed mods:**
- - [Loadstone](https://new.thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/)
- - [LethalSettings](https://new.thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/)
- - [LateCompany](https://new.thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
- - [LobbyImprovements](https://new.thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/)
- - [SuitSaver](https://new.thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
- - [AsyncLoggers](https://new.thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/)
- - [HideChat](https://new.thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)
- - [SellTracker](https://new.thunderstore.io/c/lethal-company/p/NutNutty/SellTracker/)
- - [Mirage](https://new.thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+  - [Loadstone](https://new.thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/)
+  - [LethalSettings](https://new.thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/)
+  - [LateCompany](https://new.thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
+  - [LobbyImprovements](https://new.thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/)
+  - [SuitSaver](https://new.thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
+  - [AsyncLoggers](https://new.thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/)
+  - [HideChat](https://new.thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)
+  - [SellTracker](https://new.thunderstore.io/c/lethal-company/p/NutNutty/SellTracker/)
+  - [Mirage](https://new.thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
 - **Other:**
- - Compatibility with v81
- - Updated dependencies versions to latests
- - Updated `README.md`
+  - Compatibility with v81
+  - Updated dependencies versions to latests
+  - Updated `README.md`
 
 # 6.3.0
 

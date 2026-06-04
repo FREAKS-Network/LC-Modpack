@@ -1,19 +1,14 @@
-<size=24><b>FREAKS Modpack 7.0.0</b></size>
+<size=24><b>FREAKS Modpack 7.0.1</b></size>
 <size=12>
 - <b>Added mods:</b>
- - <color=#3c8aff>Interactive Store</color>
- - <color=#3c8aff>Interactive Moon Catalogue Forked</color>
-- <b>Removed mods:</b>
- - <color=#3c8aff>Loadstone</color>
- - <color=#3c8aff>LethalSettings</color>
- - <color=#3c8aff>LateCompany</color>
- - <color=#3c8aff>LobbyImprovements</color>
- - <color=#3c8aff>SuitSaver</color>
- - <color=#3c8aff>AsyncLoggers</color>
- - <color=#3c8aff>HideChat</color>
- - <color=#3c8aff>SellTracker</color>
- - <color=#3c8aff>Mirage</color>
-- <b>Other:</b>
- - Compatibility with v81
- - Updated dependencies versions to latests
+ - <color=#3c8aff>FontUpdate</color>
+ - <color=#3c8aff>NilsHUD</color>
+ - <color=#3c8aff>Universal Radar</color>
+ - <color=#3c8aff>BetterEXP</color>
+ - <color=#3c8aff>QualityCompany</color>
+ - <color=#3c8aff>VoiceHUD</color>
+- <b>Others</b>
+ - Fixed ship radar default rotation
+ - Fixed player suit save
+ - Updated <color=#959595>README.md</color>
 </size>
