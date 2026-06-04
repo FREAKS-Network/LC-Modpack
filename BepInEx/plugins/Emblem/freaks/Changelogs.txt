@@ -1,7 +1,46 @@
-<size=24><b>FREAKS Modpack EXPERIMENTAL 2.1.630</b></size>
+<size=24><b>FREAKS Modpack EXP-3.0.700</b></size>
 <size=12>
+- <b>Added mods:</b>
+ - <color=#3c8aff>Interactive Store</color>
+ - <color=#3c8aff>Interactive Moon Catalogue Forked</color>
+ - <color=#3c8aff>VeryLateCompany</color>
+ - <color=#3c8aff>VoiceHUD</color>
+ - <color=#3c8aff>BetterEXP</color>
+ - <color=#3c8aff>JetpackWarning</color>
+ - <color=#3c8aff>Universal Radar</color>
+ - <color=#3c8aff>RuntimeIcons</color>
+ - <color=#3c8aff>LethalHands</color>
+ - <color=#3c8aff>Hitmarker</color>
+ - <color=#3c8aff>NilsHUD</color>
+ - <color=#3c8aff>Rats</color>
+ - <color=#3c8aff>WiseWeapons</color>
+ - <color=#3c8aff>FontUpdate</color>
+ - <color=#3c8aff>QualityCompany</color>
+- <b>Removed mods:</b>
+ - <color=#3c8aff>Loadstone</color>
+ - <color=#3c8aff>LethalSettings</color>
+ - <color=#3c8aff>LateCompany</color>
+ - <color=#3c8aff>LobbyImprovements</color>
+ - <color=#3c8aff>SuitSaver</color>
+ - <color=#3c8aff>AsyncLoggers</color>
+ - <color=#3c8aff>HideChat</color>
+ - <color=#3c8aff>SellTracker</color>
+ - <color=#3c8aff>Mirage</color>
+ - <color=#3c8aff>LetTheDeadRest</color>
+ - <color=#3c8aff>MoreBlood</color>
+ - <color=#3c8aff>Groan Tube Scrap</color>
+ - <color=#3c8aff>YesFox</color>
+ - <color=#3c8aff>Lategame Upgrades</color>
+ - <color=#3c8aff>LethalFixes</color>
+ - <color=#3c8aff>TerminalFormatter</color>
+ - <color=#3c8aff>WesleysInteriors</color>
+ - <color=#3c8aff>Wesleys Moons</color>
+ - <color=#3c8aff>KarmaForBeingAnnoying</color>
+ - <color=#3c8aff>WalkieUse</color>
+ - <color=#3c8aff>FlashlightToggle</color>
+ - <color=#3c8aff>YippeeMod</color>
+ - <color=#3c8aff>LethalPosters</color>
 - <b>Other:</b>
- - Compatibility with v73
+ - Compatibility with v81
  - Updated dependencies versions to latests
- - Updated <color=#959595>README.md</color>
 </size>

@@ -1,3 +1,49 @@
+# 3.0.700
+
+- **Added mods:**
+  - [Interactive Moon Catalogue Forked](https://thunderstore.io/c/lethal-company/p/SammySemicolon/Interactive_Moon_Catalogue_Forked/)
+  - [Interactive Store](https://new.thunderstore.io/c/lethal-company/p/WhiteSpike/Interactive_Store/)
+  - [VeryLateCompany](https://thunderstore.io/c/lethal-company/p/LTGVE/VeryLateCompany/)
+  - [VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)
+  - [BetterEXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
+  - [JetpackWarning](https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackWarning/)
+  - [Universal Radar](https://thunderstore.io/c/lethal-company/p/ScienceBird/Universal_Radar/)
+  - [RuntimeIcons](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/RuntimeIcons/)
+  - [LethalHands](https://thunderstore.io/c/lethal-company/p/SlapItNow/LethalHands/)
+  - [Hitmarker](https://thunderstore.io/c/lethal-company/p/Zehs/Hitmarker/)
+  - [NilsHUD](https://thunderstore.io/c/lethal-company/p/Nilaier/NilsHUD/)
+  - [Rats](https://thunderstore.io/c/lethal-company/p/Snowlance/Rats/)
+  - [WiseWeapons](https://thunderstore.io/c/lethal-company/p/DuskWise/WiseWeapons/)
+  - [FontUpdate](https://thunderstore.io/c/lethal-company/p/rectorado/FontUpdate/)
+  - [QualityCompany](https://thunderstore.io/c/lethal-company/p/Um_no/QualityCompany/)
+- **Removed mods:**
+  - [Loadstone](https://new.thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/)
+  - [LethalSettings](https://new.thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/)
+  - [LateCompany](https://new.thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
+  - [LobbyImprovements](https://new.thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/)
+  - [AsyncLoggers](https://new.thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/)
+  - [HideChat](https://new.thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/)
+  - [SellTracker](https://new.thunderstore.io/c/lethal-company/p/NutNutty/SellTracker/)
+  - [Mirage](https://new.thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+  - [LetTheDeadRest](https://thunderstore.io/c/lethal-company/p/dummy/LetTheDeadRest/)
+  - [MoreBlood](https://thunderstore.io/c/lethal-company/p/FlipMods/MoreBlood/)
+  - [Groan Tube Scrap](https://thunderstore.io/c/lethal-company/p/Kittenji/Groan_Tube_Scrap/)
+  - [YesFox](https://thunderstore.io/c/lethal-company/p/Dev1A3/YesFox/)
+  - [Lategame Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
+  - [LethalFixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/)
+  - [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
+  - [WesleysInteriors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/)
+  - [Wesleys Moons](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/)
+  - [KarmaForBeingAnnoying](https://thunderstore.io/c/lethal-company/p/CTMods/KarmaForBeingAnnoying/)
+  - [WalkieUse](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/)
+  - [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
+  - [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
+  - [LethalPosters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/)
+- **Other:**
+  - Compatibility with v81
+  - Updated dependencies versions to latests
+  - Updated `README.md`
+
 # 2.1.630
 
 - **Other:**

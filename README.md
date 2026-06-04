@@ -1,20 +1,19 @@
 ![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/experimental/.github/assets/img/banner.png)
 
-# ⚠️ Experimental version based on [FREAKS Modpack 6.3.0](https://github.com/FREAKS-Network/LC-Modpack/releases/tag/6.3.0) 
+# ⚠️ Experimental version based on [FREAKS Modpack 7.0.0](https://github.com/FREAKS-Network/LC-Modpack/releases/tag/7.0.0) 
 > **The modpack may be unstable and might be frequently updated based on our personal preferences for adding or removing mods. Use it at your own risk.** <br> If you're looking for a stable modpack, either don't update the modpack or use the main version [here](https://new.thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/).
 
 **This modpack has been primarily made for fun, introducing a lot of mods that significantly alter the vanilla-like experience that the main modpack aims to preserve. <br> It enriches the game with a variety of new features, including:**
 
 - A casino at The Company Building (DID YOU KNOW THAT 90% OF GAMBLERS QUIT RIGHT BEFORE THEY HIT IT BIG?)
-- A variety of new items, mobs, mechanics, store items, and player upgrades (Kidnapper Fox reintroduced!)
-- A lot of new moons and new interiors to explore
+- A variety of new items, mobs, mechanics and store items
 - Configurable hotkeys for toggling **Flashlights** and **Talkie-Walkies** ON/OFF (<kbd>F</kbd> for Flashlights and <kbd>X</kbd> for Talkie-Walkies by default)
-- Custom and more colored suits
 - Dedicated inventory slots for **Flashlights** and **Talkie-Walkies**
+- More of colored and custom suits
 - Enhanced ship screens with styl ized designs
 - HUD enhancements:
   - Continuous display of total scrap value inside the ship and total indoor scrap count/value on the HUD
-  - Display of death reasons on the report screen
+  - Display of various labels for each players at the end of a day (Total scrap amount, Total scrap value, etc...) 
   - Enhanced paycheck UI
   - Hidden chat
   - Item capacity bar for items like TZP, Weed Killer, Spray Paint, etc.
@@ -25,9 +24,7 @@
 - Mods fixing various issues in Lethal Company, including item clipping, de-sync, mob AI, and performance issues
 - Revamped spectator mode, adding a zoom/unzoom feature using <kbd>Scrollwheel Up</kbd>/<kbd>Scrollwheel Down</kbd>, a toggleable first-person view with <kbd>V</kbd>, and switchable **Flashlight Overlay** and **Nightvision Overlay** using <kbd>F</kbd> and <kbd>N</kbd> respectively
 - Ship's furnitures available for purchase in the store at any time
-- Synchronized skinwalker voices
 - Uncapped player limit, allowing for more than 32 players
-- And much more to discover...
 
 
 
