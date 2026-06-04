@@ -1,9 +1,9 @@
 # 3.1.701
 
 - **Other:**
- - Fixed stale keybindings
- - Fixed/Removed stale configs
- - Fixed a few other things I broke after forgetting my own workflow for updating LC modpacks
+  - Fixed stale keybindings
+  - Fixed/Removed stale configs
+  - Fixed a few other things I broke after forgetting my own workflow for updating LC modpacks
 
 # 3.0.700
 
