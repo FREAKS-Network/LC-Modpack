@@ -1,3 +1,11 @@
+<size=24><b>FREAKS Modpack EXP-3.1.701</b></size>
+<size=12>
+- <b>Other:</b>
+ - Fixed stale keybindings
+ - Fixed/Removed stale configs
+ - Fixed a few other things I broke after forgetting my own workflow for updating LC modpacks
+</size>
+
 <size=24><b>FREAKS Modpack EXP-3.0.700</b></size>
 <size=12>
 - <b>Added mods:</b>

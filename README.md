@@ -1,6 +1,6 @@
 ![banner.png](https://raw.githubusercontent.com/FREAKS-Network/LC-Modpack/experimental/.github/assets/img/banner.png)
 
-# ⚠️ Experimental version based on [FREAKS Modpack 7.0.0](https://github.com/FREAKS-Network/LC-Modpack/releases/tag/7.0.0) 
+# ⚠️ Experimental version based on [FREAKS Modpack 7.0.1](https://github.com/FREAKS-Network/LC-Modpack/releases/tag/7.0.1) 
 > **The modpack may be unstable and might be frequently updated based on our personal preferences for adding or removing mods. Use it at your own risk.** <br> If you're looking for a stable modpack, either don't update the modpack or use the main version [here](https://new.thunderstore.io/c/lethal-company/p/FREAKS/FREAKS_Modpack/).
 
 **This modpack has been primarily made for fun, introducing a lot of mods that significantly alter the vanilla-like experience that the main modpack aims to preserve. <br> It enriches the game with a variety of new features, including:**
@@ -10,7 +10,7 @@
 - Configurable hotkeys for toggling **Flashlights** and **Talkie-Walkies** ON/OFF (<kbd>F</kbd> for Flashlights and <kbd>X</kbd> for Talkie-Walkies by default)
 - Dedicated inventory slots for **Flashlights** and **Talkie-Walkies**
 - More of colored and custom suits
-- Enhanced ship screens with styl ized designs
+- Enhanced ship screens with stylized designs
 - HUD enhancements:
   - Continuous display of total scrap value inside the ship and total indoor scrap count/value on the HUD
   - Display of various labels for each players at the end of a day (Total scrap amount, Total scrap value, etc...) 
