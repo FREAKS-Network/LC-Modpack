@@ -1,13 +1,13 @@
 # 7.0.1
 
 - **Added mods:**
- - [FontUpdate](https://thunderstore.io/c/lethal-company/p/rectorado/FontUpdate/)
- - [NilsHUD](https://thunderstore.io/c/lethal-company/p/Nilaier/NilsHUD/)
- - [Universal Radar](https://thunderstore.io/c/lethal-company/p/ScienceBird/Universal_Radar/)
- - [BetterEXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
- - [QualityCompany](https://thunderstore.io/c/lethal-company/p/Um_no/QualityCompany/)
- - [RuntimeIcons](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/RuntimeIcons/)
- - [VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)
+  - [FontUpdate](https://thunderstore.io/c/lethal-company/p/rectorado/FontUpdate/)
+  - [NilsHUD](https://thunderstore.io/c/lethal-company/p/Nilaier/NilsHUD/)
+  - [Universal Radar](https://thunderstore.io/c/lethal-company/p/ScienceBird/Universal_Radar/)
+  - [BetterEXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
+  - [QualityCompany](https://thunderstore.io/c/lethal-company/p/Um_no/QualityCompany/)
+  - [RuntimeIcons](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/RuntimeIcons/)
+  - [VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)
 - **Other:**
   - Fixed ship radar default rotation
   - Fixed player suit save
